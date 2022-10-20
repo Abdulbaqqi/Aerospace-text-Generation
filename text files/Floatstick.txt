@@ -1,0 +1,5 @@
+Floatstick
+A floatstick is a device to measure fuel levels in modern large aircraft. It consists of a closed tube rising from the bottom of the fuel tank. Surrounding the tube is a ring-shaped float, and inside it is a graduated rod indicating fuel capacity. The float and the top of the rod contain magnets. The rod is withdrawn from the bottom of the wing until the magnets stick, the distance it is withdrawn indicating the level of the fuel.
+
+When not in use, the stick is secured within the tube.
+

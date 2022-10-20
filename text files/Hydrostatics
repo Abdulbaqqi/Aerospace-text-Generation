@@ -1,0 +1,210 @@
+Hydrostatics
+
+Fluid statics or hydrostatics is the branch of fluid mechanics that studies the condition of the equilibrium of a floating body and submerged body "fluids at hydrostatic equilibrium and the pressure in a fluid, or exerted by a fluid, on an immersed body".
+
+It encompasses the study of the conditions under which fluids are at rest in stable equilibrium as opposed to fluid dynamics, the study of fluids in motion. Hydrostatics is a subcategory of fluid statics, which is the study of all fluids, both compressible or incompressible, at rest.
+
+Hydrostatics is fundamental to hydraulics, the engineering of equipment for storing, transporting and using fluids. It is also relevant to geophysics and astrophysics (for example, in understanding plate tectonics and the anomalies of the Earth's gravitational field), to meteorology, to medicine (in the context of blood pressure), and many other fields.
+
+Hydrostatics offers physical explanations for many phenomena of everyday life, such as why atmospheric pressure changes with altitude, why wood and oil float on water, and why the surface of still water is always level according to the curvature of the earth.
+
+History
+
+Some principles of hydrostatics have been known in an empirical and intuitive sense since antiquity, by the builders of boats, cisterns, aqueducts and fountains. Archimedes is credited with the discovery of Archimedes' Principle, which relates the buoyancy force on an object that is submerged in a fluid to the weight of fluid displaced by the object. The Roman engineer Vitruvius warned readers about lead pipes bursting under hydrostatic pressure.
+
+The concept of pressure and the way it is transmitted by fluids was formulated by the French mathematician and philosopher Blaise Pascal in 1647.
+
+Hydrostatics in ancient Greece and Rome
+
+Pythagorean Cup
+
+Main article: Pythagorean cup
+The "fair cup" or Pythagorean cup, which dates from about the 6th century BC, is a hydraulic technology whose invention is credited to the Greek mathematician and geometer Pythagoras. It was used as a learning tool..
+
+The cup consists of a line carved into the interior of the cup, and a small vertical pipe in the center of the cup that leads to the bottom. The height of this pipe is the same as the line carved into the interior of the cup. The cup may be filled to the line without any fluid passing into the pipe in the center of the cup. However, when the amount of fluid exceeds this fill line, fluid will overflow into the pipe in the center of the cup. Due to the drag that molecules exert on one another, the cup will be emptied.
+
+Heron's fountain
+
+Main article: Heron's fountain
+Heron's fountain is a device invented by Heron of Alexandria that consists of a jet of fluid being fed by a reservoir of fluid. The fountain is constructed in such a way that the height of the jet exceeds the height of the fluid in the reservoir, apparently in violation of principles of hydrostatic pressure. The device consisted of an opening and two containers arranged one above the other. The intermediate pot, which was sealed, was filled with fluid, and several cannula (a small tube for transferring fluid between vessels) connecting the various vessels. Trapped air inside the vessels induces a jet of water out of a nozzle, emptying all water from the intermediate reservoir..
+
+Pascal's contribution in hydrostatics
+
+Main article: Pascal's Law
+Pascal made contributions to developments in both hydrostatics and hydrodynamics. Pascal's Law is a fundamental principle of fluid mechanics that states that any pressure applied to the surface of a fluid is transmitted uniformly throughout the fluid in all directions, in such a way that initial variations in pressure are not changed.
+
+Pressure in fluids at rest
+
+Due to the fundamental nature of fluids, a fluid cannot remain at rest under the presence of a shear stress. However, fluids can exert pressure normal to any contacting surface. If a point in the fluid is thought of as an infinitesimally small cube, then it follows from the principles of equilibrium that the pressure on every side of this unit of fluid must be equal. If this were not the case, the fluid would move in the direction of the resulting force. Thus, the pressure on a fluid at rest is isotropic; i.e., it acts with equal magnitude in all directions. This characteristic allows fluids to transmit force through the length of pipes or tubes; i.e., a force applied to a fluid in a pipe is transmitted, via the fluid, to the other end of the pipe. This principle was first formulated, in a slightly extended form, by Blaise Pascal, and is now called Pascal's law..
+
+Hydrostatic pressure
+
+
+In a fluid at rest, all frictional and inertial stresses vanish and the state of stress of the system is called hydrostatic. When this condition of V = 0 is applied to the Navier–Stokes equations, the gradient of pressure becomes a function of body forces only. For a barotropic fluid in a conservative force field like a gravitational force field, the pressure exerted by a fluid at equilibrium becomes a function of force exerted by gravity.
+
+The hydrostatic pressure can be determined from a control volume analysis of an infinitesimally small cube of fluid. Since pressure is defined as the force exerted on a test area (p = 
+F
+/
+A
+, with p: pressure, F: force normal to area A, A: area), and the only force acting on any such small cube of fluid is the weight of the fluid column above it, hydrostatic pressure can be calculated according to the following formula:
+
+{\displaystyle p(z)-p(z_{0})={\frac {1}{A}}\int _{z_{0}}^{z}dz'\iint _{A}dx'dy'\,\rho (z')g(z')=\int _{z_{0}}^{z}dz'\,\rho (z')g(z'),}{\displaystyle p(z)-p(z_{0})={\frac {1}{A}}\int _{z_{0}}^{z}dz'\iint _{A}dx'dy'\,\rho (z')g(z')=\int _{z_{0}}^{z}dz'\,\rho (z')g(z'),}
+where:
+
+p is the hydrostatic pressure (Pa),
+ρ is the fluid density (kg/m3),
+g is gravitational acceleration (m/s2),
+A is the test area (m2),
+z is the height (parallel to the direction of gravity) of the test area (m),
+z0 is the height of the zero reference point of the pressure (m).
+For water and other liquids, this integral can be simplified significantly for many practical applications, based on the following two assumptions: Since many liquids can be considered incompressible, a reasonable good estimation can be made from assuming a constant density throughout the liquid. (The same assumption cannot be made within a gaseous environment.) Also, since the height h of the fluid column between z and z0 is often reasonably small compared to the radius of the Earth, one can neglect the variation of g. Under these circumstances, the integral is simplified into the formula:
+
+{\displaystyle p-p_{0}=\rho gh,}{\displaystyle p-p_{0}=\rho gh,}
+where h is the height z − z0 of the liquid column between the test volume and the zero reference point of the pressure. This formula is often called Stevin's law.[4][5] Note that this reference point should lie at or below the surface of the liquid. Otherwise, one has to split the integral into two (or more) terms with the constant ρliquid and ρ(z′)above. For example, the absolute pressure compared to vacuum is:
+
+{\displaystyle p=\rho gH+p_{\mathrm {atm} },}{\displaystyle p=\rho gH+p_{\mathrm {atm} },}
+where H is the total height of the liquid column above the test area to the surface, and patm is the atmospheric pressure, i.e., the pressure calculated from the remaining integral over the air column from the liquid surface to infinity. This can easily be visualized using a pressure prism.
+
+Hydrostatic pressure has been used in the preservation of foods in a process called pascalization.
+
+Medicine
+
+In medicine, hydrostatic pressure in blood vessels is the pressure of the blood against the wall. It is the opposing force to oncotic pressure..
+
+Atmospheric pressure
+
+Statistical mechanics shows that, for a pure ideal gas of constant temperature in a gravitational field, T, its pressure, p will vary with height, h, as:
+
+{\displaystyle p(h)=p(0)e^{-{\frac {Mgh}{kT}}}}{\displaystyle p(h)=p(0)e^{-{\frac {Mgh}{kT}}}}
+where:
+
+g is the acceleration due to gravity
+T is the absolute temperature
+k is Boltzmann constant
+M is the mass of a single molecule of gas
+p is the pressure
+h is the height
+This is known as the barometric formula, and maybe derived from assuming the pressure is hydrostatic.
+
+If there are multiple types of molecules in the gas, the partial pressure of each type will be given by this equation. Under most conditions, the distribution of each species of gas is independent of the other species.
+
+Buoyancy
+
+Main article: Buoyancy
+Any body of arbitrary shape which is immersed, partly or fully, in a fluid will experience the action of a net force in the opposite direction of the local pressure gradient. If this pressure gradient arises from gravity, the net force is in the vertical direction opposite that of the gravitational force. This vertical force is termed buoyancy or buoyant force and is equal in magnitude, but opposite in direction, to the weight of the displaced fluid. Mathematically,
+
+{\displaystyle F=\rho gV}F = \rho g V 
+where ρ is the density of the fluid, g is the acceleration due to gravity, and V is the volume of fluid directly above the curved surface.[7] In the case of a ship, for instance, its weight is balanced by pressure forces from the surrounding water, allowing it to float. If more cargo is loaded onto the ship, it would sink more into the water – displacing more water and thus receive a higher buoyant force to balance the increased weight..
+
+Discovery of the principle of buoyancy is attributed to Archimedes.
+
+Hydrostatic force on submerged surfaces
+
+The horizontal and vertical components of the hydrostatic force acting on a submerged surface are given by the following:[7]
+
+{\displaystyle {\begin{aligned}F_{\mathrm {h} }&=p_{\mathrm {c} }A\\F_{\mathrm {v} }&=\rho gV\end{aligned}}}{\displaystyle {\begin{aligned}F_{\mathrm {h} }&=p_{\mathrm {c} }A\\F_{\mathrm {v} }&=\rho gV\end{aligned}}}
+where:
+
+pc is the pressure at the centroid of the vertical projection of the submerged surface
+A is the area of the same vertical projection of the surface
+ρ is the density of the fluid
+g is the acceleration due to gravity
+V is the volume of fluid directly above the curved surface
+Liquids (fluids with free surfaces)
+
+Liquids can have free surfaces at which they interface with gases, or with a vacuum. In general, the lack of the ability to sustain a shear stress entails that free surfaces rapidly adjust towards an equilibrium. However, on small length scales, there is an important balancing force from surface tension.
+
+Capillary action
+
+When liquids are constrained in vessels whose dimensions are small, compared to the relevant length scales, surface tension effects become important leading to the formation of a meniscus through capillary action. This capillary action has profound consequences for biological systems as it is part of one of the two driving mechanisms of the flow of water in plant xylem, the transpirational pull.
+
+Hanging drops
+
+Without surface tension, drops would not be able to form. The dimensions and stability of drops are determined by surface tension. The drop's surface tension is directly proportional to the cohesion property of the fluid.
+
+<|endotxt|>
+
+Hyperbolic partial differential equation
+
+In mathematics, a hyperbolic partial differential equation of order {\displaystyle n}n is a partial differential equation (PDE) that, roughly speaking, has a well-posed initial value problem for the first {\displaystyle n-1}n-1 derivatives. More precisely, the Cauchy problem can be locally solved for arbitrary initial data along any non-characteristic hypersurface. Many of the equations of mechanics are hyperbolic, and so the study of hyperbolic equations is of substantial contemporary interest. The model hyperbolic equation is the wave equation. In one spatial dimension, this is
+
+{\displaystyle {\frac {\partial ^{2}u}{\partial t^{2}}}=c^{2}{\frac {\partial ^{2}u}{\partial x^{2}}}}{\displaystyle {\frac {\partial ^{2}u}{\partial t^{2}}}=c^{2}{\frac {\partial ^{2}u}{\partial x^{2}}}}
+The equation has the property that, if u and its first time derivative are arbitrarily specified initial data on the line t = 0 (with sufficient smoothness properties), then there exists a solution for all time t.
+
+The solutions of hyperbolic equations are "wave-like". If a disturbance is made in the initial data of a hyperbolic differential equation, then not every point of space feels the disturbance at once. Relative to a fixed time coordinate, disturbances have a finite propagation speed. They travel along the characteristics of the equation. This feature qualitatively distinguishes hyperbolic equations from elliptic partial differential equations and parabolic partial differential equations. A perturbation of the initial (or boundary) data of an elliptic or parabolic equation is felt at once by essentially all points in the domain.
+
+Although the definition of hyperbolicity is fundamentally a qualitative one, there are precise criteria that depend on the particular kind of differential equation under consideration. There is a well-developed theory for linear differential operators, due to Lars Gårding, in the context of microlocal analysis. Nonlinear differential equations are hyperbolic if their linearizations are hyperbolic in the sense of Gårding. There is a somewhat different theory for first order systems of equations coming from systems of conservation laws.
+
+Definition
+
+A partial differential equation is hyperbolic at a point {\displaystyle P}P provided that the Cauchy problem is uniquely solvable in a neighborhood of {\displaystyle P}P for any initial data given on a non-characteristic hypersurface passing through {\displaystyle P}P.[1] Here the prescribed initial data consist of all (transverse) derivatives of the function on the surface up to one less than the order of the differential equation.
+
+Examples
+
+By a linear change of variables, any equation of the form
+
+{\displaystyle A{\frac {\partial ^{2}u}{\partial x^{2}}}+2B{\frac {\partial ^{2}u}{\partial x\partial y}}+C{\frac {\partial ^{2}u}{\partial y^{2}}}+{\text{(lower order derivative terms)}}=0}{\displaystyle A{\frac {\partial ^{2}u}{\partial x^{2}}}+2B{\frac {\partial ^{2}u}{\partial x\partial y}}+C{\frac {\partial ^{2}u}{\partial y^{2}}}+{\text{(lower order derivative terms)}}=0}
+with
+
+{\displaystyle B^{2}-AC>0}{\displaystyle B^{2}-AC>0}
+can be transformed to the wave equation, apart from lower order terms which are inessential for the qualitative understanding of the equation.[2]: 400  This definition is analogous to the definition of a planar hyperbola.
+
+The one-dimensional wave equation:
+
+{\displaystyle {\frac {\partial ^{2}u}{\partial t^{2}}}-c^{2}{\frac {\partial ^{2}u}{\partial x^{2}}}=0}\frac{\partial^2 u}{\partial t^2} - c^2\frac{\partial^2 u}{\partial x^2} = 0
+is an example of a hyperbolic equation. The two-dimensional and three-dimensional wave equations also fall into the category of hyperbolic PDE. This type of second-order hyperbolic partial differential equation may be transformed to a hyperbolic system of first-order differential equations.[2]: 402 
+
+Hyperbolic system of partial differential equations
+
+EditThe following is a system of {\displaystyle s}s first order partial differential equations for {\displaystyle s}s unknown functions {\displaystyle {\vec {u}}=(u_{1},\ldots ,u_{s})} \vec u = (u_1, \ldots, u_s) , {\displaystyle {\vec {u}}={\vec {u}}({\vec {x}},t)} \vec u =\vec u (\vec x,t), where {\displaystyle {\vec {x}}\in \mathbb {R} ^{d}}\vec x \in \mathbb{R}^d:
+
+{\displaystyle {\frac {\partial {\vec {u}}}{\partial t}}+\sum _{j=1}^{d}{\frac {\partial }{\partial x_{j}}}{\vec {f^{j}}}({\vec {u}})=0,}{\displaystyle {\frac {\partial {\vec {u}}}{\partial t}}+\sum _{j=1}^{d}{\frac {\partial }{\partial x_{j}}}{\vec {f^{j}}}({\vec {u}})=0,}
+ 
+
+ 
+
+ 
+
+ 
+
+(∗)
+
+where {\displaystyle {\vec {f^{j}}}\in C^{1}(\mathbb {R} ^{s},\mathbb {R} ^{s}),j=1,\ldots ,d}\vec {f^j} \in C^1(\mathbb{R}^s, \mathbb{R}^s), j = 1, \ldots, d are once continuously differentiable functions, nonlinear in general.
+
+Next, for each {\displaystyle {\vec {f^{j}}}}\vec {f^j} define the {\displaystyle s\times s}s \times s Jacobian matrix
+
+{\displaystyle A^{j}:={\begin{pmatrix}{\frac {\partial f_{1}^{j}}{\partial u_{1}}}&\cdots &{\frac {\partial f_{1}^{j}}{\partial u_{s}}}\\\vdots &\ddots &\vdots \\{\frac {\partial f_{s}^{j}}{\partial u_{1}}}&\cdots &{\frac {\partial f_{s}^{j}}{\partial u_{s}}}\end{pmatrix}},{\text{ for }}j=1,\ldots ,d.}A^j:=
+\begin{pmatrix} \frac{\partial f_1^j}{\partial u_1} & \cdots & \frac{\partial f_1^j}{\partial u_s} \\
+\vdots & \ddots & \vdots \\
+\frac{\partial f_s^j}{\partial u_1} & \cdots &
+\frac{\partial f_s^j}{\partial u_s}
+\end{pmatrix}
+,\text{ for }j = 1, \ldots, d.
+The system (∗) is hyperbolic if for all {\displaystyle \alpha _{1},\ldots ,\alpha _{d}\in \mathbb {R} }\alpha_1, \ldots, \alpha_d \in \mathbb{R} the matrix {\displaystyle A:=\alpha _{1}A^{1}+\cdots +\alpha _{d}A^{d}}A := \alpha_1 A^1 + \cdots + \alpha_d A^d has only real eigenvalues and is diagonalizable.
+
+If the matrix {\displaystyle A}A has s distinct real eigenvalues, it follows that it is diagonalizable. In this case the system (∗) is called strictly hyperbolic.
+
+If the matrix {\displaystyle A}A is symmetric, it follows that it is diagonalizable and the eigenvalues are real. In this case the system (∗) is called symmetric hyperbolic.
+
+Hyperbolic system and conservation laws
+
+There is a connection between a hyperbolic system and a conservation law. Consider a hyperbolic system of one partial differential equation for one unknown function {\displaystyle u=u({\vec {x}},t)}u = u(\vec x, t). Then the system (∗) has the form
+
+{\displaystyle {\frac {\partial u}{\partial t}}+\sum _{j=1}^{d}{\frac {\partial }{\partial x_{j}}}{f^{j}}(u)=0.}{\displaystyle {\frac {\partial u}{\partial t}}+\sum _{j=1}^{d}{\frac {\partial }{\partial x_{j}}}{f^{j}}(u)=0.}
+ 
+
+ 
+
+ 
+
+ 
+
+(∗∗)
+
+Here, {\displaystyle u}u can be interpreted as a quantity that moves around according to the flux given by {\displaystyle {\vec {f}}=(f^{1},\ldots ,f^{d})}\vec f = (f^1, \ldots, f^d). To see that the quantity {\displaystyle u}u is conserved, integrate (∗∗) over a domain {\displaystyle \Omega }\Omega 
+
+{\displaystyle \int _{\Omega }{\frac {\partial u}{\partial t}}\,d\Omega +\int _{\Omega }\nabla \cdot {\vec {f}}(u)\,d\Omega =0.}{\displaystyle \int _{\Omega }{\frac {\partial u}{\partial t}}\,d\Omega +\int _{\Omega }\nabla \cdot {\vec {f}}(u)\,d\Omega =0.}
+If {\displaystyle u}u and {\displaystyle {\vec {f}}}\vec f are sufficiently smooth functions, we can use the divergence theorem and change the order of the integration and {\displaystyle \partial /\partial t}\partial / \partial t to get a conservation law for the quantity {\displaystyle u}u in the general form
+
+{\displaystyle {\frac {d}{dt}}\int _{\Omega }u\,d\Omega +\int _{\partial \Omega }{\vec {f}}(u)\cdot {\vec {n}}\,d\Gamma =0,}{\displaystyle {\frac {d}{dt}}\int _{\Omega }u\,d\Omega +\int _{\partial \Omega }{\vec {f}}(u)\cdot {\vec {n}}\,d\Gamma =0,}
+which means that the time rate of change of {\displaystyle u}u in the domain {\displaystyle \Omega }\Omega  is equal to the net flux of {\displaystyle u}u through its boundary {\displaystyle \partial \Omega }\partial\Omega. Since this is an equality, it can be concluded that {\displaystyle u}u is conserved within {\displaystyle \Omega }\Omega 

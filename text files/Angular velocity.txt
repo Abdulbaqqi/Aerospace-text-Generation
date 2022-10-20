@@ -1,0 +1,50 @@
+Angular velocity
+In physics, angular velocity or rotational velocity (ω or Ω), also known as angular frequency vector, is a pseudovector representation of how fast the angular position or orientation of an object changes with time (i.e. how quickly an object rotates or revolves relative to a point or axis). The magnitude of the pseudovector represents the angular speed, the rate at which the object rotates or revolves, and its direction is normal to the instantaneous plane of rotation or angular displacement. The orientation of angular velocity is conventionally specified by the right-hand rule. 
+There are two types of angular velocity.
+Orbital angular velocity refers to how fast a point object revolves about a fixed origin, i.e. the time rate of change of its angular position relative to the origin.
+Spin angular velocity refers to how fast a rigid body rotates with respect to its center of rotation and is independent of the choice of origin, in contrast to orbital angular velocity.
+In general, angular velocity has dimension of angle per unit time (angle replacing distance from linear velocity with time in common). The SI unit of angular velocity is radians per second,[3] with the radian being a dimensionless quantity, thus the SI units of angular velocity may be listed as s−1. Angular velocity is usually represented by the symbol omega (ω, sometimes Ω). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.
+For example, a geostationary satellite completes one orbit per day above the equator, or 360 degrees per 24 hours, and has angular velocity ω = (360°)/(24 h) = 15°/h, or (2π rad)/(24 h) ≈ 0.26 rad/h. If angle is measured in radians, the linear velocity is the radius times the angular velocity,  . With orbital radius 42,000 km from the earth's center, the satellite's speed through space is thus v = 42,000 km × 0.26/h ≈ 11,000 km/h. The angular velocity is positive since the satellite travels eastward with the Earth's rotation (counter-clockwise from above the north pole.)
+Orbital angular velocity of a point particle
+Particle in two dimensions
+The angular velocity of the particle at P with respect to the origin O is determined by the perpendicular component of the velocity vector v.
+In the simplest case of circular motion at radius  , with position given by the angular displacement   from the x-axis, the orbital angular velocity is the rate of change of angle with respect to time:  . If   is measured in radians, the arc-length from the positive x-axis around the circle to the particle is  , and the linear velocity is  , so that  .
+In the general case of a particle moving in the plane, the orbital angular velocity is the rate at which the position vector relative to a chosen origin "sweeps out" angle. The diagram shows the position vector   from the origin   to a particle  , with its polar coordinates  . (All variables are functions of time  .) The particle has linear velocity splitting as  , with the radial component   parallel to the radius, and the cross-radial (or tangential) component   perpendicular to the radius. When there is no radial component, the particle moves around the origin in a circle; but when there is no cross-radial component, it moves in a straight line from the origin. Since radial motion leaves the angle unchanged, only the cross-radial component of linear velocity contributes to angular velocity.
+The angular velocity ω is the rate of change of angular position with respect to time, which can be computed from the cross-radial velocity as:
+ 
+Here the cross-radial speed   is the signed magnitude of  , positive for counter-clockwise motion, negative for clockwise. Taking polar coordinates for the linear velocity   gives magnitude   (linear speed) and angle   relative to the radius vector; in these terms,  , so that
+ 
+These formulas may be derived doing  , being   a function of the distance to the origin with respect to time, and   a function of the angle between the vector and the x axis. Then  . Which is equal to  . (See Unit vector in cylindrical coordinates). Knowing  , we conclude that the radial component of the velocity is given by  , because   is a radial unit vector; and the perpendicular component is given by   because   is a perpendicular unit vector.
+In two dimensions, angular velocity is a number with plus or minus sign indicating orientation, but not pointing in a direction. The sign is conventionally taken to be positive if the radius vector turns counter-clockwise, and negative if clockwise. Angular velocity then may be termed a pseudoscalar, a numerical quantity which changes sign under a parity inversion, such as inverting one axis or switching the two axes.
+Particle in three dimensions
+
+The orbital angular velocity vector encodes the time rate of change of angular position, as well as the instantaneous plane of angular displacement. In this case (counter-clockwise circular motion) the vector points up.
+In three-dimensional space, we again have the position vector r of a moving particle. Here, orbital angular velocity is a pseudovector whose magnitude is the rate at which r sweeps out angle, and whose direction is perpendicular to the instantaneous plane in which r sweeps out angle (i.e. the plane spanned by r and v). However, as there are two directions perpendicular to any plane, an additional condition is necessary to uniquely specify the direction of the angular velocity; conventionally, the right-hand rule is used.
+Let the pseudovector   be the unit vector perpendicular to the plane spanned by r and v, so that the right-hand rule is satisfied (i.e. the instantaneous direction of angular displacement is counter-clockwise looking from the top of  ). Taking polar coordinates   in this plane, as in the two-dimensional case above, one may define the orbital angular velocity vector as:
+
+where θ is the angle between r and v. In terms of the cross product, this is:
+
+From the above equation, one can recover the tangential velocity as:
+ 
+Spin angular velocity of a rigid body or reference frame
+Given a rotating frame of three unit coordinate vectors, all the three must have the same angular speed at each instant. In such a frame, each vector may be considered as a moving particle with constant scalar radius.
+The rotating frame appears in the context of rigid bodies, and special tools have been developed for it: the spin angular velocity may be described as a vector or equivalently as a tensor.
+Consistent with the general definition, the spin angular velocity of a frame is defined as the orbital angular velocity of any of the three vectors (same for all) with respect to its own center of rotation. The addition of angular velocity vectors for frames is also defined by the usual vector addition (composition of linear movements), and can be useful to decompose the rotation as in a gimbal. All components of the vector can be calculated as derivatives of the parameters defining the moving frames (Euler angles or rotation matrices). As in the general case, addition is commutative:  .
+By Euler's rotation theorem, any rotating frame possesses an instantaneous axis of rotation, which is the direction of the angular velocity vector, and the magnitude of the angular velocity is consistent with the two-dimensional case.
+If we choose a reference point   fixed in the rigid body, the velocity   of any point in the body is given by
+ 
+Components from the basis vectors of a body-fixed frame
+Consider a rigid body rotating about a fixed point O. Construct a reference frame in the body consisting of an orthonormal set of vectors   fixed to the body and with their common origin at O. The angular velocity vector of both frame and body about O is then
+ 
+where   is the time rate of change of the frame vector   due to the rotation.
+Note that this formula is incompatible with the expression
+ 
+as that formula defines only the angular velocity of a single point about O, while the formula in this section applies to a frame or rigid body. In the case of a rigid body a single   has to account for the motion of all particles in the body.
+Components from Euler angles
+The components of the spin angular velocity pseudovector were first calculated by Leonhard Euler using his Euler angles and the use of an intermediate frame:
+Euler proved that the projections of the angular velocity pseudovector on each of these three axes is the derivative of its associated angle (which is equivalent to decomposing the instantaneous rotation into three instantaneous Euler rotations)
+Consistency
+We have supposed that the rigid body rotates around an arbitrary point. We should prove that the spin angular velocity previously defined is independent of the choice of origin, which means that the spin angular velocity is an intrinsic property of the spinning rigid body. (Note the marked contrast of this with the orbital angular velocity of a point particle, which certainly does depend on the choice of origin.)
+
+Proving the independence of spin angular velocity from choice of origin
+See the graph to the right: The origin of lab frame is O, while O1 and O2 are two fixed points on the rigid body, whose velocity is   and   respectively. Suppose the angular velocity with respect to O1 and O2 is   and   respectively. Since point P and O2 have only one velocity.

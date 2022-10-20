@@ -1,0 +1,87 @@
+INTEGRAL 
+In mathematics, an integral assigns numbers to functions in a way that describes displacement, area, volume, and other concepts that arise by combining infinitesimal data. The process of finding integrals is called integration. Along with differentiation, integration is a fundamental, essential operation of calculus, and serves as a tool to solve problems in mathematics and physics involving the area of an arbitrary shape, the length of a curve, and the volume of a solid, among others.
+
+Definite integral example
+A definite integral of a function can be represented as the signed area of the region bounded by its graph.
+The integrals enumerated here are those termed definite integrals, which can be interpreted as the signed area of the region in the plane that is bounded by the graph of a given function between two points in the real line. Conventionally, areas above the horizontal axis of the plane are positive while areas below are negative. Integrals also refer to the concept of an antiderivative, a function whose derivative is the given function. In this case, they are called indefinite integrals. The fundamental theorem of calculus relates definite integrals with differentiation and provides a method to compute the definite integral of a function when its antiderivative is known.
+
+Although methods of calculating areas and volumes dated from ancient Greek mathematics, the principles of integration were formulated independently by Isaac Newton and Gottfried Wilhelm Leibniz in the late 17th century, who thought of the area under a curve as an infinite sum of rectangles of infinitesimal width. Bernhard Riemann later gave a rigorous definition of integrals, which is based on a limiting procedure that approximates the area of a curvilinear region by breaking the region into infinitesimally thin vertical slabs. In the early 20th century, Henri Lebesgue generalized Riemann's formulation by introducing what is now referred to as the Lebesgue integral; it is more robust than Riemann's in the sense that a wider class of functions are Lebesgue-integrable.
+
+Integrals may be generalized depending on the type of the function as well as the domain over which the integration is performed. For example, a line integral is defined for functions of two or more variables, and the interval of integration is replaced by a curve connecting the two endpoints of the interval. In a surface integral, the curve is replaced by a piece of a surface in three-dimensional space.
+
+Contents
+History
+See also: History of calculus
+Pre-calculus integration
+The first documented systematic technique capable of determining integrals is the method of exhaustion of the ancient Greek astronomer Eudoxus (ca. 370 BC), which sought to find areas and volumes by breaking them up into an infinite number of divisions for which the area or volume was known. This method was further developed and employed by Archimedes in the 3rd century BC and used to calculate the area of a circle, the surface area and volume of a sphere, area of an ellipse, the area under a parabola, the volume of a segment of a paraboloid of revolution, the volume of a segment of a hyperboloid of revolution, and the area of a spiral.
+
+A similar method was independently developed in China around the 3rd century AD by Liu Hui, who used it to find the area of the circle. This method was later used in the 5th century by Chinese father-and-son mathematicians Zu Chongzhi and Zu Geng to find the volume of a sphere.
+
+In the Middle East, Hasan Ibn al-Haytham, Latinized as Alhazen (c. 965 – c. 1040 AD) derived a formula for the sum of fourth powers. He used the results to carry out what would now be called an integration of this function, where the formulae for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid.
+
+The next significant advances in integral calculus did not begin to appear until the 17th century. At this time, the work of Cavalieri with his method of Indivisibles, and work by Fermat, began to lay the foundations of modern calculus, with Cavalieri  computing the integrals of xn up to degree n = 9 in Cavalieri's quadrature formula. Further steps were made in the early 17th century by Barrow and Torricelli, who provided the first hints of a connection between integration and differentiation. Barrow provided the first proof of the fundamental theorem of calculus. Wallis generalized Cavalieri's method, computing integrals of x to a general power, including negative powers and fractional powers.
+
+Leibniz and Newton
+The major advance in integration came in the 17th century with the independent discovery of the fundamental theorem of calculus by Leibniz and Newton. The theorem demonstrates a connection between integration and differentiation. This connection, combined with the comparative ease of differentiation, can be exploited to calculate integrals. In particular, the fundamental theorem of calculus allows one to solve a much broader class of problems. Equal in importance is the comprehensive mathematical framework that both Leibniz and Newton developed. Given the name infinitesimal calculus, it allowed for precise analysis of functions within continuous domains. This framework eventually became modern calculus, whose notation for integrals is drawn directly from the work of Leibniz.
+
+Formalization
+While Newton and Leibniz provided a systematic approach to integration, their work lacked a degree of rigour. Bishop Berkeley memorably attacked the vanishing increments used by Newton, calling them "ghosts of departed quantities". Calculus acquired a firmer footing with the development of limits. Integration was first rigorously formalized, using limits, by Riemann. Although all bounded piecewise continuous functions are Riemann-integrable on a bounded interval, subsequently more general functions were considered—particularly in the context of Fourier analysis—to which Riemann's definition does not apply, and Lebesgue formulated a different definition of integral, founded in measure theory (a subfield of real analysis). Other definitions of integral, extending Riemann's and Lebesgue's approaches, were proposed. These approaches based on the real number system are the ones most common today, but alternative approaches exist, such as a definition of integral as the standard part of an infinite Riemann sum, based on the hyperreal number system.
+
+Historical notation
+The notation for the indefinite integral was introduced by Gottfried Wilhelm Leibniz in 1675.He adapted the integral symbol, ∫, from the letter ſ (long s), standing for summa (written as ſumma; Latin for "sum" or "total"). The modern notation for the definite integral, with limits above and below the integral sign, was first used by Joseph Fourier in Mémoires of the French Academy around 1819–20, reprinted in his book of 1822.
+
+Isaac Newton used a small vertical bar above a variable to indicate integration, or placed the variable inside a box. The vertical bar was easily confused with 
+.
+x
+ or x′, which are used to indicate differentiation, and the box notation was difficult for printers to reproduce, so these notations were not widely adopted.
+
+First use of the term
+The term was first printed in Latin by Jacob Bernoulli in 1690: "Ergo et horum Integralia aequantur".
+The integral sign ∫ represents integration. The symbol dx, called the differential of the variable x, indicates that the variable of integration is x. The function f(x) is called the integrand, the points a and b are called the limits (or bounds) of integration, and the integral is said to be over the interval [a, b], called the interval of integration. A function is said to be integrable if its integral over its domain is finite. If limits are specified, the integral is called a definite integral.
+
+When the limits are omitted, as in
+
+the integral is called an indefinite integral, which represents a class of functions (the antiderivative) whose derivative is the integrand. The fundamental theorem of calculus relates the evaluation of definite integrals to indefinite integrals. There are several extensions of the notation for integrals to encompass integration on unbounded domains and/or in multiple dimensions (see later sections of this article).
+
+
+
+
+
+
+
+Interpretations
+
+Approximations to integral of √x from 0 to 1, with 5 yellow right endpoint partitions and 12 green left endpoint partitions
+Integrals appear in many practical situations. For instance, from the length, width and depth of a swimming pool which is rectangular with a flat bottom, one can determine the volume of water it can contain, the area of its surface, and the length of its edge. But if it is oval with a rounded bottom, integrals are required to find exact and rigorous values for these quantities. In each case, one may divide the sought quantity into infinitely many infinitesimal pieces, then sum the pieces to achieve an accurate approximation.
+
+For example, to find the area of the region bounded by the graph of the function f(x) = √x between x = 0 and x = 1, one can cross the interval in five steps (0, 1/5, 2/5, ..., 1), then fill a rectangle using the right end height of each piece (thus √0, √1/5, √2/5, ..., √1) and sum their areas to get an approximation of
+which is larger than the exact value. Alternatively, when replacing these subintervals by ones with the left end height of each piece, the approximation one gets is too low: with twelve such subintervals the approximated area is only 0.6203. However, when the number of pieces increase to infinity, it will reach a limit which is the exact value of the area sought (in this case, 2/3). One writes
+
+which means 2/3 is the result of a weighted sum of function values, √x, multiplied by the infinitesimal step widths, denoted by dx, on the interval [0, 1].
+
+Darboux sums
+Upper Darboux sum example
+Darboux upper sums of the function y = x2
+Lower Darboux sum example
+Darboux lower sums of the function y = x2
+Formal definitions
+Riemann sum convergence
+Riemann sums converging
+There are many ways of formally defining an integral, not all of which are equivalent. The differences exist mostly to deal with differing special cases which may not be integrable under other definitions, but also occasionally for pedagogical reasons. The most commonly used definitions are Riemann integrals and Lebesgue integrals.
+Lebesgue integral
+Main article: Lebesgue integration
+Comparison of Riemann and Lebesgue integrals
+Riemann–Darboux's integration (top) and Lebesgue integration (bottom)
+It is often of interest, both in theory and applications, to be able to pass to the limit under the integral. For instance, a sequence of functions can frequently be constructed that approximate, in a suitable sense, the solution to a problem. Then the integral of the solution function should be the limit of the integrals of the approximations. However, many functions that can be obtained as limits are not Riemann-integrable, and so such limit theorems do not hold with the Riemann integral. Therefore, it is of great importance to have a definition of the integral that allows a wider class of functions to be integrated.
+
+Such an integral is the Lebesgue integral, that exploits the following fact to enlarge the class of integrable functions: if the values of a function are rearranged over the domain, the integral of a function should remain the same. Thus Henri Lebesgue introduced the integral bearing his name, explaining this integral thus in a letter to Paul Montel:
+
+I have to pay a certain sum, which I have collected in my pocket. I take the bills and coins out of my pocket and give them to the creditor in the order I find them until I have reached the total sum. This is the Riemann integral. But I can proceed differently. After I have taken all the money out of my pocket I order the bills and coins according to identical values and then I pay the several heaps one after the other to the creditor. This is my integral.
+
+As Folland puts it, "To compute the Riemann integral of f, one partitions the domain [a, b] into subintervals", while in the Lebesgue integral, "one is in effect partitioning the range of f ". The definition of the Lebesgue integral thus begins with a measure, μ. In the simplest case, the Lebesgue measure μ(A) of an interval A = [a, b] is its width, b − a, so that the Lebesgue integral agrees with the (proper) Riemann integral when both exist. In more complicated cases, the sets being measured can be highly fragmented, with no continuity and no resemblance to intervals.
+
+Using the "partitioning the range of f " philosophy, the integral of a non-negative function f : R → R should be the sum over t of the areas between a thin horizontal strip between y = t and y = t + dt. This area is just μ{ x : f(x) > t} dt. Let f∗(t) = μ{ x : f(x) > t }. The Lebesgue integral of f is then defined by
+
+where the integral on the right is an ordinary improper Riemann integral (f∗ is a strictly decreasing positive function, and therefore has a well-defined improper Riemann integral). For a suitable class of functions (the measurable functions) this defines the Lebesgue integral.
+
+A general measurable function f is Lebesgue-integrable if the sum of the absolute values of the areas of the regions between the graph of f and the x-axis is finite:

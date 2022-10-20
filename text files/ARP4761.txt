@@ -1,0 +1,6 @@
+ARP4761
+ARP4761, Guidelines and Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and Equipment is an Aerospace Recommended Practice from SAE International. In conjunction with ARP4754, ARP4761 is used to demonstrate compliance with 14 CFR 25.1309 in the U.S. Federal Aviation Administration (FAA) airworthiness regulations for transport category aircraft, and also harmonized international airworthiness regulations such as European Aviation Safety Agency (EASA) CS–25.1309.
+This Recommended Practice defines a process for using common modeling techniques to assess the safety of a system being put together. The first 30 pages of the document covers that process. The next 140 pages give an overview of the modeling techniques and how they should be applied. The last 160 pages give an example of the process in action.
+Future changes
+In 2004, SAE Standard Committee S-18 began working on Revision A to ARP4761. When released, EUROCAE plans to jointly issue the document as ED–135.
+

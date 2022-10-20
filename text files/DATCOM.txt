@@ -1,0 +1,62 @@
+United States Air Force Stability and Control Digital DATCOM
+The United States Air Force Stability and Control Digital DATCOM is a computer program that implements the methods contained in the USAF Stability and Control DATCOM to calculate the static stability, control and dynamic derivative characteristics of fixed-wing aircraft. Digital DATCOM requires an input file containing a geometric description of an aircraft, and outputs its corresponding dimensionless stability derivatives according to the specified flight conditions. The values obtained can be used to calculate meaningful aspects of flight dynamics.
+
+History
+In February 1976, work commenced to automate the methods contained in the USAF Stability and Control DATCOM, specifically those contained in sections 4, 5, 6 and 7. The work was performed by the McDonnell Douglas Corporation under contract with the United States Air Force in conjunction with engineers at the Air Force Flight Dynamics Laboratory in Wright-Patterson Air Force Base. Implementation of the Digital DATCOM concluded in November 1978.
+The program is written in FORTRAN IV and has since been updated; however, the core of the program remains the same.
+A report was published, separated into three volumes, which explains the use of Digital DATCOM. The report consists of
+•	Volume I, User's Manual
+•	Volume II, Implementation of DATCOM Methods
+•	Volume III, Plot Module
+Input
+Section 3 of the USAF Digital DATCOM Manual Volume I defines the inputs available for modeling an aircraft. The inputs are categorized by namelists to facilitate reading the file into FORTRAN.
+Flight conditions and options
+The FLTCON Namelist describes the flight conditions for the case. A maximum of 400 Mach-altitude combinations can be run at once, with up to 20 angles of attack for each combination. The user can specify whether the Mach number and altitude varies together, the Mach number varies at a constant altitude, or the altitude varies at a constant Mach number. Both subsonic and supersonic analysis can be run in Digital DATCOM.
+The OPTINS Namelist defines the reference parameters for the aircraft. The theoretical wing area, mean aerodynamic chord, and wing span are input along with a parameter defining the surface roughness of the aircraft.
+Synthesis parameter
+The SYNTHS Namelist allows the user to define the positions of the center of gravity and apexes of the wings. The X- and Z- coordinates are needed for the wing, horizontal tail, and vertical tail in order for the aircraft to be synthesized correctly. DATCOM does not require that the origin for the aircraft has to be the nose of the aircraft; any arbitrary point will do, but all of the dimensions need to be referenced from that point. Incidence angles can also be added to the wing and horizontal tail.
+Body parameters
+The BODY Namelist defines the shape of the body. Digital DATCOM assumes an axisymmetrical shape for the body. Up to 20 stations can be specified with the fuselage half-width, upper coordinate and lower coordinate being defined at each station. For supersonic analysis, additional parameters can be input.
+Wing, Horizontal and Vertical Tail parameters
+The WGPLNF, HTPLNF and VTPLNF Namelists define the wing, horizontal tail and vertical tail, respectively. The basic parameters such as root chord, tip chord, half-span, twist, dihedral and sweep are input. Digital DATCOM also accepts wing planforms which change geometry along the span such as the F4 Phantom II which had 15 degrees of outboard dihedral.
+Canards can also be analyzed in Digital DATCOM. The canard must be specified as the forward lifting surface (i.e. wing) and the wing as the aft lift surface.
+For airfoil designations, most traditional NACA 4-, 5-, and 6- airfoils can be specified in Digital DATCOM. Additionally, custom airfoils can be input using the appropriate namelists. Also, twin vertical tails can be designated in Digital DATCOM, but not twin booms.
+High Lift and Control Devices
+Using the SYMFLP and ASYFLP Namelists, flaps, elevators, and ailerons can be defined. Digital DATCOM allows a multitude of flap types including plain, single-slotted, and fowler flaps. Up to 9 flap deflections can be analyzed at each Mach-altitude combination. Unfortunately, the rudder is not implemented in Digital DATCOM.
+Digital DATCOM also offers an automated aircraft TRIM function which calculates elevator deflections needed to trim the aircraft.
+Other Inputs
+Other Digital DATCOM inputs include power effects (propeller and jet), ground effects, trim tabs, and experimental data. The EXPRXX Namelist allows a user to use experimental data (such as coefficient of lift, coefficient of drag, etc.) in lieu of the data Digital DATCOM produces in the intermediate steps of its component build-up.
+All dimensions are taken in feet and degrees unless specified otherwise. Digital DATCOM provides commands for outputting the dynamic derivatives (DAMP) as well as the stability coefficients of each components (BUILD).
+Output
+Digital DATCOM produces a copious amount of data for the relatively small amount of inputs it requires. By default, only the data for the aircraft is output, but additional configurations can be output:
+For each configuration, stability coefficients and derivatives are output at each angle of attack specified. The details of this output are defined in Section 6 of the USAF Digital DATCOM Manual Volume I. The basic output includes:
+•	CL - Lift Coefficient
+•	CD - Drag Coefficient
+•	Cm - Pitching Moment Coefficient
+•	CN - Normal Force Coefficient
+•	CA - Axial Force Coefficient
+•	CLα - Lift Curve Slope (Derivative of Lift Coefficient with respect to angle of attack)
+•	Cmα - Pitching Moment Curve Slope (derivative of Pitching Moment Coefficient with respect to angle of attack)
+•	CYβ - Derivative of side-force coefficient with respect to sideslip angle
+•	Cnβ - Derivative of yawing-moment coefficient with respect to sideslip angle
+•	Clβ - Derivative of rolling-moment coefficient with respect to sideslip angle
+For complete aircraft configurations, downwash data is also included.
+When compared with modern methods of computational fluid dynamics, Digital DATCOM may seem antiquated. However, in its day, the program was an advanced estimation tool, and certainly much faster than plowing through pages and pages of engineering texts. Digital DATCOM is no longer supported by the USAF and is now public domain software.
+Limitations
+Inlets, external stores, and other protuberances cannot be input because Digital DATCOM analyzes the fuselage as a body of revolution. The simplification affects the coefficient of drag for the aircraft.
+Dynamic derivatives are not output for aircraft that have wings that are not straight-tapered or have leading edge extensions. This problem can be overcome by using experimental data for the wing-body (using non-straight tapered wing).
+There is no method to input twin vertical tails mounted on the fuselage, although there is a method for H-Tails. This problem can be addressed by approximating the twin vertical tails as a single equivalent vertical tail mounted to the fuselage.
+Digital DATCOM cannot provide outputs for the control derivatives with regard to the rudder control surface. According to the manual, there is no any input parameters which define the geometry of rudder.
+Digital DATCOM cannot analyze three lifting surfaces at once, such as a canard-wing-horizontal tail configuration. This problem can be addressed by superposition of lifting surfaces through the experimental input option.
+Current Development
+There are intentions among those that use this package to improve the overall package, through an easier user interface, as well as more comprehensive output data.
+DATCOM+ 
+While the original DIGDAT program has been left relatively untouched, there has been a new front-end created that will allow the user to name the input file with something more significant than FOR005.DAT. The new input file format allows the user to place comments in the input file. There have also been hooks placed in the DIGDAT that allow for alternate outputs in addition to the original output format, which is 132 columns wide and slightly user abusive if you intend to import the data into another application. There is a graphical representation of the aircraft output in AC3D, as well as data table output in XML for the JSBSim and FlightGear projects, as well as a free-format LFI (Linear Function Interpolation) data table file.
+Along with the DIGDAT program, there are viewers for the AC3D, XML, and LFI format output files. Data tables can easily be output to the screen or to PNG files for inclusion into reports.
+Mathworks Aerospace Toolbox
+Aerospace Toolbox includes a function for importing output files from Digital DATCOM into MATLAB. This function lets you collect aerodynamic coefficients from static and dynamic analyses and transfer them into MATLAB as a cell array of structures, with each structure containing information about a Digital DATCOM output file.
+OpenDatcom
+OpenDatcom is an open-source GUI for the Digital DATCOM created and hosted by the OpenAE community. OpenDatcom incorporates all the basic (non-experimental) functionality supported by the Digital DATCOM while providing real-time input error and bounds checking. An alpha version of the program was released November 1, 2009 to the general public. The OpenAE.org web site is no longer active.
+Predicting Aerodynamics of Structurally Damaged Aircraft
+There has been some research in using Digital DATCOM in conjunction with wind tunnel studies to predict aerodynamics of structurally impaired aircraft. Dr. Bilal Siddiqui at DHA Suffa University presented an approach  to predict the nonlinear aerodynamics of a structurally damaged aircraft model based on the engineering level aerodynamic prediction methods, DATCOM. Raw results from the code provide good correlation with wind tunnel data at very low angles of attack, but accuracy deteriorates rapidly as the angle of attack increases. A new methodology is then proposed which combines the experimental results of healthy aircraft with the predicted aerodynamics of the damaged cases, to yield better correlation between experimental and predicted aerodynamic coefficients for damaged aircraft. Three damage-configurations are studied at supersonic speeds. The methodology can be used to quickly generate aerodynamic model for damaged aircraft for simulation and reconfigurable control
+

@@ -1,0 +1,24 @@
+Deflection (engineering)
+In structural engineering, deflection is the degree to which a part of a structural element is displaced under a load (because it deforms). It may refer to an angle or a distance. The deflection distance of a member under a load can be calculated by integrating the function that mathematically describes the slope of the deflected shape of the member under that load.
+Standard formulas exist for the deflection of common beam configurations and load cases at discrete locations. Otherwise methods such as virtual work, direct integration, Castigliano's method, Macaulay's method or the direct stiffness method are used. The deflection of beam elements is usually calculated on the basis of the Euler–Bernoulli beam equation while that of a plate or shell element is calculated using plate or shell theory.
+An example of the use of deflection in this context is in building construction. Architects and engineers select materials for various applications.
+Units
+The formulas supplied above require the use of a consistent set of units. Most calculations will be made in the International System of Units (SI) or US customary units, although there are many other systems of units.
+International system (SI) 
+Force: newtons
+Length: metres
+Modulus of elasticity:  
+Moment of inertia:  
+US customary units (US) 
+Force: pounds force 
+Length: inches 
+Modulus of elasticity:  
+Moment of inertia:  
+Others
+Other units may be used as well, as long as they are self-consistent. For example, sometimes the kilogram-force unit is used to measure loads. In such a case, the modulus of elasticity must be converted to  .
+Structural deflection
+Building codes determine the maximum deflection, usually as a fraction of the span e.g. 1/400 or 1/600. Either the strength limit state (allowable stress) or the serviceability limit state (deflection considerations among others) may govern the minimum dimensions of the member required.
+The deflection must be considered for the purpose of the structure. When designing a steel frame to hold a glazed panel, one allows only minimal deflection to prevent fracture of the glass.
+The deflected shape of a beam can be represented by the moment diagram, integrated (twice, rotated and translated to enforce support conditions).
+
+

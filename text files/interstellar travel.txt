@@ -1,0 +1,863 @@
+INTERSTELLAR TRAVEL
+
+Interstellar travel is the hypothetical travel of spacecraft from one-star system, solitary star, or planetary system to another. Interstellar travel is expected to prove much more difficult than interplanetary spaceflight due to the vast difference in the scale of the involved distances. Whereas the distance between any two planets in the Solar System is less than 30 astronomical units (AU), stars are typically separated by hundreds of thousands of AU, causing these distances to typically be expressed instead in light-years. Because of the vastness of these distances, non-generational interstellar travel based on known physics would need to occur at a high percentage of the speed of light; even so, travel times would be long, at least decades and perhaps millennia or longer.
+
+
+A Bussard ramjet, one of many possible methods that could serve to propel spacecraft.
+As of 2022, five uncrewed spacecraft, all launched and operated by the United States, have achieved the escape velocity required to leave the Solar System as part of missions to explore parts of the outer system. They will therefore continue to travel through interstellar space indefinitely. However, they will not approach another star for hundreds of thousands of years, long after they have ceased to operate (though in theory the Voyager Golden Record would be playable in the highly unlikely event that the spacecraft is retrieved by an extraterrestrial civilization).
+
+The speeds required for interstellar travel in a human lifetime far exceed what current methods of space travel can provide. Even with a hypothetically perfectly efficient propulsion system, the kinetic energy corresponding to those speeds is enormous by today's standards of energy development. Moreover, collisions by spacecraft with cosmic dust and gas at such speeds would be very dangerous for both passengers and the spacecraft itself.
+
+A number of strategies have been proposed to deal with these problems, ranging from giant arks that would carry entire societies and ecosystems, to microscopic space probes. Many different spacecraft propulsion systems have been proposed to give spacecraft the required speeds, including nuclear propulsion, beam-powered propulsion, and methods based on speculative physics.
+
+Humanity would need to overcome considerable technological and economic challenges to achieve either crewed and uncrewed interstellar travel. Even the most optimistic views forecast that it will be decades before this milestone is reached. However, in spite of the challenges, a wide range of scientific benefits are expected should interstellar travel become a reality.
+
+Most interstellar travel concepts require a developed space logistics system capable of moving millions of tonnes to a construction / operating location, and most would require gigawatt-scale power for construction or power (such as Star Wisp– or Light Sail–type concepts). Such a system could grow organically if space-based solar power became a significant component of Earth's energy mix. Consumer demand for a multi-terawatt system would create the necessary multi-million ton/year logistical system.
+
+Contents
+Challenges
+Interstellar distances
+Distances between the planets in the Solar System are often measured in astronomical units (AU), defined as the average distance between the Sun and Earth, some 1.5×108 kilometers (93 million miles). Venus, the closest planet to Earth is (at closest approach) 0.28 AU away. Neptune, the farthest planet from the Sun, is 29.8 AU away. As of September 20, 2022, Voyager 1, the farthest human-made object from Earth, is 157 AU away.
+
+The closest known star, Proxima Centauri, is approximately 268,332 AU away, or over 9,000 times farther away than Neptune.
+Because of this, distances between stars are usually expressed in light-years (defined as the distance that light travels in vacuum in one Julian year) or in parsecs (one parsec is 3.26 ly, the distance at which stellar parallax is exactly one arcsecond, hence the name). Light in a vacuum travels around 300,000 kilometres (186,000 mi) per second, so 1 light-year is about 9.461×1012 kilometers (5.879 trillion miles) or 63,241 AU. Hence, Proxima Centauri is approximately 4.243 light-years from Earth.
+
+Another way of understanding the vastness of interstellar distances is by scaling: One of the closest stars to the Sun, Alpha Centauri A (a Sun-like star that is one of two companions of Proxima Centauri), can be pictured by scaling down the Earth–Sun distance to one meter (3.28 ft). On this scale, the distance to Alpha Centauri A would be 276 kilometers (171 miles).
+
+The fastest outward-bound spacecraft yet sent, Voyager 1, has covered 1/600 of a light-year in 30 years and is currently moving at 1/18,000 the speed of light. At this rate, a journey to Proxima Centauri would take 80,000 years.
+
+Interstellar medium
+A knowledge of the properties of the interstellar gas and dust through which the vehicle must pass is essential for the design of any interstellar space mission. A major issue with traveling at extremely high speeds is that due to the requisite high relative speeds and large kinetic energies, collisions with interstellar dust could cause considerable damage to the craft. Various shielding methods to mitigate this problem have been proposed. Larger objects (such as macroscopic dust grains) are far less common, but would be much more destructive. The risks of impacting such objects and mitigation methods have been discussed in literature, but many unknowns remain. An additional consideration is that due the non-homogeneous distribution of interstellar matter around the Sun, these risks would vary between different trajectories. Although a high density interstellar medium may cause difficulties for many interstellar travel concepts, interstellar ramjets, and some proposed concepts for decelerating interstellar spacecraft, would actually benefit from a denser interstellar medium.
+
+Hazards
+The crew of an interstellar ship would face several significant hazards, including the psychological effects of long-term isolation, (in cases of Faster-than-light travel) the physiological effects of extreme acceleration, the effects of exposure to ionising radiation, and the physiological effects of weightlessness to the muscles, joints, bones, immune system, and eyes. There also exists the risk of impact by micrometeoroids and other space debris. These risks represent challenges that have yet to be overcome.
+
+Wait calculation
+The physicist Robert L. Forward has argued that an interstellar mission that cannot be completed within 50 years should not be started at all. Instead, assuming that a civilization is still on an increasing curve of propulsion system velocity and not yet having reached the limit, the resources should be invested in designing a better propulsion system. This is because a slow spacecraft would probably be passed by another mission sent later with more advanced propulsion (the incessant obsolescence postulate).
+
+On the other hand, Andrew Kennedy has shown that if one calculates the journey time to a given destination as the rate of travel speed derived from growth (even exponential growth) increases, there is a clear minimum in the total time to that destination from now. Voyages undertaken before the minimum will be overtaken by those that leave at the minimum, whereas voyages that leave after the minimum will never overtake those that left at the minimum.
+
+Prime targets for interstellar travel
+There are 59 known stellar systems within 40 light years of the Sun, containing 81 visible stars. The following could be considered prime targets for interstellar missions: Existing astronomical technology is capable of finding planetary systems around these objects, increasing their potential for exploration.
+
+Proposed methods
+Slow, uncrewed probes
+Main article: Interstellar probe
+Slow interstellar missions based on current and near-future propulsion technologies are associated with trip times starting from about one hundred years to thousands of years. These missions consist of sending a robotic probe to a nearby star for exploration, similar to interplanetary probes like those used in the Voyager program. By taking along no crew, the cost and complexity of the mission is significantly reduced although technology lifetime is still a significant issue next to obtaining a reasonable speed of travel. Proposed concepts include Project Daedalus, Project Icarus, Project Dragonfly, Project Longshot, and more recently Breakthrough Starshot.
+
+Fast, uncrewed probes
+Main article: Interstellar probe
+Nanoprobes
+Near-lightspeed nano spacecraft might be possible within the near future built on existing microchip technology with a newly developed nanoscale thruster. Researchers at the University of Michigan are developing thrusters that use nanoparticles as propellant. Their technology is called "nanoparticle field extraction thruster", or nanoFET. These devices act like small particle accelerators shooting conductive nanoparticles out into space.
+
+Michio Kaku, a theoretical physicist, has suggested that clouds of "smart dust" be sent to the stars, which may become possible with advances in nanotechnology. Kaku also notes that a large number of nanoprobes would need to be sent due to the vulnerability of very small probes to be easily deflected by magnetic fields, micrometeorites and other dangers to ensure the chances that at least one nanoprobe will survive the journey and reach the destination.
+
+As a near-term solution, small, laser-propelled interstellar probes, based on current CubeSat technology were proposed in the context of Project Dragonfly.
+
+Slow, crewed missions
+In crewed missions, the duration of a slow interstellar journey presents a major obstacle and existing concepts deal with this problem in different ways. They can be distinguished by the "state" in which humans are transported on-board of the spacecraft.
+
+Generation ships
+Main article: Generation ship
+A generation ship (or world ship) is a type of interstellar ark in which the crew that arrives at the destination is descended from those who started the journey. Generation ships are not currently feasible because of the difficulty of constructing a ship of the enormous required scale and the great biological and sociological problems that life aboard such a ship raises.
+
+Suspended animation
+Main article: Sleeper ship
+Scientists and writers have postulated various techniques for suspended animation. These include human hibernation and cryonic preservation. Although neither is currently practical, they offer the possibility of sleeper ships in which the passengers lie inert for the long duration of the voyage.
+
+Frozen embryos
+Main article: Embryo space colonization
+A robotic interstellar mission carrying some number of frozen early stage human embryos is another theoretical possibility. This method of space colonization requires, among other things, the development of an artificial uterus, the prior detection of a habitable terrestrial planet, and advances in the field of fully autonomous mobile robots and educational robots that would replace human parents.
+
+Island hopping through interstellar space
+Interstellar space is not completely empty; it contains trillions of icy bodies ranging from small asteroids (Oort cloud) to possible rogue planets. There may be ways to take advantage of these resources for a good part of an interstellar trip, slowly hopping from body to body or setting up waystations along the way.
+
+Fast, crewed missions
+If a spaceship could average 10 percent of light speed (and decelerate at the destination, for human crewed missions), this would be enough to reach Proxima Centauri in forty years. Several propulsion concepts have been proposed that might be eventually developed to accomplish this (see § Propulsion below), but none of them are ready for near-term (few decades) developments at acceptable cost.
+
+Time dilation
+Main article: Time dilation
+Physicists generally believe faster-than-light travel is impossible. Relativistic time dilation allows a traveler to experience time more slowly, the closer their speed is to the speed of light. This apparent slowing becomes noticeable when velocities above 80% of the speed of light are attained. Clocks aboard an interstellar ship would run slower than Earth clocks, so if a ship's engines were capable of continuously generating around 1 g of acceleration (which is comfortable for humans), the ship could reach almost anywhere in the galaxy and return to Earth within 40 years ship-time (see diagram). Upon return, there would be a difference between the time elapsed on the astronaut's ship and the time elapsed on Earth.
+
+For example, a spaceship could travel to a star 32 light-years away, initially accelerating at a constant 1.03g (i.e. 10.1 m/s2) for 1.32 years (ship time), then stopping its engines and coasting for the next 17.3 years (ship time) at a constant speed, then decelerating again for 1.32 ship-years, and coming to a stop at the destination. After a short visit, the astronaut could return to Earth the same way. After the full round-trip, the clocks on board the ship show that 40 years have passed, but according to those on Earth, the ship comes back 76 years after launch.
+
+From the viewpoint of the astronaut, on board clocks seem to be running normally. The star ahead seems to be approaching at a speed of 0.87 light years per ship-year. The universe would appear contracted along the direction of travel to half the size it had when the ship was at rest; the distance between that star and the Sun would seem to be 16 light years as measured by the astronaut.
+
+At higher speeds, the time on board will run even slower, so the astronaut could travel to the center of the Milky Way (30,000 light years from Earth) and back in 40 years’ ship-time. But the speed according to Earth clocks will always be less than 1 light year per Earth year, so, when back home, the astronaut will find that more than 60 thousand years will have passed on Earth.
+
+Constant acceleration
+
+This plot shows a ship capable of 1-g (10 m/s2 or about 1.0 ly/y2) "felt" or proper-acceleration can go far, except for the problem of accelerating on-board propellant.
+See also: Space travel under constant acceleration
+Regardless of how it is achieved, a propulsion system that could produce acceleration continuously from departure to arrival would be the fastest method of travel. A constant acceleration journey is one where the propulsion system accelerates the ship at a constant rate for the first half of the journey, and then decelerates for the second half, so that it arrives at the destination stationary relative to where it began. If this were performed with an acceleration similar to that experienced at the Earth's surface, it would have the added advantage of producing artificial "gravity" for the crew. Supplying the energy required, however, would be prohibitively expensive with current technology.
+
+From the perspective of a planetary observer, the ship will appear to accelerate steadily at first, but then more gradually as it approaches the speed of light (which it cannot exceed). It will undergo hyperbolic motion. The ship will be close to the speed of light after about a year of accelerating and remain at that speed until it brakes for the end of the journey.
+
+From the perspective of an onboard observer, the crew will feel a gravitational field opposite the engine's acceleration, and the universe ahead will appear to fall in that field, undergoing hyperbolic motion. As part of this, distances between objects in the direction of the ship's motion will gradually contract until the ship begins to decelerate, at which time an onboard observer's experience of the gravitational field will be reversed.
+
+When the ship reaches its destination, if it were to exchange a message with its origin planet, it would find that less time had elapsed on board than had elapsed for the planetary observer, due to time dilation and length contraction.
+
+The result is an impressively fast journey for the crew.
+
+Propulsion
+Rocket concepts
+All rocket concepts are limited by the rocket equation, which sets the characteristic velocity available as a function of exhaust velocity and mass ratio, the ratio of initial (M0, including fuel) to final (M1, fuel depleted) mass.
+
+Very high specific power, the ratio of thrust to total vehicle mass, is required to reach interstellar targets within sub-century time-frames. Some heat transfer is inevitable and a tremendous heating load must be adequately handled.
+
+Thus, for interstellar rocket concepts of all technologies, a key engineering problem (seldom explicitly discussed) is limiting the heat transfer from the exhaust stream back into the vehicle.
+
+Ion engine
+A type of electric propulsion, spacecraft such as Dawn use an ion engine. In an ion engine, electric power is used to create charged particles of the propellant, usually the gas xenon, and accelerate them to extremely high velocities. The exhaust velocity of conventional rockets is limited to about 5 km/s by the chemical energy stored in the fuel's molecular bonds. They produce a high thrust (about 106 N), but they have a low specific impulse, and that limits their top speed. By contrast, ion engines have low force, but the top speed in principle is limited only by the electrical power available on the spacecraft and on the gas ions being accelerated. The exhaust speed of the charged particles range from 15 km/s to 35 km/s.
+
+Nuclear fission powered
+Fission-electric
+Nuclear-electric or plasma engines, operating for long periods at low thrust and powered by fission reactors, have the potential to reach speeds much greater than chemically powered vehicles or nuclear-thermal rockets. Such vehicles probably have the potential to power solar system exploration with reasonable trip times within the current century. Because of their low-thrust propulsion, they would be limited to off-planet, deep-space operation. Electrically powered spacecraft propulsion powered by a portable power-source, say a nuclear reactor, producing only small accelerations, would take centuries to reach for example 15% of the velocity of light, thus unsuitable for interstellar flight during a single human lifetime.
+
+Fission-fragment
+Fission-fragment rockets use nuclear fission to create high-speed jets of fission fragments, which are ejected at speeds of up to 12,000 km/s (7,500 mi/s). With fission, the energy output is approximately 0.1% of the total mass-energy of the reactor fuel and limits the effective exhaust velocity to about 5% of the velocity of light, or about 4.447%, for example, before someone has been rounding it up a lot apart from the fact that also 0.1% mc2 is a high figure for uranuium fission and more precise calculations land a lot closer to 4% of light speed or about 12,000 km/s as noted above. For maximum velocity, the reaction mass should optimally consist of fission products, the "ash" of the primary energy source, so no extra reaction mass need be bookkept in the mass ratio.
+
+Nuclear pulse
+Main article: Nuclear pulse propulsion
+
+Modern Pulsed Fission Propulsion Concept.
+Based on work in the late 1950s to the early 1960s, it has been technically possible to build spaceships with nuclear pulse propulsion engines, i.e. driven by a series of nuclear explosions. This propulsion system contains the prospect of very high specific impulse (space travel's equivalent of fuel economy) and high specific power.
+
+Project Orion team member Freeman Dyson proposed in 1968 an interstellar spacecraft using nuclear pulse propulsion that used pure deuterium fusion detonations with a very high fuel-burnup fraction. He computed an exhaust velocity of 15,000 km/s and a 100,000-tonne space vehicle able to achieve a 20,000 km/s delta-v allowing a flight-time to Alpha Centauri of 130 years.[44] Later studies indicate that the top cruise velocity that can theoretically be achieved by a Teller-Ulam thermonuclear unit powered Orion starship, assuming no fuel is saved for slowing back down, is about 8% to 10% of the speed of light (0.08-0.1c).[45] An atomic (fission) Orion can achieve perhaps 3%-5% of the speed of light. A nuclear pulse drive starship powered by fusion-antimatter catalyzed nuclear pulse propulsion units would be similarly in the 10% range and pure matter-antimatter annihilation rockets would be theoretically capable of obtaining a velocity between 50% to 80% of the speed of light. In each case saving fuel for slowing down halves the maximum speed. The concept of using a magnetic sail to decelerate the spacecraft as it approaches its destination has been discussed as an alternative to using propellant, this would allow the ship to travel near the maximum theoretical velocity. Alternative designs utilizing similar principles include Project Longshot, Project Daedalus, and Mini-Mag Orion. The principle of external nuclear pulse propulsion to maximize survivable power has remained common among serious concepts for interstellar flight without external power beaming and for very high-performance interplanetary flight.
+
+In the 1970s the Nuclear Pulse Propulsion concept further was refined by Project Daedalus by use of externally triggered inertial confinement fusion, in this case producing fusion explosions via compressing fusion fuel pellets with high-powered electron beams. Since then, lasers, ion beams, neutral particle beams and hyper-kinetic projectiles have been suggested to produce nuclear pulses for propulsion purposes.
+
+A current impediment to the development of any nuclear-explosion-powered spacecraft is the 1963 Partial Test Ban Treaty, which includes a prohibition on the detonation of any nuclear devices (even non-weapon based) in outer space. This treaty would, therefore, need to be renegotiated, although a project on the scale of an interstellar mission using currently foreseeable technology would probably require international cooperation on at least the scale of the International Space Station.
+
+Another issue to be considered, would be the g-forces imparted to a rapidly accelerated spacecraft, cargo, and passengers inside (see Inertia negation).
+
+Nuclear fusion rockets
+Fusion rocket starships, powered by nuclear fusion reactions, should conceivably be able to reach speeds of the order of 10% of that of light, based on energy considerations alone. In theory, a large number of stages could push a vehicle arbitrarily close to the speed of light. These would "burn" such light element fuels as deuterium, tritium, 3He, 11B, and 7Li. Because fusion yields about 0.3–0.9% of the mass of the nuclear fuel as released energy, it is energetically more favorable than fission, which releases <0.1% of the fuel's mass-energy. The maximum exhaust velocities potentially energetically available are correspondingly higher than for fission, typically 4–10% of the speed of light. However, the most easily achievable fusion reactions release a large fraction of their energy as high-energy neutrons, which are a significant source of energy loss. Thus, although these concepts seem to offer the best (nearest-term) prospects for travel to the nearest stars within a (long) human lifetime, they still involve massive technological and engineering difficulties, which may turn out to be intractable for decades or centuries.
+
+
+Daedalus interstellar probe.
+Early studies include Project Daedalus, performed by the British Interplanetary Society in 1973–1978, and Project Longshot, a student project sponsored by NASA and the US Naval Academy, completed in 1988. Another fairly detailed vehicle system, "Discovery II", designed and optimized for crewed Solar System exploration, based on the D3He reaction but using hydrogen as reaction mass, has been described by a team from NASA's Glenn Research Center. It achieves characteristic velocities of >300 km/s with an acceleration of ~1.7•10−3 g, with a ship initial mass of ~1700 metric tons, and payload fraction above 10%. Although these are still far short of the requirements for interstellar travel on human timescales, the study seems to represent a reasonable benchmark towards what may be approachable within several decades, which is not impossibly beyond the current state-of-the-art. Based on the concept's 2.2% burnup fraction it could achieve a pure fusion product exhaust velocity of ~3,000 km/s.
+
+Antimatter rockets
+Main article: Antimatter rocket
+Learn more
+This section needs additional citations for verification. 
+An antimatter rocket would have a far higher energy density and specific impulse than any other proposed class of rocket.[34] If energy resources and efficient production methods are found to make antimatter in the quantities required and store[50][51] it safely, it would be theoretically possible to reach speeds of several tens of percent that of light.[34] Whether antimatter propulsion could lead to the higher speeds (>90% that of light) at which relativistic time dilation would become more noticeable, thus making time pass at a slower rate for the travelers as perceived by an outside observer, is doubtful owing to the large quantity of antimatter that would be required.
+
+Speculating that production and storage of antimatter should become feasible, two further issues need to be considered. First, in the annihilation of antimatter, much of the energy is lost as high-energy gamma radiation, and especially also as neutrinos, so that only about 40% of mc2 would actually be available if the antimatter were simply allowed to annihilate into radiations thermally. Even so, the energy available for propulsion would be substantially higher than the ~1% of mc2 yield of nuclear fusion, the next-best rival candidate.
+
+Second, heat transfer from the exhaust to the vehicle seems likely to transfer enormous wasted energy into the ship (e.g. for 0.1g ship acceleration, approaching 0.3 trillion watts per ton of ship mass), considering the large fraction of the energy that goes into penetrating gamma rays. Even assuming shielding was provided to protect the payload (and passengers on a crewed vehicle), some of the energy would inevitably heat the vehicle, and may thereby prove a limiting factor if useful accelerations are to be achieved.
+
+More recently, Friedwardt Winterberg proposed that a matter-antimatter GeV gamma ray laser photon rocket is possible by a relativistic proton-antiproton pinch discharge, where the recoil from the laser beam is transmitted by the Mössbauer effect to the spacecraft.
+
+Rockets with an external energy source
+Rockets deriving their power from external sources, such as a laser, could replace their internal energy source with an energy collector, potentially reducing the mass of the ship greatly and allowing much higher travel speeds. Geoffrey A. Landis proposed an interstellar probe propelled by an ion thruster powered by the energy beamed to it from a base station laser. Lenard and Andrews proposed using a base station laser to accelerate nuclear fuel pellets towards a Mini-Mag Orion spacecraft that ignites them for propulsion.[55]
+
+Non-rocket concepts
+A problem with all traditional rocket propulsion methods is that the spacecraft would need to carry its fuel with it, thus making it very massive, in accordance with the rocket equation. Several concepts attempt to escape from this problem:
+
+RF resonant cavity thruster
+A radio frequency (RF) resonant cavity thruster is a device that is claimed to be a spacecraft thruster. In 2016, the Advanced Propulsion Physics Laboratory at NASA reported observing a small apparent thrust from one such test, a result not since replicated. One of the designs is called EMDrive. In December 2002, Satellite Propulsion Research Ltd described a working prototype with an alleged total thrust of about 0.02 newtons powered by an 850 W cavity magnetron. The device could operate for only a few dozen seconds before the magnetron failed, due to overheating. The latest test on the EMDrive concluded that it does not work.
+
+Helical engine
+Proposed in 2019 by NASA scientist Dr. David Burns, the helical engine concept would use a particle accelerator to accelerate particles to near the speed of light. Since particles traveling at such speeds acquire more mass, it is believed that this mass change could create acceleration. According to Burns, the spacecraft could theoretically reach 99% the speed of light.
+
+Interstellar ramjets
+In 1960, Robert W. Bussard proposed the Bussard ramjet, a fusion rocket in which a huge scoop would collect the diffuse hydrogen in interstellar space, "burn" it on the fly using a proton–proton chain reaction, and expel it out of the back. Later calculations with more accurate estimates suggest that the thrust generated would be less than the drag caused by any conceivable scoop design. Yet the idea is attractive because the fuel would be collected en route (commensurate with the concept of energy harvesting), so the craft could theoretically accelerate to near the speed of light. The limitation is due to the fact that the reaction can only accelerate the propellant to 0.12c. Thus the drag of catching interstellar dust and the thrust of accelerating that same dust to 0.12c would be the same when the speed is 0.12c, preventing further acceleration.
+
+Beamed propulsion
+
+This diagram illustrates Robert L. Forward's scheme for slowing down an interstellar light-sail at the star system destination.
+A light sail or magnetic sail powered by a massive laser or particle accelerator in the home star system could potentially reach even greater speeds than rocket- or pulse propulsion methods, because it would not need to carry its own reaction mass and therefore would only need to accelerate the craft's payload. Robert L. Forward proposed a means for decelerating an interstellar craft with a light sail of 100 kilometers in the destination star system without requiring a laser array to be present in that system. In this scheme, a secondary sail of 30 kilometers is deployed to the rear of the spacecraft, while the large primary sail is detached from the craft to keep moving forward on its own. Light is reflected from the large primary sail to the secondary sail, which is used to decelerate the secondary sail and the spacecraft payload. In 2002, Geoffrey A. Landis of NASA's Glen Research center also proposed a laser-powered, propulsion, sail ship that would host a diamond sail (of a few nanometers thick) powered with the use of solar energy. With this proposal, this interstellar ship would, theoretically, be able to reach 10 percent the speed of light. It has also been proposed to use beamed-powered propulsion to accelerate a spacecraft, and electromagnetic propulsion to decelerate it; thus, eliminating the problem that the Bussard ramjet has with the drag produced during acceleration. 
+A magnetic sail could also decelerate at its destination without depending on carried fuel or a driving beam in the destination system, by interacting with the plasma found in the solar wind of the destination star and the interstellar medium. Successive assists at α Cen A and B could allow travel times to 75 yr to both stars.
+Lightsail has a nominal mass-to-surface ratio (σnom) of 8.6×10−4 gram m−2 for a nominal graphene-class sail.
+Area of the Lightsail, about 105 m2 = (316 m)2
+Velocity up to 37,300 km s−1 (12.5% c)
+Pre-accelerated fuel
+Achieving start-stop interstellar trip times of less than a human lifetime require mass-ratios of between 1,000 and 1,000,000, even for the nearer stars. This could be achieved by multi-staged vehicles on a vast scale. Alternatively, large linear accelerators could propel fuel to fission propelled space-vehicles, avoiding the limitations of the Rocket equation.
+
+Theoretical concepts
+Transmission of minds with light
+Uploaded human minds or AI could be transmitted with laser or radio signals at the speed of light. This requires a receiver at the destination which would first have to be set up e.g. by humans, probes, self-replicating machines (potentially along with AI or uploaded humans), or an alien civilization (which might also be in a different galaxy, perhaps a Kardashev type III civilization).
+
+Faster-than-light travel
+
+Artist's depiction of a hypothetical Wormhole Induction Propelled Spacecraft, based loosely on the 1994 "warp drive" paper of Miguel Alcubierre.
+Main article: Faster-than-light
+Scientists and authors have postulated a number of ways by which it might be possible to surpass the speed of light, but even the most serious-minded of these are highly speculative.
+
+It is also debatable whether faster-than-light travel is physically possible, in part because of causality concerns: travel faster than light may, under certain conditions, permit travel backwards in time within the context of special relativity. Proposed mechanisms for faster-than-light travel within the theory of general relativity require the existence of exotic matter and it is not known if this could be produced in sufficient quantity.
+
+Alcubierre drive
+Main article: Alcubierre drive
+In physics, the Alcubierre drive is based on an argument, within the framework of general relativity and without the introduction of wormholes, that it is possible to modify spacetime in a way that allows a spaceship to travel with an arbitrarily large speed by a local expansion of spacetime behind the spaceship and an opposite contraction in front of it.[72] Nevertheless, this concept would require the spaceship to incorporate a region of exotic matter, or hypothetical concept of negative mass.
+
+Artificial black hole
+Main article: Black hole starship
+A theoretical idea for enabling interstellar travel is by propelling a starship by creating an artificial black hole and using a parabolic reflector to reflect its Hawking radiation. Although beyond current technological capabilities, a black hole starship offers some advantages compared to other possible methods. Getting the black hole to act as a power source and engine also requires a way to convert the Hawking radiation into energy and thrust. One potential method involves placing the hole at the focal point of a parabolic reflector attached to the ship, creating forward thrust. A slightly easier, but less efficient method would involve simply absorbing all the gamma radiation heading towards the fore of the ship to push it onwards, and let the rest shoot out the back.
+
+
+
+
+Wormholes
+
+Wormholes are conjectural distortions in spacetime that theorists postulate could connect two arbitrary points in the universe, across an Einstein–Rosen Bridge. It is not known whether wormholes are possible in practice. Although there are solutions to the Einstein equation of general relativity that allow for wormholes, all of the currently known solutions involve some assumption, for example the existence of negative mass, which may be unphysical. However, Cramer et al. argue that such wormholes might have been created in the early universe, stabilized by cosmic strings. The general theory of wormholes is discussed by Visser in the book Lorentzian Wormholes.
+
+Designs and studies
+Enzmann starship
+Main article: Enzmann starship
+The Enzmann starship, as detailed by G. Harry Stine in the October 1973 issue of Analog, was a design for a future starship, based on the ideas of Robert Duncan-Enzmann. The spacecraft itself as proposed used a 12,000,000 ton ball of frozen deuterium to power 12–24 thermonuclear pulse propulsion units. Twice as long as the Empire State Building is tall and assembled in-orbit, the spacecraft was part of a larger project preceded by interstellar probes and telescopic observation of target star systems.
+
+Project Hyperion
+Project Hyperion, one of the projects of Icarus Interstellar has looked into various feasibility issues of crewed interstellar travel. Its members continue to publish on crewed interstellar travel in collaboration with the Initiative for Interstellar Studies.
+
+NASA research
+NASA has been researching interstellar travel since its formation, translating important foreign language papers and conducting early studies on applying fusion propulsion, in the 1960s, and laser propulsion, in the 1970s, to interstellar travel.
+
+In 1994, NASA and JPL cosponsored a "Workshop on Advanced Quantum/Relativity Theory Propulsion" to "establish and use new frames of reference for thinking about the faster-than-light (FTL) question".
+
+The NASA Breakthrough Propulsion Physics Program (terminated in FY 2003 after a 6-year, $1.2-million study, because "No breakthroughs appear imminent.") identified some breakthroughs that are needed for interstellar travel to be possible.
+
+Geoffrey A. Landis of NASA's Glenn Research Center states that a laser-powered interstellar sail ship could possibly be launched within 50 years, using new methods of space travel. "I think that ultimately we're going to do it, it's just a question of when and who," Landis said in an interview. Rockets are too slow to send humans on interstellar missions. Instead, he envisions interstellar craft with extensive sails, propelled by laser light to about one-tenth the speed of light. It would take such a ship about 43 years to reach Alpha Centauri if it passed through the system without stopping. Slowing down to stop at Alpha Centauri could increase the trip to 100 years, whereas a journey without slowing down raises the issue of making sufficiently accurate and useful observations and measurements during a fly-by.
+
+100 Year Starship study
+The 100 Year Starship (100YSS) study was the name of a one-year project to assess the attributes of and lay the groundwork for an organization that can carry forward the 100 Year Starship vision. 100YSS-related symposia were organized between 2011 and 2015.
+
+Harold ("Sonny") White from NASA's Johnson Space Center is a member of Icarus Interstellar,[88] the nonprofit foundation whose mission is to realize interstellar flight before the year 2100. At the 2012 meeting of 100YSS, he reported using a laser to try to warp spacetime by 1 part in 10 million with the aim of helping to make interstellar travel possible.
+
+Other designs
+Project Orion, human crewed interstellar ship (1958–1968).
+Project Daedalus, uncrewed interstellar probe (1973–1978).
+Starwisp, uncrewed interstellar probe (1985).[90]
+Project Longshot, uncrewed interstellar probe (1987–1988).
+Starseed/launcher, fleet of uncrewed interstellar probes (1996)
+Project Valkyrie, human crewed interstellar ship (2009)
+Project Icarus, uncrewed interstellar probe (2009–2014).
+Sun-diver, uncrewed interstellar probe
+Project Dragonfly, small laser-propelled interstellar probe (2013-2015).
+Breakthrough Starshot, fleet of uncrewed interstellar probes, announced on April 12, 2016.
+Non-profit organizations
+A few organisations dedicated to interstellar propulsion research and advocacy for the case exist worldwide. These are still in their infancy, but are already backed up by a membership of a wide variety of scientists, students and professionals.
+
+Initiative for Interstellar Studies (UK)
+Tau Zero Foundation (USA)
+Limitless Space Institute (USA)
+Feasibility
+The energy requirements make interstellar travel very difficult. It has been reported that at the 2008 Joint Propulsion Conference, multiple experts opined that it was improbable that humans would ever explore beyond the Solar System. Brice N. Cassenti, an associate professor with the Department of Engineering and Science at Rensselaer Polytechnic Institute, stated that at least 100 times the total energy output of the entire world [in a given year] would be required to send a probe to the nearest star.
+
+Astrophysicist Sten Odenwald stated that the basic problem is that through intensive studies of thousands of detected exoplanets, most of the closest destinations within 50 light years do not yield Earth-like planets in the star's habitable zones. Given the multitrillion-dollar expense of some of the proposed technologies, travelers will have to spend up to 200 years traveling at 20% the speed of light to reach the best known destinations. Moreover, once the travelers arrive at their destination (by any means), they will not be able to travel down to the surface of the target world and set up a colony unless the atmosphere is non-lethal. The prospect of making such a journey, only to spend the rest of the colony's life inside a sealed habitat and venturing outside in a spacesuit, may eliminate many prospective targets from the list.
+
+Moving at a speed close to the speed of light and encountering even a tiny stationary object like a grain of sand will have fatal consequences. For example, a gram of matter moving at 90% of the speed of light contains a kinetic energy corresponding to a small nuclear bomb (around 30kt TNT).
+
+One of the major stumbling blocks is having enough Onboard Spares & Repairs facilities for such a lengthy time journey assuming all other considerations are solved, without access to all the resources available on Earth.
+
+
+
+Interstellar missions not for human benefit
+Explorative high-speed missions to Alpha Centauri, as planned for by the Breakthrough Starshot initiative, are projected to be realizable within the 21st century. It is alternatively possible to plan for uncrewed slow-cruising missions taking millennia to arrive. These probes would not be for human benefit in the sense that one cannot foresee whether there would be anybody around on Earth interested in then back-transmitted science data. An example would be the Genesis mission, which aims to bring unicellular life, in the spirit of directed panspermia, to habitable but otherwise barren planets. Comparatively slow cruising Genesis probes, with a typical speed of {\displaystyle c/300}{\displaystyle c/300}, corresponding to about {\displaystyle 1000\,{\mbox{km/s}}}{\displaystyle 1000\,{\mbox{km/s}}}, can be decelerated using a magnetic sail. Uncrewed missions not for human benefit would hence be feasible. For biotic ethics, and their extension to space as panbiotic ethics, it is a human purpose to secure and propagate life and to use space to maximize life.
+
+Discovery of Earth-like planets
+In February 2017, NASA announced that its Spitzer Space Telescope had revealed seven Earth-size planets in the TRAPPIST-1 system orbiting an ultra-cool dwarf star 40 light-years away from the Solar System. Three of these planets are firmly located in the habitable zone, the area around the parent star where a rocky planet is most likely to have liquid water. The discovery sets a new record for greatest number of habitable-zone planets found around a single star outside the Solar System. All of these seven planets could have liquid water – the key to life as we know it – under the right atmospheric conditions, but the chances are highest with the three in the habitable zone. <|endoftext|>
+ION THRUSTER
+
+An ion thruster, ion drive, or ion engine is a form of electric propulsion used for spacecraft propulsion. It creates thrust by accelerating ions using electricity.
+The 2.3 kW NSTAR ion thruster of the NASA for the Deep Space 1 spacecraft during a hot fire test at the Jet Propulsion Laboratory.
+NEXIS ion engine test
+A prototype of a xenon ion engine being tested at NASA's Jet Propulsion Laboratory
+An ion thruster ionizes a neutral gas by extracting some electrons out of atoms, creating a cloud of positive ions. These ion thrusters rely mainly on electrostatics as ions are accelerated by the Coulomb force along an electric field. Temporarily stored electrons are finally reinjected by a neutralizer in the cloud of ions after it has passed through the electrostatic grid, so the gas becomes neutral again and can freely disperse in space without any further electrical interaction with the thruster. By contrast, electromagnetic thrusters use the Lorentz force to accelerate all species (free electrons as well as positive and negative ions) in the same direction whatever their electric charge, and are specifically referred to as plasma propulsion engines, where the electric field is not in the direction of the acceleration.
+Ion thrusters in operation typically consume 1–7 kW of power, have exhaust velocities around 20–50 km/s (Isp 2000–5000 s), and possess thrusts of 25–250 mN and a propulsive efficiency 65–80% though experimental versions have achieved 100 kW (130 hp), 5 N (1.1 lbf).
+
+The Deep Space 1 spacecraft, powered by an ion thruster, changed velocity by 4.3 km/s (2.7 mi/s) while consuming less than 74 kg (163 lb) of xenon. The Dawn spacecraft broke the record, with a velocity change of 11.5 km/s (7.1 mi/s), though it was only half as efficient, requiring 425 kg (937 lb) of xenon.
+
+Applications include control of the orientation and position of orbiting satellites (some satellites have dozens of low-power ion thrusters) and use as a main propulsion engine for low-mass robotic space vehicles (such as Deep Space 1 and Dawn).
+
+Ion thrust engines are practical only in the vacuum of space and cannot take vehicles through the atmosphere because ion engines do not work in the presence of ions outside the engine; additionally, the engine's minuscule thrust cannot overcome any significant air resistance. An ion engine cannot generate sufficient thrust to achieve initial liftoff from any celestial body with significant surface gravity. For these reasons, spacecraft must rely on other methods such as conventional chemical rockets or non-rocket launch technologies to reach their initial orbit.
+
+Contents
+Origins
+
+SERT-1 spacecraft
+The first person who wrote a paper introducing the idea publicly was Konstantin Tsiolkovsky in 1911. The technique was recommended for near-vacuum conditions at high altitude, but thrust was demonstrated with ionized air streams at atmospheric pressure. The idea appeared again in Hermann Oberth's "Wege zur Raumschiffahrt" (Ways to Spaceflight), published in 1929, where he explained his thoughts on the mass savings of electric propulsion, predicted its use in spacecraft propulsion and attitude control, and advocated electrostatic acceleration of charged gasses.
+
+A working ion thruster was built by Harold R. Kaufman in 1959 at the NASA Glenn Research Center facilities. It was similar to a gridded electrostatic ion thruster and used mercury for propellant. Suborbital tests were conducted during the 1960s and in 1964, the engine was sent into a suborbital flight aboard the Space Electric Rocket Test-1 (SERT-1). It successfully operated for the planned 31 minutes before falling to Earth.This test was followed by an orbital test, SERT-2, in 1970.
+
+An alternate form of electric propulsion, the Hall-effect thruster, was studied independently in the United States and the Soviet Union in the 1950s and 1960s. Hall-effect thrusters operated on Soviet satellites from 1972 until the late 1990s, mainly used for satellite stabilization in north–south and in east–west directions. Some 100–200 engines completed missions on Soviet and Russian satellites. Soviet thruster design was introduced to the West in 1992 after a team of electric propulsion specialists, under the support of the Ballistic Missile Defense Organization, visited Soviet laboratories.
+
+General working principle
+Ion thrusters use beams of ions (electrically charged atoms or molecules) to create thrust in accordance with momentum conservation. The method of accelerating the ions varies, but all designs take advantage of the charge/mass ratio of the ions. This ratio means that relatively small potential differences can create high exhaust velocities. This reduces the amount of reaction mass or propellant required, but increases the amount of specific power required compared to chemical rockets. Ion thrusters are therefore able to achieve high specific impulses. The drawback of the low thrust is low acceleration because the mass of the electric power unit directly correlates with the amount of power. This low thrust makes ion thrusters unsuited for launching spacecraft into orbit, but effective for in-space propulsion over longer periods of time.
+
+Ion thrusters are categorized as either electrostatic or electromagnetic. The main difference is the method for accelerating the ions.
+
+Electrostatic ion thrusters use the Coulomb force and accelerate the ions in the direction of the electric field.
+Electromagnetic ion thrusters use the Lorentz force to move the ions.
+Electric power for ion thrusters is usually provided by solar panels. However, for sufficiently large distances from the sun, nuclear power may be used. In each case, the power supply mass is proportional to the peak power that can be supplied, and both provide, for this application, almost no limit to the energy.
+Where:
+F is the thrust force in N,
+η is the efficiency
+P is the electrical power used by the thruster in W, and
+Isp is the specific impulse in seconds.
+The ion thruster is not the most promising type of electrically powered spacecraft propulsion, but it is the most successful in practice to date. An ion drive would require two days to accelerate a car to highway speed in vacuum. The technical characteristics, especially thrust, are considerably inferior to the prototypes described in literature, technical capabilities are limited by the space charge created by ions. This limits the thrust density (force per cross-sectional area of the engine). Ion thrusters create small thrust levels (the thrust of Deep Space 1 is approximately equal to the weight of one sheet of paper) compared to conventional chemical rockets, but achieve high specific impulse, or propellant mass efficiency, by accelerating the exhaust to high speed. The power imparted to the exhaust increases with the square of exhaust velocity while thrust increase is linear. Conversely, chemical rockets provide high thrust, but are limited in total impulse by the small amount of energy that can be stored chemically in the propellants. Given the practical weight of suitable power sources, the acceleration from an ion thruster is frequently less than one-thousandth of standard gravity. However, since they operate as electric (or electrostatic) motors, they convert a greater fraction of input power into kinetic exhaust power. Chemical rockets operate as heat engines, and Carnot's theorem limits the exhaust velocity.
+
+Electrostatic thrusters
+Gridded electrostatic ion thrusters
+Main article: Gridded ion thruster
+
+A diagram of how a gridded electrostatic ion engine (multipole magnetic cusp type) works
+Gridded electrostatic ion thrusters development started in the 1960s and, since then, it has been used for commercial satellite propulsion and scientific missions. Their main feature is that the propellant ionization process is physically separated from the ion acceleration process.
+
+The ionization process takes place in the discharge chamber, where by bombarding the propellant with energetic electrons, as the energy transferred ejects valence electrons from the propellant gas's atoms. These electrons can be provided by a hot cathode filament and accelerated through the potential difference towards an anode. Alternatively, the electrons can be accelerated by an oscillating induced electric field created by an alternating electromagnet, which results in a self-sustaining discharge without a cathode (radio frequency ion thruster).
+
+The positively charged ions are extracted by a system consisting of 2 or 3 multi-aperture grids. After entering the grid system near the plasma sheath, the ions are accelerated by the potential difference between the first grid and second grid (called the screen grid and the accelerator grid, respectively) to the final ion energy of (typically) 1–2 keV, which generates thrust.
+
+Ion thrusters emit a beam of positively charged ions. To keep the spacecraft from accumulating a charge, another cathode is placed near the engine to emit electrons into the ion beam, leaving the propellant electrically neutral. This prevents the beam of ions from being attracted (and returning) to the spacecraft, which would cancel the thrust.
+
+Gridded electrostatic ion thruster research (past/present):
+
+NASA Solar Technology Application Readiness (NSTAR), 2.3 kW, used on two successful missions
+NASA's Evolutionary Xenon Thruster (NEXT), 6.9 kW, flight qualification hardware built
+Nuclear Electric Xenon Ion System (NEXIS)
+High Power Electric Propulsion (HiPEP), 25 kW, test example built and run briefly on the ground
+EADS Radio-frequency Ion Thruster (RIT)
+Dual-Stage 4-Grid (DS4G)
+Hall-effect thrusters
+Main article: Hall-effect thruster
+
+Schematic of a Hall-effect thruster
+Hall-effect thrusters accelerate ions by means of an electric potential between a cylindrical anode and a negatively charged plasma that forms the cathode. The bulk of the propellant (typically xenon) is introduced near the anode, where it ionizes and flows toward the cathode; ions accelerate towards and through it, picking up electrons as they leave to neutralize the beam and leave the thruster at high velocity.
+
+The anode is at one end of a cylindrical tube. In the center is a spike that is wound to produce a radial magnetic field between it and the surrounding tube. The ions are largely unaffected by the magnetic field, since they are too massive. However, the electrons produced near the end of the spike to create the cathode are trapped by the magnetic field and held in place by their attraction to the anode. Some of the electrons spiral down towards the anode, circulating around the spike in a Hall current. When they reach the anode they impact the uncharged propellant and cause it to be ionized, before finally reaching the anode and completing the circuit.
+
+Field-emission electric propulsion
+Main article: Field-emission electric propulsion
+Field-emission electric propulsion (FEEP) thrusters may use caesium or indium propellants. The design comprises a small propellant reservoir that stores the liquid metal, a narrow tube or a system of parallel plates that the liquid flows through and an accelerator (a ring or an elongated aperture in a metallic plate) about a millimeter past the tube end. Caesium and indium are used due to their high atomic weights, low ionization potentials and low melting points. Once the liquid metal reaches the end of the tube, an electric field applied between the emitter and the accelerator causes the liquid surface to deform into a series of protruding cusps, or Taylor cones. At a sufficiently high applied voltage, positive ions are extracted from the tips of the cones. The electric field created by the emitter and the accelerator then accelerates the ions. An external source of electrons neutralizes the positively charged ion stream to prevent charging of the spacecraft.
+
+Electromagnetic thrusters
+Learn more
+This article or section appears to contradict the article Electrically powered spacecraft propulsion. (April 2018)
+Main article: Plasma propulsion engine
+Pulsed inductive thrusters
+Main article: Pulsed inductive thruster
+Pulsed inductive thrusters (PIT) use pulses instead of continuous thrust and have the ability to run on power levels on the order of megawatts (MW). PITs consist of a large coil encircling a cone shaped tube that emits the propellant gas. Ammonia is the gas most commonly used. For each pulse, a large charge builds up in a group of capacitors behind the coil and is then released. This creates a current that moves circularly in the direction of jθ. The current then creates a magnetic field in the outward radial direction (Br), which then creates a current in the gas that has just been released in the opposite direction of the original current. This opposite current ionizes the ammonia. The positively charged ions are accelerated away from the engine due to the electric field jθ crossing the magnetic field Br, due to the Lorentz Force.
+
+Magnetoplasmadynamic thruster
+Main article: Magnetoplasmadynamic thruster
+Magnetoplasmadynamic (MPD) thrusters and lithium Lorentz force accelerator (LiLFA) thrusters use roughly the same idea. The LiLFA thruster builds on the MPD thruster. Hydrogen, argon, ammonia and nitrogen can be used as propellant. In a certain configuration, the ambient gas in low Earth orbit (LEO) can be used as a propellant. The gas enters the main chamber where it is ionized into plasma by the electric field between the anode and the cathode. This plasma then conducts electricity between the anode and the cathode, closing the circuit. This new current creates a magnetic field around the cathode, which crosses with the electric field, thereby accelerating the plasma due to the Lorentz force.
+
+The LiLFA thruster uses the same general idea as the MPD thruster, with two main differences. First, the LiLFA uses lithium vapor, which can be stored as a solid. The other difference is that the single cathode is replaced by multiple, smaller cathode rods packed into a hollow cathode tube. MPD cathodes are easily corroded due to constant contact with the plasma. In the LiLFA thruster, the lithium vapor is injected into the hollow cathode and is not ionized to its plasma form/corrode the cathode rods until it exits the tube. The plasma is then accelerated using the same Lorentz force.
+
+In 2013, Russian company the Chemical Automatics Design Bureau successfully conducted a bench test of their MPD engine for long-distance space travel.
+
+Electrodeless plasma thrusters
+Main article: Electrodeless plasma thruster
+Electrodeless plasma thrusters have two unique features: the removal of the anode and cathode electrodes and the ability to throttle the engine. The removal of the electrodes eliminates erosion, which limits lifetime on other ion engines. Neutral gas is first ionized by electromagnetic waves and then transferred to another chamber where it is accelerated by an oscillating electric and magnetic field, also known as the ponderomotive force. This separation of the ionization and acceleration stages allows throttling of propellant flow, which then changes the thrust magnitude and specific impulse values.
+
+Helicon double layer thrusters
+Main article: Helicon double-layer thruster
+A helicon double layer thruster is a type of plasma thruster that ejects high velocity ionized gas to provide thrust. In this design, gas is injected into a tubular chamber (the source tube) with one open end. Radio frequency AC power (at 13.56 MHz in the prototype design) is coupled into a specially shaped antenna wrapped around the chamber. The electromagnetic wave emitted by the antenna causes the gas to break down and form a plasma. The antenna then excites a helicon wave in the plasma, which further heats it. The device has a roughly constant magnetic field in the source tube (supplied by solenoids in the prototype), but the magnetic field diverges and rapidly decreases in magnitude away from the source region and might be thought of as a kind of magnetic nozzle. In operation, a sharp boundary separates the high density plasma inside the source region and the low density plasma in the exhaust, which is associated with a sharp change in electrical potential. Plasma properties change rapidly across this boundary, which is known as a current-free electric double layer. The electrical potential is much higher inside the source region than in the exhaust and this serves both to confine most of the electrons and to accelerate the ions away from the source region. Enough electrons escape the source region to ensure that the plasma in the exhaust is neutral overall.
+
+Variable Specific Impulse Magnetoplasma Rocket (VASIMR)
+Main article: Variable Specific Impulse Magnetoplasma Rocket
+The proposed Variable Specific Impulse Magnetoplasma Rocket (VASIMR) functions by using radio waves to ionize a propellant into a plasma, and then using a magnetic field to accelerate the plasma out of the back of the rocket engine to generate thrust. The VASIMR is currently being developed by Ad Astra Rocket Company, headquartered in Houston, Texas, with help from Canada-based Nautel, producing the 200 kW RF generators for ionizing propellant. Some of the components and "plasma shoots" experiments are tested in a laboratory settled in Liberia, Costa Rica. This project is led by former NASA astronaut Dr. Franklin Chang-Díaz (CRC-USA). A 200 kW VASIMR test engine was in discussion to be fitted in the exterior of the International Space Station, as part of the plan to test the VASIMR in space – however plans for this test onboard ISS were canceled in 2015 by NASA, with a free flying VASIMR test being discussed by Ad Astra instead. An envisioned 200 megawatt engine could reduce the duration of flight from Earth to Jupiter or Saturn from six years to fourteen months, and Mars from 7 months to 39 days.
+
+Microwave electrothermal thrusters
+Edit
+Microwave electrothermal thruster
+Thruster components
+Thruster components
+Discharge Chamber
+Discharge chamber
+Under a research grant from the NASA Lewis Research Center during the 1980s and 1990s, Martin C. Hawley and Jes Asmussen led a team of engineers in developing a Microwave Electrothermal Thruster (MET).
+
+In the discharge chamber, microwave (MW) energy flows into the center containing a high level of ions (I), causing neutral species in the gaseous propellant to ionize. Excited species flow out (FES) through the low ion region (II) to a neutral region (III) where the ions complete their recombination, replaced with the flow of neutral species (FNS) towards the center. Meanwhile, energy is lost to the chamber walls through heat conduction and convection (HCC), along with radiation (Rad). The remaining energy absorbed into the gaseous propellant is converted into thrust.
+
+Radioisotope thruster
+A theoretical propulsion system has been proposed, based on alpha particles (He2+
+ or 4
+2He2+
+ indicating a helium ion with a +2 charge) emitted from a radioisotope uni-directionally through a hole in its chamber. A neutralising electron gun would produce a tiny amount of thrust with high specific impulse in the order of millions of seconds due to the high relativistic speed of alpha particles.
+
+A variant of this uses a graphite-based grid with a static DC high voltage to increase thrust as graphite has high transparency to alpha particles if it is also irradiated with short wave UV light at the correct wavelength from a solid state emitter. It also permits lower energy and longer half life sources which would be advantageous for a space application. Helium backfill has also been suggested as a way to increase electron mean free path.
+
+Lifetime
+Ion thrusters' low thrust requires continuous operation for a long time to achieve the necessary change in velocity (delta-v) for a particular mission. Ion thrusters are designed to provide continuous operation for intervals of weeks to years.
+
+The lifetime of electrostatic ion thrusters is limited by several processes.
+
+Gridded thruster life
+In electrostatic gridded designs, charge-exchange ions produced by the beam ions with the neutral gas flow can be accelerated towards the negatively biased accelerator grid and cause grid erosion. End-of-life is reached when either the grid structure fails or the holes in the grid become large enough that ion extraction is substantially affected; e.g., by the occurrence of electron backstreaming. Grid erosion cannot be avoided and is the major lifetime-limiting factor. Thorough grid design and material selection enable lifetimes of 20,000 hours or more.
+
+A test of the NASA Solar Technology Application Readiness (NSTAR) electrostatic ion thruster resulted in 30,472 hours (roughly 3.5 years) of continuous thrust at maximum power. Post-test examination indicated the engine was not approaching failure. NSTAR operated for years on Dawn.
+
+The NASA Evolutionary Xenon Thruster (NEXT) project operated continuously for more than 48,000 hours. The test was conducted in a high vacuum test chamber. Over the course of the 5.5+ year test, the engine consumed approximately 870 kilograms of xenon propellant. The total impulse generated would require over 10,000 kilograms of conventional rocket propellant for a similar application.
+
+Hall-effect thruster life
+Hall-effect thrusters suffer from strong erosion of the ceramic discharge chamber by impact of energetic ions: a test reported in 2010 showed erosion of around 1 mm per hundred hours of operation, though this is inconsistent with observed on-orbit lifetimes of a few thousand hours.
+
+The Advanced Electric Propulsion System (AEPS) is expected to accumulate about 5,000 hours and the design aims to achieve a flight model that offers a half-life of at least 23,000 hours and a full life of about 50,000 hours.
+
+Propellants
+Ionization energy represents a large percentage of the energy needed to run ion drives. The ideal propellant is thus easy to ionize and has a high mass/ionization energy ratio. In addition, the propellant should not erode the thruster to any great degree to permit long life; and should not contaminate the vehicle.
+
+Many current designs use xenon gas, as it is easy to ionize, has a reasonably high atomic number, is inert and causes low erosion. However, xenon is globally in short supply and expensive. (~$3,000/kg in 2021)
+
+Some older ion thruster designs used mercury propellant. However, mercury is toxic, tended to contaminate spacecraft, and was difficult to feed accurately. A modern commercial prototype may be using mercury successfully. Mercury was formally banned as a propellant in 2022 by the Minamata Convention on Mercury.
+
+Since 2018, krypton is used to fuel the Hall-effect thrusters aboard Starlink internet satellites, in part due to its lower cost than conventional xenon propellant.
+
+Other propellants, such as bismuth and iodine, show promise both for gridless designs such as Hall-effect thrusters, and gridded ion thrusters.
+
+Iodine was used as a propellant for the first time in space, in the NPT30-I2 gridded ion thruster by ThrustMe, on board the Beihangkongshi-1 mission launched in November 2020, with an extensive report published a year later in the journal Nature. The CubeSat Ambipolar Thruster (CAT) used on the Mars Array of Ionospheric Research Satellites Using the CubeSat Ambipolar Thruster (MARS-CAT) mission also proposes to use solid iodine as the propellant to minimize storage volume.
+
+VASIMR design (and other plasma-based engines) are theoretically able to use practically any material for propellant. However, in current tests the most practical propellant is argon, which is relatively abundant and inexpensive.
+
+Energy efficiency
+
+Plot of   instantaneous propulsive efficiency and   overall efficiency for a vehicle accelerating from rest as percentages of the engine efficiency. Note that peak vehicle efficiency occurs at about 1.6 times exhaust velocity.
+Ion thruster efficiency is the kinetic energy of the exhaust jet emitted per second divided by the electrical power into the device.
+
+Overall system energy efficiency is determined by the propulsive efficiency, which depends on vehicle speed and exhaust speed. Some thrusters can vary exhaust speed in operation, but all can be designed with different exhaust speeds. At the lower end of specific impulse, Isp, the overall efficiency drops, because ionization takes up a larger percentage energy and at the high end propulsive efficiency is reduced.
+
+Optimal efficiencies and exhaust velocities for any given mission can be calculated to give minimum overall cost.
+
+Missions
+Ion thrusters have many in-space propulsion applications. The best applications make use of the long mission interval when significant thrust is not needed. Examples of this include orbit transfers, attitude adjustments, drag compensation for low Earth orbits, fine adjustments for scientific missions and cargo transport between propellant depots, e.g., for chemical fuels. Ion thrusters can also be used for interplanetary and deep-space missions where acceleration rates are not crucial. Ion thrusters are seen as the best solution for these missions, as they require high change in velocity but do not require rapid acceleration. Continuous thrust over long durations can reach high velocities while consuming far less propellant than traditional chemical rockets.
+
+Demonstration vehicles
+SERT
+Ion propulsion systems were first demonstrated in space by the NASA Lewis (now Glenn Research Center) missions Space Electric Rocket Test (SERT)-1 and SERT-2A. A SERT-1 suborbital flight was launched on 20 July 1964, and successfully proved that the technology operated as predicted in space. These were electrostatic ion thrusters using mercury and caesium as the reaction mass. SERT-2A, launched on 4 February 1970, verified the operation of two mercury ion engines for thousands of running hours.
+
+Operational missions
+Ion thrusters are routinely used for station-keeping on commercial and military communication satellites in geosynchronous orbit. The Soviet Union pioneered this field, using Stationary Plasma Thrusters (SPTs) on satellites starting in the early 1970s.
+
+Two geostationary satellites (ESA's Artemis in 2001–2003 and the United States military's AEHF-1 in 2010–2012) used the ion thruster to change orbit after the chemical-propellant engine failed. Boeing began using ion thrusters for station-keeping in 1997 and planned in 2013–2014 to offer a variant on their 702 platform, with no chemical engine and ion thrusters for orbit raising; this permits a significantly lower launch mass for a given satellite capability. AEHF-2 used a chemical engine to raise perigee to 16,330 km (10,150 mi) and proceeded to geosynchronous orbit using electric propulsion.
+
+In Earth orbit
+Tiangong space station
+China's Tiangong space station is fitted with ion thrusters. Tianhe core module is propelled by both chemical thrusters and four Hall-effect thrusters, which are used to adjust and maintain the station's orbit. The development of the Hall-effect thrusters is considered a sensitive topic in China, with scientists "working to improve the technology without attracting attention". Hall-effect thrusters are created with crewed mission safety in mind with effort to prevent erosion and damage caused by the accelerated ion particles. A magnetic field and specially designed ceramic shield was created to repel damaging particles and maintain integrity of the thrusters. According to the Chinese Academy of Sciences, the ion drive used on Tiangong has burned continuously for 8,240 hours without a glitch, indicating their suitability for Chinese space station's designated 15-year lifespan.
+
+Starlink
+SpaceX's Starlink satellite constellation uses Hall-effect thrusters powered by krypton to raise orbit, perform maneuvers, and de-orbit at the end of their use.
+
+GOCE
+ESA's Gravity Field and Steady-State Ocean Circulation Explorer (GOCE) was launched on 16 March 2009. It used ion propulsion throughout its twenty-month mission to combat the air-drag it experienced in its low orbit (altitude of 255 kilometres) before intentionally deorbiting on 11 November 2013.
+
+In deep space
+Deep Space 1
+NASA developed the NSTAR ion engine for use in interplanetary science missions beginning in the late-1990s. It was space-tested in the highly successful space probe Deep Space 1, launched in 1998. This was the first use of electric propulsion as the interplanetary propulsion system on a science mission. Based on the NASA design criteria, Hughes Research Labs, developed the Xenon Ion Propulsion System (XIPS) for performing station keeping on geosynchronous satellites. Hughes (EDD) manufactured the NSTAR thruster used on the spacecraft.
+
+Hayabusa and Hayabusa2
+The Japanese Aerospace Exploration Agency's Hayabusa space probe was launched in 2003 and successfully rendezvoused with the asteroid 25143 Itokawa. It was powered by four xenon ion engines, which used microwave electron cyclotron resonance to ionize the propellant and an erosion-resistant carbon/carbon-composite material for its acceleration grid. Although the ion engines on Hayabusa experienced technical difficulties, in-flight reconfiguration allowed one of the four engines to be repaired and allowed the mission to successfully return to Earth.
+
+Hayabusa2, launched in 2014, was based on Hayabusa. It also used ion thrusters.
+
+Smart 1
+The European Space Agency's satellite SMART-1 launched in 2003 using a Snecma PPS-1350-G Hall thruster to get from GTO to lunar orbit. This satellite completed its mission on 3 September 2006, in a controlled collision on the Moon's surface, after a trajectory deviation so scientists could see the 3 meter crater the impact created on the visible side of the Moon.
+
+Dawn
+Dawn launched on 27 September 2007, to explore the asteroid Vesta and the dwarf planet Ceres. It used three Deep Space 1 heritage xenon ion thrusters (firing one at a time). Dawn's ion drive is capable of accelerating from 0 to 97 km/h (60 mph) in 4 days of continuous firing. The mission ended on 1 November 2018, when the spacecraft ran out of hydrazine chemical propellant for its attitude thrusters.
+
+LISA Pathfinder
+LISA Pathfinder is an ESA spacecraft launched in 2015 to orbit the sun-Earth L1 point. It does not use ion thrusters as its primary propulsion system, but uses both colloid thrusters and FEEP for precise attitude control – the low thrusts of these propulsion devices make it possible to move the spacecraft incremental distances accurately. It is a test for the LISA mission. The mission ended on 30 December 2017.
+
+BepiColombo
+ESA's BepiColombo mission was launched to Mercury on 20 October 2018. It uses ion thrusters in combination with swing-bys to get to Mercury, where a chemical rocket will complete orbit insertion.
+
+Double Asteroid Redirection Test
+NASA's Double Asteroid Redirection Test (DART) was launched in 2021 and operated its NEXT-C xenon ion thruster for about 1,000 hours to reach the target asteroid on 28 September 2022.
+
+Proposed missions
+International Space Station
+As of March 2011, a future launch of an Ad Astra VF-200 200 kW VASIMR electromagnetic thruster was under consideration for testing on the International Space Station (ISS). However, in 2015, NASA ended plans for flying the VF-200 to the ISS. A NASA spokesperson stated that the ISS "was not an ideal demonstration platform for the desired performance level of the engines". Ad Astra stated that tests of a VASIMR thruster on the ISS would remain an option after a future in-space demonstration.
+
+The VF-200 would have been a flight version of the VX-200. Since the available power from the ISS is less than 200 kW, the ISS VASIMR would have included a trickle-charged battery system allowing for 15 minutes pulses of thrust. The ISS orbits at a relatively low altitude and experiences fairly high levels of atmospheric drag, requiring periodic altitude boosts – a high efficiency engine (high specific impulse) for station-keeping would be valuable, theoretically VASIMR reboosting could cut fuel cost from the current US$210 million annually to one-twentieth. VASIMR could in theory use as little as 300 kg of argon gas for ISS station-keeping instead of 7500 kg of chemical fuel – the high exhaust velocity (high specific impulse) would achieve the same acceleration with a smaller amount of propellant, compared to chemical propulsion with its lower exhaust velocity needing more fuel. Hydrogen is generated by the ISS as a by-product and is vented into space.
+
+NASA previously worked on a 50 kW Hall-effect thruster for the ISS, but work was stopped in 2005.
+
+Lunar Gateway
+The Power and Propulsion Element (PPE) is a module on the Lunar Gateway that provides power generation and propulsion capabilities. It is targeting launch on a commercial vehicle in January 2024. It would probably use the 50 kW Advanced Electric Propulsion System (AEPS) under development at NASA Glenn Research Center and Aerojet Rocketdyne.
+
+MARS-CAT
+The MARS-CAT (Mars Array of ionospheric Research Satellites using the CubeSat Ambipolar Thruster) mission is a two 6U CubeSat concept mission to study Mars' ionosphere. The mission would investigate its plasma and magnetic structure, including transient plasma structures, magnetic field structure, magnetic activity and correlation with solar wind drivers.The CAT thruster is now called the RF thruster and manufactured by Phase Four.
+
+Interstellar missions
+Geoffrey A. Landis proposed using an ion thruster powered by a space-based laser, in conjunction with a lightsail, to propel an interstellar probe.
+
+Popular culture
+The idea of an ion engine first appeared in Donald W Horner's by Aeroplane to the Sun: Being the Adventures of a Daring Aviator and his Friends 
+Ion propulsion is the main thrust source of the spaceship Kosmokrator in the Eastern German/Polish science fiction movie Der Schweigende Stern.
+In the 1968 episode of Star Trek, "Spock's Brain", Scotty is repeatedly impressed by a civilization's use of ion power. <{endoftext|>
+ISRO
+The Indian Space Research Organisation[a] (ISRO; /ˈɪsroʊ/) is the national space agency of India, headquartered in Bangalore. It operates under the Department of Space (DOS) which is directly overseen by the Prime Minister of India, while the Chairman of ISRO acts as the executive of DOS as well. ISRO is India's primary agency for performing tasks related to space-based applications, space exploration and the development of related technologies. It is one of six government space agencies in the world which possess full launch capabilities, deploy cryogenic engines, launch extraterrestrial missions and operate large fleets of artificial satellites.
+Indian Space Research Organisation
+Indian Space Research Organisation Logo.svg
+ISRO logo (adopted in 2002)
+Agency overview
+Abbreviation
+ISRO
+Formed
+15 August 1969; 53 years ago
+Preceding agency
+Indian National Committee for Space Research
+(INCOSPAR)
+Type
+Space agency
+Jurisdiction
+Government of India
+Headquarters
+Bangalore, India
+12°57′56″N 77°41′53″E
+Chairman
+Sreedhara Panicker Somanath
+Primary spaceports
+Thumba Equatorial Rocket Launching Station (TERLS),
+Thumba, Thiruvananthapuram, Kerala
+Satish Dhawan Space Centre (SDSC),
+Sriharikota, Andhra Pradesh
+Kulasekharapatnam SSLV Launching Station (Planned),
+Kulasekharapatnam, Tamil Nadu
+Owner
+ India
+Employees
+16,786 as of 2022
+Annual budget
+Increase ₹13,700 crore (US$1.7 billion) (2022–23)
+The Indian National Committee for Space Research (INCOSPAR) was established by Jawaharlal Nehru under the Department of Atomic Energy (DAE) in 1962, on the urging of scientist Vikram Sarabhai, recognising the need in space research. INCOSPAR grew and became ISRO in 1969, within DAE. In 1972, the government of India set up a Space Commission and DOS, bringing ISRO under it. The establishment of ISRO thus institutionalised space research activities in India. It since then has been managed by DOS, which governs various other institutions in India in the domain of astronomy and space technology.
+
+ISRO built India's first satellite, Aryabhata, which was launched by the Soviet Union in 1975. In 1980, ISRO launched satellite RS-1 onboard its own SLV-3, making India the seventh country to be capable of undertaking orbital launches. SLV-3 was followed by ASLV, which was subsequently succeeded by development of many medium-lift launch vehicles, rocket engines, satellite systems and networks enabling the agency to launch hundreds of domestic and foreign satellites and various deep space missions for space exploration.
+ISRO has the world's largest constellation of remote-sensing satellites and operates the GAGAN and NAVIC satellite navigation systems. It has sent two missions to the Moon and one to Mars.
+Goals in near future include expanding satellites fleet, landing a rover on Moon, sending humans into space, development of a semi-cryogenic engine, sending more unmanned missions to the Moon, Mars, Venus and Sun and deployment of more space telescopes in orbit to observe cosmic phenomena and outerspace beyond the Solar System. Long-term plans include development of reusable launchers, heavy and super heavy launch vehicles, deploying a space station, sending exploration missions to external planets like Jupiter, Uranus, Neptune and asteroids and manned missions to moons and planets.
+ISRO's programs have played a significant role in the socio-economic development of India and have supported both civilian and military domains in various aspects including disaster management, telemedicine and navigation and reconnaissance missions. ISRO's spin off technologies also have founded many crucial innovations for India's engineering and medical industries.
+
+Contents
+History
+Formative years
+
+An Arcas rocket being loaded into launch tube at Thumba Launching Station. In the early days of ISRO, rocket parts were often transported on bicycles and bullock carts.
+Modern space research in India can be traced to the 1920s, when scientist S. K. Mitra conducted a series of experiments sounding of the ionosphere through ground-based radio in Kolkata. Later, Indian scientists like C.V. Raman and Meghnad Saha contributed to scientific principles applicable in space sciences. After 1945, important developments were made in coordinated space research in India by two scientists: Vikram Sarabhai—founder of the Physical Research Laboratory at Ahmedabad—and Homi Bhabha, who established the Tata Institute of Fundamental Research in 1945. Initial experiments in space sciences included the study of cosmic radiation, high altitude and airborne testing, deep underground experimentation at the Kolar mines—one of the deepest mining sites in the world—and studies of the upper atmosphere. These studies were done at research laboratories, universities, and independent locations.
+
+In 1950, the Department of Atomic Energy (DAE) was founded with Bhabha as its secretary. It provided funding for space research throughout India. During this time, tests continued on aspects of meteorology and the Earth's magnetic field, a topic that had been studied in India since the establishment of the Colaba Observatory in 1823. In 1954, the Aryabhatta Research Institute of Observational Sciences (ARIES) was established in the foothills of the Himalayas. The Rangpur Observatory was set up in 1957 at Osmania University, Hyderabad. Space research was further encouraged by the government of India. In 1957, the Soviet Union launched Sputnik 1 and opened up possibilities for the rest of the world to conduct a space launch.
+
+The Indian National Committee for Space Research (INCOSPAR) was set up in 1962 by Prime Minister Jawaharlal Nehru on the urging of Vikram Sarabhai. There was no dedicated ministry for the space program initially and all activities of INCOSPAR relating to space technology continued to function within DAE. H.G.S. Murthy was appointed the first director of the Thumba Equatorial Rocket Launching Station, where sounding rockets were fired, marking the start of upper atmospheric research in India. An indigenous series of sounding rockets named Rohini was subsequently developed and started undergoing launches from 1967 onwards.
+
+1970s and 1980s
+Under the government of Indira Gandhi, INCOSPAR was superseded by ISRO. Later in 1972, a space commission and Department of Space (DOS) were set up to oversee space technology development in India specifically and ISRO was brought under DOS, institutionalising space research in India and forging the Indian space program into its existing form.[10][12] India joined the Soviet Interkosmos program for space cooperation and got its first satellite Aryabhatta in orbit through a Soviet rocket.
+
+Efforts to develop an orbital launch vehicle began after mastering sounding rocket technology. The concept was to develop a launcher capable of providing sufficient velocity for a mass of 35 kg (77 lb) to enter low Earth orbit. It took 7 years for ISRO to develop Satellite Launch Vehicle capable of putting 40 kg (88 lb) into a 400-kilometre (250 mi) orbit. An SLV Launch Pad, ground stations, tracking networks, radars and other communications were set up for a launch campaign. The SLV's first launch in 1979 carried a Rohini technology payload but could not inject the satellite into its desired orbit. It was followed by a successful launch in 1980 carrying a Rohini Series-I satellite, making India the seventh country to reach Earth's orbit after the USSR, the US, France, the UK, China and Japan. RS-1 was the third Indian satellite to reach orbit as Bhaskara had been launched from the USSR in 1979. Efforts to develop a medium-lift launch vehicle capable of putting 600-kilogram (1,300 lb) class spacecrafts into 1,000-kilometre (620 mi) Sun-synchronous orbit had already begun in 1978. They would later lead to the development of PSLV. The SLV-3 later had two more launches before discontinuation in 1983. ISRO's Liquid Propulsion Systems Centre (LPSC) was set up in 1985 and started working on a more powerful engine, Vikas, based upon the French Viking. Two years later, facilities to test liquid fueled rocket engines were established and development and testing of various rocket engines thrusters began.
+
+At the same time, another solid fueled rocket Augmented Satellite Launch Vehicle based upon SLV-3 was being developed, and technologies to launch satellites into geostationary orbit (GTO). ASLV had limited success and multiple launch failures; it was soon discontinued. Alongside, technologies for the Indian National Satellite System of communication satellites and the Indian Remote Sensing Programme for earth observation satellites were developed and launches from overseas initiated. The number of satellites eventually grew and the systems were established as among the largest satellite constellations in the world, with multi-band communication, radar imaging, optical imaging and meteorological satellites.
+
+1990s and early 21st century
+The arrival of PSLV in 1990s became a major boost for the Indian space program. With the exception of its first flight in 1994 and two partial failures later, PSLV had a streak of more than 50 successful flights. PSLV enabled India to launch all of its low Earth orbit satellites, small payloads to GTO and hundreds of foreign satellites. Along with the PSLV flights, development of a new rocket, a Geosynchronous Satellite Launch Vehicle (GSLV) was going on. India tried to obtain upper-stage cryogenic engines from Russia's Glavkosmos but was blocked by the US from doing so. As a result, KVD-1 engines were imported from Russia under a new agreement which had limited success and a project to develop indigenous cryogenic technology was launched in 1994, taking two decades to reach fulfillment. A new agreement was signed with Russia for seven KVD-1 cryogenic stages and a ground mock-up stage with no technology transfer, instead of five cryogenic stages along with the technology and design in the earlier agreement. These engines were used for the initial flights and were named GSLV Mk.1. ISRO was under US government sanctions between 6 May 1992 to 6 May 1994. After the United States refused to help India with Global Positioning System (GPS) technology during the Kargil war, ISRO was prompted to develop its own satellite navigation system IRNSS which it is now expanding further.
+
+In 2003, when China sent humans into space, Prime Minister Atal Bihari Vajpayee urged scientists to develop technologies to land humans on the Moon and programs for lunar, planetary and crewed missions were started. ISRO launched Chandrayaan-1 in 2008, purportedly the first probe to verify the presence of water on the Moon and the Mars Orbiter Mission in 2013, the first Asian spacecraft to enter Martian orbit; India was the first country to succeed at that on its first attempt. Subsequently, the cryogenic upper stage for GSLV rocket became operational, making India the sixth country to have full launch capabilities. A new heavier-lift launcher GSLV Mk III was introduced in 2014 for heavier satellites and future human space missions.
+
+Agency logo
+ISRO did not have an official logo until 2002. The one adopted consists of an orange arrow shooting upwards attached with two blue coloured satellite panels with the name of ISRO written in two sets of text, orange-coloured Devanagari on the left and blue-coloured English in the Prakrta typeface on the right.
+
+Goals and objectives
+
+Vikram Sarabhai, first chairperson of INCOSPAR, ISRO's predecessor organization
+ISRO is the national space agency of India for the purpose of all space-based applications like reconnaissance, communications and doing research. It undertakes the design and development of space rockets, satellites, explores upper atmosphere and deep space exploration missions. ISRO also has incubated its technologies in India's private space sector, boosting its growth. Sarabhai said in 1969:
+
+There are some who question the relevance of space activities in a developing nation. To us, there is no ambiguity of purpose. We do not have the fantasy of competing with the economically advanced nations in the exploration of the Moon or the planets or manned space-flight. But we are convinced that if we are to play a meaningful role nationally, and in the community of nations, we must be second to none in the application of advanced technologies to the real problems of man and society, which we find in our country. And we should note that the application of sophisticated technologies and methods of analysis to our problems is not to be confused with embarking on grandiose schemes, whose primary impact is for show rather than for progress measured in hard economic and social terms.
+
+The former president of India, A. P. J. Abdul Kalam, said:
+
+Very many individuals with myopic vision questioned the relevance of space activities in a newly independent nation which was finding it difficult to feed its population. But neither Prime Minister Nehru nor Prof. Sarabhai had any ambiguity of purpose. Their vision was very clear: if Indians were to play a meaningful role in the community of nations, they must be second to none in the application of advanced technologies to their real-life problems. They had no intention of using it merely as a means of displaying our might.
+
+India's economic progress has made its space programme more visible and active as the country aims for greater self-reliance in space technology. In 2008, India launched as many as 11 satellites, including nine from other countries, and went on to become the first nation to launch 10 satellites on one rocket. ISRO has put into operation two major satellite systems: the Indian National Satellite System (INSAT) for communication services, and the Indian Remote Sensing Programme (IRS) satellites for management of natural resources.
+
+Organisation structure and facilities
+The organisational structure of the Indian Department of Space
+ISRO is managed by the DOS, which itself falls under the authority of the Space Commission and manages the following agencies and institutes:
+
+Indian Space Research Organisation
+Antrix Corporation – The marketing arm of ISRO, Bengaluru
+Physical Research Laboratory (PRL), Ahmedabad
+National Atmospheric Research Laboratory (NARL), Gadanki, Andhra Pradesh
+NewSpace India Limited – Commercial wing, Bengaluru
+North-Eastern Space Applications Centre[54] (NE-SAC), Umiam
+Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram – India's space university
+Research facilities
+Antrix Corporation Limited (Commercial Wing)
+Main article: Antrix Corporation
+Set up as the marketing arm of ISRO, Antrix's job is to promote products, services and technology developed by ISRO.
+
+NewSpace India Limited (Commercial Wing)
+Main article: NewSpace India Limited
+Set up for marketing spin-off technologies, tech transfers through industry interface and scale up industry participation in the space programmes.
+
+Space Technology Incubation Centre
+ISRO has opened Space Technology Incubation Centres (S-TIC) at premier technical universities in India which will incubate startups to build applications and products in tandem with the industry and would be used for future space missions. The S-TIC will bring the industry, academia and ISRO under one umbrella to contribute towards research and development (R&D) initiatives relevant to the Indian Space Programme. S-TICs are at the National Institute of Technology, Agartala serving for east region, National Institute of Technology, Jalandhar for the north region, and the National Institute of Technology, Tiruchirappalli for the south region of India.
+
+Advance Space Research Group
+Like NASA funded Jet Propulsion Laboratory (JPL) managed by California Institute of Technology (Caltech), ISRO with Indian Institute of Space Science and Technology (IIST) implemented a joint working framework in 2021 in which an Empowered Overseeing Committee (EOC) under Capacity Building Programme Office (CBPO) of ISRO located in Bengaluru will approve all short, medium and long term space research projects of common interest. In return, an Advance Space Research Group (ASRG) formed at IIST under the guidance of EOC will have full access to ISRO facilities. The primary aim is to transform IIST into a premier space research and engineering institute by 2028–2030 that can lead future space exploration missions of ISRO.
+
+Directorate of Space Situational Awareness and Management
+To reduce dependency on North America Aerospace Defense Command (NORAD) for space situational awareness and protect the civilian and military assets, ISRO is setting up telescopes and radars in four locations to cover each direction. Leh, Mount Abu and Ponmudi were selected to station the telescopes and radars that will cover North, West and South of Indian territory. The last one will be in Northeast India to cover the entire eastern region. Satish Dhawan Space Centre at Sriharikota already supports Multi-Object Tracking Radar (MOTR). All the telescopes and radars will come under Directorate of Space Situational Awareness and Management (DSSAM) in Bengaluru. It will collect tracking data on inactive satellites and will also perform research on active debris removal, space debris modelling and mitigation.
+
+For early warning, ISRO began a ₹400 crore (4 billion; US$53 million) project called Network for Space Object Tracking and Analysis (NETRA). It will help the country track atmospheric entry, intercontinental ballistic missile (ICBM), anti-satellite weapon and other space-based attacks. All the radars and telescopes will be connected through NETRA. The system will support remote and scheduled operations. NETRA will follow the Inter-Agency Space Debris Coordination Committee (IASDCC) and United Nations Office for Outer Space Affairs (UNOSA) guidelines. The objective of NETRA is to track objects at a distance of 36,000 kilometres (22,000 mi) in GTO.
+
+India signed a memorandum of understanding on the Space Situational Awareness Data Sharing Pact with the US in April 2022. It will enable Department of Space to collaborate with the Combined Space Operation Center (CSpOC) to protect the space-based assets of both nations from natural and man-made threats.[87] On 11 July 2022, ISRO System for Safe and Sustainable Space Operations Management (IS4OM) at Space Situational Awareness Control Centre, in Peenya was inaugurated by Jitender Singh. It will help provide information on on-orbit collision, fragmentation, atmospheric re-entry risk, space-based strategic information, hazardous asteroids, and space weather forecast. IS4OM will safeguard all the operational space assets, identify and monitor other operational spacecrafts with close approaches which have overpasses over Indian subcontinent and those which conduct intentional manoeuvres with suspicious motives or seek re-entry within South Asia.
+
+Other facilities
+Balasore Rocket Launching Station (BRLS) – Odisha
+Bhaskaracharya Institute For Space Applications and Geo-Informatics (BISAG), Gandhinagar
+Human Space Flight Centre (HSFC), Bengaluru
+Indian National Committee for Space Research (INCOSPAR)
+Indian Regional Navigational Satellite System (IRNSS)
+Indian Space Science Data Centre (ISSDC)
+Integrated Space Cell
+Inter University Centre for Astronomy and Astrophysics (IUCAA)
+ISRO Inertial Systems Unit (IISU) – Thiruvananthapuram
+Master Control Facility
+National Deep Space Observation Centre (NDSPO)
+Regional Remote Sensing Service Centres (RRSSC)
+General satellite programmes
+See also: List of Indian satellites
+INSAT-1B
+Since the launch of Aryabhata in 1975, a number of satellite series and constellations have been deployed by Indian and foreign launchers. At present, ISRO operates one of the largest constellations of active communication and earth imaging satellites for military and civilian uses.
+
+The IRS series
+Main article: Indian Remote Sensing satellite
+The Indian Remote Sensing satellites (IRS) are India's earth observation satellites. They are the largest collection of remote sensing satellites for civilian use in operation today, provideing remote sensing services. All the satellites are placed in polar Sun-synchronous orbit (except GISATs) and provide data in a variety of spatial, spectral and temporal resolutions to enable several programmes to be undertaken relevant to national development. The initial versions are composed of the 1 (A, B, C, D) nomenclature while the later versions were divided into sub-classes named based on their functioning and uses including Oceansat, Cartosat, HySIS, EMISAT and ResourceSat etc. Their names were unified under the prefix "EOS" regardless of functioning in 2020. They support a wide range of applications including optical, radar and electronic reconnaissance for Indian agencies, city planning, oceanography and environmental studies.
+
+The INSAT series
+Main article: Indian National Satellite System
+INSAT-1B satellite: The broadcasting sector in India is highly dependent on INSAT system.
+The Indian National Satellite System (INSAT) is the country's telecommunication system. It is a series of multipurpose geostationary satellites built and launched by ISRO to satisfy the telecommunications, broadcasting, meteorology and search-and-rescue needs. Since the introduction of the first one in 1983, INSAT has become the largest domestic communication system in the Asia-Pacific Region. It is a joint venture of DOS, the Department of Telecommunications, India Meteorological Department, All India Radio and Doordarshan. The overall coordination and management of INSAT system rests with the Secretary-level INSAT Coordination Committee.[90] The nomenclature of the series was changed to "GSAT" from "INSAT", then further changed to "CMS" from 2020 onwards. These satellites have been used by the Indian Armed Forces as well. GSAT-9 or "SAARC Satellite" provides communication services for India's smaller neighbors.
+
+Gagan Satellite Navigation System
+Main article: GPS-aided geo-augmented navigation
+The Ministry of Civil Aviation has decided to implement an indigenous Satellite-Based Regional GPS Augmentation System also known as Space-Based Augmentation System (SBAS) as part of the Satellite-Based Communications, Navigation, Surveillance and Air Traffic Management plan for civil aviation. The Indian SBAS system has been given the acronym GAGAN – GPS Aided GEO Augmented Navigation. A national plan for satellite navigation including implementation of a Technology Demonstration System (TDS) over Indian airspace as a proof of concept has been prepared jointly by Airports Authority of India and ISRO. The TDS was completed during 2007 with the installation of eight Indian Reference Stations at different airports linked to the Master Control Centre located near Bangalore.
+
+Navigation with Indian Constellation (NavIC)
+Main article: Indian Regional Navigation Satellite System
+
+Coverage of the IRNSS in blue, as of 2020
+IRNSS with an operational name NavIC is an independent regional navigation satellite system developed by India. It is designed to provide accurate position information service to users in India as well as the region extending up to 1,500 km (930 mi) from its borders, which is its primary service area. IRNSS provides two types of services, namely, Standard Positioning Service (SPS) and Restricted Service (RS), providing a position accuracy of better than 20 m (66 ft) in the primary service area.
+
+Other satellites
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
+Kalpana-1 (MetSat-1) was ISRO's first dedicated meteorological satellite.[97][98] Indo-French satellite SARAL on 25 February 2013. SARAL (or "Satellite with ARgos and AltiKa") is a cooperative altimetry technology mission, used for monitoring the oceans' surface and sea levels. AltiKa measures ocean surface topography with an accuracy of 8 mm (0.31 in), compared to 2.5 cm (0.98 in) on average using altimeters, and with a spatial resolution of 2 km (1.2 mi).
+
+Launch vehicles
+Comparison of Indian carrier rockets. Left to right: SLV, ASLV, PSLV, GSLV, GSLV Mark III
+During the 1960s and 1970s, India initiated its own launch vehicles owing to geopolitical and economic considerations. In the 1960s–1970s, the country developed a sounding rocket, and by the 1980s, research had yielded the Satellite Launch Vehicle-3 and the more advanced Augmented Satellite Launch Vehicle (ASLV), complete with operational supporting infrastructure.
+
+Satellite Launch Vehicle
+Main article: Satellite Launch Vehicle
+
+Stamp depicting SLV-3 D1 carrying RS-D1 satellite to orbit
+The Satellite Launch Vehicle (known as SLV-3) was the first space rocket to be developed by India. The initial launch in 1979 was a failure followed by a successful launch in 1980 making India the sixth country in world with orbital launch capability. The development of bigger rockets began afterwards.
+
+Augmented Satellite Launch Vehicle
+Main article: Augmented Satellite Launch Vehicle
+Augmented or Advanced Satellite Launch Vehicle (ASLV) was another small launch vehicle realised in 1980s to develop technologies required to place satellites into geostationary orbit. ISRO did not have adequate funds to develop ASLV and PSLV at once. Since ASLV suffered repeated failures, it was dropped in favour of a new project.
+
+Polar Satellite Launch Vehicle
+Main article: Polar Satellite Launch Vehicle
+
+PSLV-C11 lifts off carrying Chandrayaan-1, first Indian mission to the moon.
+Polar Satellite Launch Vehicle or PSLV is the first medium-lift launch vehicle from India which enabled India to launch all its remote-sensing satellites into Sun-synchronous orbit. PSLV had a failure in its maiden launch in 1993. Besides two other partial failures, PSLV has become the primary workhorse for ISRO with more than 50 launches placing hundreds of Indian and foreign satellites into orbit.
+
+
+Geosynchronous Satellite Launch Vehicle (GSLV)
+Main article: Geosynchronous Satellite Launch Vehicle
+
+GSLV-F08 launches GSAT-6A into geostationary transfer orbit (2018).
+Geosynchronous Satellite Launch Vehicle was envisaged in 1990s to transfer significant payloads to geostationary orbit. ISRO initially had a great problem realising GSLV as the development of CE-7.5 in India took a decade. The US had blocked India from obtaining cryogenic technology from Russia, leading India to develop its own cryogenic engines.
+
+GSLV Mark III
+Main article: GSLV Mark III
+GSLV Mk III D1 being moved from assembly building to the launch pad
+Geosynchronous Satellite Launch Vehicle Mark III (GSLV Mk III), also known as LVM3, is the heaviest rocket in operational service with ISRO. Equipped with a more powerful cryogenic engine and boosters than GSLV, it has significantly higher playload capacity and allows India to launch all its communication satellites. LVM3 is expected to carry India's first crewed mission to space and will be the testbed for SCE-200 engine which will power India's heavy lift rockets in future. SSLV
+Main article: Small Satellite Launch Vehicle
+The Small Satellite Launch Vehicle (SSLV) is a small-lift launch vehicle developed by the ISRO with payload capacity to deliver 500 kg (1,100 lb) to low Earth orbit (500 km (310 mi)) or 300 kg (660 lb) to Sun-synchronous orbit (500 km (310 mi)) for launching small satellites, with the capability to support multiple orbital drop-offs.
+
+
+Human Spaceflight Programme
+Main articles: Indian Human Spaceflight Programme and Gaganyaan
+The first proposal to send humans into space was discussed by ISRO in 2006, leading to work on the required infrastructure and spacecraft. The trials for crewed space missions began in 2007 with the 600-kilogram (1,300 lb) Space Capsule Recovery Experiment (SRE), launched using the Polar Satellite Launch Vehicle (PSLV) rocket, and safely returned to earth 12 days later.
+
+In 2009, the Indian Space Research Organisation proposed a budget of ₹124 billion (equivalent to ₹260 billion or US$3.3 billion in 2020) for its human spaceflight programme. An uncrewed demonstration flight was expected after seven years from the final approval and a crewed mission was to be launched after seven years of funding. A crewed mission initially was not a priority and left on the backburner for several years. A space capsule recovery experiment in 2014 and a pad abort test in 2018 were followed by Prime Minister Narendra Modi's announcement in his 2018 Independence Day address that India will send astronauts into space by 2022 on the new Gaganyaan spacecraft. To date, ISRO has developed most of the technologies needed, such as the crew module and crew escape system, space food, and life support systems. The project would cost less than ₹100 billion (US$1.3 billion) and would include sending two or three Indians to space, at an altitude of 300–400 km (190–250 mi), for at least seven days, using a GSLV Mk-III launch vehicle.
+
+Astronaut training and other facilities
+The newly established Human Space Flight Centre (HSFC) will coordinate the IHSF campaign. ISRO will set up an astronaut training centre in Bangalore to prepare personnel for flights in the crewed vehicle. It will use simulation facilities to train the selected astronauts in rescue and recovery operations and survival in microgravity, and will undertake studies of the radiation environment of space. ISRO had to build centrifuges to prepare astronauts for the acceleration phase of the launch. Existing launch facilities at Satish Dhawan Space Centre will have to be upgraded for the Indian human spaceflight campaign. Human Space Flight Centre and Glavcosmos signed an agreement on 1 July 2019 for the selection, support, medical examination and space training of Indian astronauts. An ISRO Technical Liaison Unit (ITLU) was to be set up in Moscow to facilitate the development of some key technologies and establishment of special facilities which are essential to support life in space. Four Indian Air Force personnel finished training at Yuri Gagarin Cosmonaut Training Center in March 2021.
+
+Crewed spacecraft
+Main article: Gaganyaan
+ISRO is working towards an orbital crewed spacecraft that can operate for seven days in low Earth orbit. The spacecraft, called Gaganyaan, will be the basis of the Indian Human Spaceflight Programme. The spacecraft is being developed to carry up to three people, and a planned upgraded version will be equipped with a rendezvous and docking capability. In its first crewed mission, ISRO's largely autonomous 3-tonne (3.3-short-ton; 3.0-long-ton) spacecraft will orbit the Earth at 400 km (250 mi) altitude for up to seven days with a two-person crew on board. As of February 2021, the crewed mission is planned to be launched on ISRO's GSLV Mk III in 2023.
+Space station
+India plans to build a space station as a follow-up programme to Gaganyaan. ISRO chairman K. Sivan has said that India will not join the International Space Station programme and will instead build a 20-tonne (22-short-ton; 20-long-ton) space station on its own. It is expected to be placed in a low Earth orbit at 400 kilometres (250 mi) altitude and be capable of harbouring three humans for 15–20 days. The rough time-frame is five to seven years after completion of the Gaganyaan project.
+Planetary sciences and astronomy
+ISRO and Tata Institute of Fundamental Research have operated a balloon launch base at Hyderabad since 1967. Its proximity to the geo-magnetic equator,[134] where both primary and secondary cosmic ray fluxes are low, makes it an ideal location to study diffuse cosmic X-ray background.
+ISRO played a role in the discovery of three species of bacteria in the upper stratosphere at an altitude between 20–40 km (12–25 mi). The bacteria, highly resistant to ultra-violet radiation, are not found elsewhere on Earth, leading to speculation on whether they are extraterrestrial in origin. They are considered extremophiles, and named as Bacillus isronensis in recognition of ISRO's contribution in the balloon experiments, which led to its discovery, Bacillus aryabhata after India's celebrated ancient astronomer Aryabhata and Janibacter hoylei after the distinguished astrophysicist Fred Hoyle.
+Astrosat
+Main article: Astrosat
+
+Astrosat-1 in deployed configuration
+Launched in 2015, Astrosat is India's first dedicated multi-wavelength space observatory. Its observation study includes active galactic nuclei, hot white dwarfs, pulsations of pulsars, binary star systems, and supermassive black holes located at the centre of the galaxy.
+
+Extraterrestrial exploration
+Lunar exploration
+Main article: Chandrayaan programme
+Chandryaan (lit. 'Mooncraft') are India's series of lunar exploration spacecraft. The initial mission included an orbiter and controlled impact probe while later missions include landers, rovers and sampling missions.
+
+Chandrayaan-1
+Main article: Chandrayaan-1
+Rendering of Chandrayaan-1 spacecraft
+Chandrayaan-1 was India's first mission to the Moon. The robotic lunar exploration mission included a lunar orbiter and an impactor called the Moon Impact Probe. ISRO launched it using a modified version of the PSLV on 22 October 2008 from Satish Dhawan Space Centre. It entered lunar orbit on 8 November 2008, carrying high-resolution remote sensing equipment for visible, near infrared, and soft and hard X-ray frequencies. During its 312-day operational period (two years were planned), it surveyed the lunar surface to produce a complete map of its chemical characteristics and three-dimensional topography. The polar regions were of special interest, as they had possible ice deposits. Chandrayaan-1 carried 11 instruments: five Indian and six from foreign institutes and space agencies (including NASA, ESA, the Bulgarian Academy of Sciences, Brown University and other European and North American institutions and companies), which were carried for free. The mission team was awarded the American Institute of Aeronautics and Astronautics SPACE 2009 award,the International Lunar Exploration Working Group's International Co-operation award in 2008, and the National Space Society's 2009 Space Pioneer Award in the science and engineering category.
+
+Chandrayaan-2
+Main article: Chandrayaan-2
+Vikram lander mounted on top of the Chandrayaan-2 orbiter
+Chandrayaan-2, the second mission to the Moon, which included an orbiter, a lander and a rover. It was launched on a Geosynchronous Satellite Launch Vehicle Mark III (GSLV-MkIII) on 22 July 2019, consisting of a lunar orbiter, the Vikram lander, and the Pragyan lunar rover, all developed in India. It was the first mission meant to explore the little-explored lunar south pole region. The objective of the Chandrayaan-2 mission was to land a robotic rover to conduct various studies on the lunar surface.
+
+The Vikram lander, carrying the Pragyan rover, was scheduled to land on the near side of the Moon, in the south polar region at a latitude of about 70° S at approximately 1:50 am(IST) on 7 September 2019. However, the lander deviated from its intended trajectory starting from an altitude of 2.1 km (1.3 mi), and telemetry was lost seconds before touchdown was expected.[147] A review board concluded that the crash-landing was caused by a software glitch. The lunar orbiter was efficiently positioned in an optimal lunar orbit, extending its expected service time from one year to seven. There will be another attempt to soft-land on the Moon in 2023, without an orbiter.
+
+Mars exploration
+Mars Orbiter Mission (MOM) or (Mangalyaan-1)
+Main article: Mars Orbiter Mission
+
+Artist's rendering of the Mars Orbiter Mission spacecraft, with Mars in the background
+The Mars Orbiter Mission (MOM), informally known as Mangalyaan(lit. 'Marscraft'), was launched into Earth orbit on 5 November 2013 by the Indian Space Research Organisation (ISRO) and has entered Mars orbit on 24 September 2014. India thus became the first country to have a space probe enter Mars orbit on its first attempt. It was completed at a record low cost of $74 million.
+
+MOM was placed into Mars orbit on 24 September 2014. The spacecraft had a launch mass of 1,337 kg (2,948 lb), with 15 kg (33 lb) of five scientific instruments as payload.
+
+The National Space Society awarded the Mars Orbiter Mission team the 2015 Space Pioneer Award in the science and engineering category.
+
+Future projects
+ISRO is developing and operationalising more powerful and less pollutive rocket engines so it can eventually develop much heavier rockets. It also plans to develop electric and nuclear propulsion for satellites and spacecraft’s to reduce their weight and extend their service lives. Long-term plans may include crewed landings on Moon and other planets as well.
+
+Launch vehicles and engines
+Semi-cryogenic engine
+Main article: SCE-200
+SCE-200 is a rocket-grade kerosene (dubbed "ISROsene") and liquid oxygen (LOX)-based semi-cryogenic rocket engine inspired by RD-120. The engine will be less polluting and far more powerful. When combined with the GSLV Mark III, it will boost its payload capacity; it will be clustered in future to power India's heavy rockets.
+
+Methalox engine
+Reusable methane and LOX-based engines are under development. Methane is less pollutive, leaves no residue and hence the engine needs very little refurbishment. The LPSC began cold flow tests of engine prototypes in 2020.
+
+Modular heavy rockets
+See also: Unified Launch Vehicle
+ISRO is studying heavy (HLV) and super-heavy lift launch vehicles (SHLV). Modular launchers are being designed, with interchangeable parts, to reduce production time. A 10-tonne (11-short-ton; 9.8-long-ton) capacity HLV and an SHLV capable of delivering 50–100 tonnes (55–110 short tons; 49–98 long tons) into orbit have been mentioned in statements and presentations from ISRO officials.
+
+The agency intends to develop a launcher in the 2020s which can carry nearly 16 t (18 short tons; 16 long tons) to geostationary transfer orbit, nearly four times the capacity of the existing GSLV Mark III. A rocket family of five medium to heavy-lift class modular rockets described as either "Unified Modular Launch Vehicles" (UMLV) or "Unified Launch Vehicles" (ULV) are being planned which will share parts and will replace ISRO's existing PSLV, GSLV and LVM3 rockets completely. The rocket family will be powered by SCE-200 cryogenic engine and will have a capacity of lifting from 4.9 t (5.4 short tons; 4.8 long tons) to 16 t (18 short tons; 16 long tons) to geostationary transfer orbit.
+
+Reusable launchers
+Main article: RLV-TD
+
+RLV-TD HEX01 from Satish Dhawan Space Centre First Launch Pad (SDSC SHAR) on 23 May 2016.
+There have been two reusable launcher projects ongoing at ISRO. One is the ADMIRE test vehicle, conceived as a VTVL system and another is RLV-TD programme, being run to develop a spacecraft similar to the American Space Shuttle which will be launched vertically but land like a plane.
+
+To realise a fully re-usable two-stage-to-orbit (TSTO) launch vehicle, a series of technology demonstration missions have been conceived. For this purpose, the winged Reusable Launch Vehicle Technology Demonstrator (RLV-TD) has been configured. The RLV-TD acts as a flying testbed to evaluate various technologies such as hypersonic flight, autonomous landing, powered cruise flight, and hypersonic flight using air-breathing propulsion. First in the series of demonstration trials was the Hypersonic Flight Experiment (HEX). ISRO launched the prototype's test flight, RLV-TD, from the Sriharikota spaceport in February 2016. It weighs around 1.5 t (1.7 short tons; 1.5 long tons) and flew up to a height of 70 km (43 mi).] HEX was completed five months later. A scaled-up version of it could serve as fly-back booster stage for the winged TSTO concept. HEX will be followed by a landing experiment (LEX) and return flight experiment (REX).
+
+Small Satellite Launch Vehicle
+Main article: Small Satellite Launch Vehicle
+The Small Satellite Launch Vehicle (SSLV) is a compact small-lift launch vehicle primarily aimed at the small satellites market. It can be quickly assembled with low power and hence allows more frequent launches. The SSLV can place 500 kg (1,100 lb) in 500 km (310 mi) low Earth orbit and 300 kg (660 lb) in Sun-synchronous orbit.
+
+Spacecraft propulsion and power
+Electric thrusters
+Main article: Electrically powered spacecraft propulsion
+India has been working on replacing conventional chemical propulsion with Hall-effect and plasma thrusters which would make spacecraft lighter. GSAT-4 was the first Indian spacecraft to carry electric thrusters, but it failed to reach orbit. GSAT-9 launched later in 2017, had xenon-based electric propulsion system for in-orbit functions of the spacecraft. GSAT-20 is expected to be the first fully electric satellite from India.
+
+Alpha source thermoelectric propulsion technology
+Main article: Radioisotope Thermoelectric Generator
+Radioisotope thermoelectric generator (RTG), also called alpha source thermoelectric technology by ISRO, is a type of atomic battery which uses nuclear decay heat from radioactive material to power the spacecraft. In January 2021, the U R Rao Satellite Centre issued an Expression of Interest (EoI) for design and development of a 100-watt RTG. RTGs ensure much longer spacecraft life and have less mass than solar panels on satellites. Development of RTGs will allow ISRO to undertake long-duration deep space missions to the outer planets.
+
+Extraterrestrial probes
+Lunar exploration
+Main articles: Chandrayaan-3 and LUPEX
+Chandryaan-3 is India's planned second attempt to soft-land on the Moon after the failure of Chandrayaan-2. The mission will only include a lander-rover set and will communicate with the orbiter from the previous mission. The technology demonstrated in a successful Moon landing will be used in a joint Indo-Japanese Lunar Polar Exploration Mission for sampling and analysis of lunar soil.
+
+Mars exploration
+Main article: Mars Orbiter Mission 2
+The next Mars mission, Mars Orbiter Mission 2 or Mangalyaan 2, has been proposed for launch in 2024. The newer spacecraft will be significantly heavier and better equipped than its predecessor; it will only have an orbiter.
+
+Venus exploration
+Main article: Shukrayaan-I
+ISRO is considering an orbiter mission to Venus called Shukrayaan-1, that could launch as early as 2023 to study the planet's atmosphere. Some funds for preliminary studies were allocated in the 2017–18 Indian budget under Space Sciences; solicitations for potential instruments were requested in 2017 and 2018. A mission to Venus is scheduled for 2025 that will include a payload instrument called Venus Infrared Atmospheric Gases Linker (VIRAL) which has been co-developed with the Laboratoire atmosphères, milieux, observations spatiales (LATMOS) under French National Centre for Scientific Research (CNRS) and Roscosmos.
+
+Solar probes
+Main article: Aditya-L1
+In 2022 ISRO plans to launch the 400 kg (880 lb) Aditya-L1, a mission to study the Solar corona. It is the first Indian space-based solar coronagraph to study the corona in visible and near-infrared bands. Originally planned during the heightened solar activity period in 2012, Aditya-L1 was postponed to 2021 due to the extensive work involved in its manufacture, and other technical aspects. The main objective of the mission is to study coronal mass ejections (CMEs), their properties (the structure and evolution of their magnetic fields for example), and consequently constrain parameters that affect space weather.
+
+Asteroids and outer solar system
+Conceptual studies are underway for spacecraft destined for the asteroids and Jupiter, as well, in the long term. The ideal launch window to send a spacecraft to Jupiter occurs every 33 months. If the mission to Jupiter is launched, a flyby of Venus would be required. Development of RTEG power might allow the agency to further undertake deeper space missions to the other outer planets.
+
+Space telescopes and observatories
+AstroSat-2
+Main article: AstroSat-2
+AstroSat-2 is the successor to the Astrosat mission.
+
+XPoSat
+Main article: X-ray Polarimeter Satellite
+The X-ray Polarimeter Satellite (XPoSat) is a planned mission to study polarisation. It is planned to have a mission life of five years and is planned to be launched in 2022. The spacecraft is planned to carry the Polarimeter Instrument in X-rays (POLIX) payload which will study the degree and angle of polarisation of bright astronomical X-ray sources in the energy range 5–30 keV.
+
+Exoworlds
+Exoworlds is a joint proposal by ISRO, IIST and the University of Cambridge for a space telescope dedicated for atmospheric studies of exoplanets, planned for 2025. Telecommunication
+India uses its satellite communication network – one of the largest in the world – for applications such as land management, water resources management, natural disaster forecasting, radio networking, weather forecasting, meteorological imaging and computer communication. Business, administrative services, and schemes such as the National Informatics Centre (NIC) are direct beneficiaries of applied satellite technology.
+Military
+The Integrated Space Cell, under the Integrated Defence Staff headquarters of the Ministry of Defence, has been set up to utilise more effectively the country's space-based assets for military purposes and to look into threats to these assets. This command will leverage space technology including satellites. Unlike an aerospace command, where the Air Force controls most of its activities, the Integrated Space Cell envisages cooperation and coordination between the three services as well as civilian agencies dealing with space.
+
+With 14 satellites, including GSAT-7A for exclusive military use and the rest as dual-use satellites, India has the fourth largest number of satellites active in the sky which includes satellites for the exclusive use of its air force (IAF) and navy.[204] GSAT-7A, an advanced military communications satellite built exclusively for the Air Force, is similar to the Navy's GSAT-7, and GSAT-7A will enhance the IAF's network-centric warfare capabilities by interlinking different ground radar stations, ground airbases and airborne early warning and control (AWACS) aircraft such as the Beriev A-50 Phalcon and DRDO AEW&CS.
+
+GSAT-7A will also be used by the Army's Aviation Corps for its helicopters and unmanned aerial vehicle (UAV) operations. In 2013, ISRO launched GSAT-7 for the exclusive use of the Navy to monitor the Indian Ocean Region (IOR) with the satellite's 2,000-nautical-mile (3,700 km; 2,300 mi) 'footprint' and real-time input capabilities to Indian warships, submarines and maritime aircraft. To boost the network-centric operations of the IAF, ISRO launched GSAT-7A in December 2018. The RISAT series of radar-imaging earth observation satellites is also meant for Military use. ISRO launched EMISAT on 1 April 2019. EMISAT is a 436-kilogram (961 lb) electronic intelligence (ELINT) satellite. It will improve the situational awareness of the Indian Armed Forces by providing information and the location of hostile radars.
+
+India's satellites and satellite launch vehicles have had military spin-offs. While India's 150–200-kilometre (93–124 mi) range Prithvi missile is not derived from the Indian space programme, the intermediate range Agni missile is derived from the Indian space programme's SLV-3. In its early years, under Sarabhai and Dhawan, ISRO opposed military applications for its dual-use projects such as the SLV-3. Eventually, the Defence Research and Development Organisation (DRDO)-based missile programme borrowed staff and technology from ISRO. Missile scientist A.P.J. Abdul Kalam (later elected president), who had headed the SLV-3 project at ISRO, took over as missile programme at DRDO. About a dozen scientists accompanied him, helping to design the Agni missile using the SLV-3's solid fuel first stage and a liquid-fuel (Prithvi-missile-derived) second stage. The IRS and INSAT satellites were primarily intended, and used, for civilian-economic applications, but they also offered military spin-offs. In 1996 the Ministry of Defence temporarily blocked the use of IRS-1C by India's environmental and agricultural ministries in order to monitor ballistic missiles near India's borders. In 1997, the Air Force's "Airpower Doctrine" aspired to use space assets for surveillance and battle management.
+Academic
+Institutions like the Indira Gandhi National Open University and the Indian Institutes of Technology use satellites for educational applications. Between 1975 and 1976, India conducted its largest sociological programme using space technology, reaching 2,400 villages through video programming in local languages aimed at educational development via ATS-6 technology developed by NASA. This experiment—named Satellite Instructional Television Experiment (SITE)—conducted large-scale video broadcasts resulting in significant improvement in rural education. Education could reach remote rural areas with the help of the above programs.
+
+Telemedicine
+ISRO has applied its technology for telemedicine, directly connecting patients in rural areas to medical professionals in urban locations via satellite. Since high-quality healthcare is not universally available in some of the remote areas of India, patients in those areas are diagnosed and analysed by doctors in urban centers in real time via video conferencing. The patient is then advised on medicine and treatment, and treated by the staff at one of the 'super-specialty hospitals' per instructions from those doctors. Mobile telemedicine vans are also deployed to visit locations in far-flung areas and provide diagnosis and support to patients.
+
+Biodiversity Information System
+ISRO has also helped implement India's Biodiversity Information System, completed in October 2002. Nirupa Sen details the program: "Based on intensive field sampling and mapping using satellite remote sensing and geospatial modeling tools, maps have been made of vegetation cover on a 1: 250,000 scale. This has been put together in a web-enabled database that links gene-level information of plant species with spatial information in a BIOSPEC database of the ecological hot spot regions, namely northeastern India, Western Ghats, Western Himalayas and Andaman and Nicobar Islands. This has been made possible with collaboration between the Department of Biotechnology and ISRO.
+
+Cartography
+The Indian IRS-P5 (CARTOSAT-1) was equipped with high-resolution panchromatic equipment to enable it for cartographic purposes. IRS-P5 (CARTOSAT-1) was followed by a more advanced model named IRS-P6 developed also for agricultural applications. The CARTOSAT-2 project, equipped with single panchromatic camera that supported scene-specific on-spot images, succeeded the CARTOSAT-1 project.
+
+Spin-offs
+Main article: ISRO spinoff technologies
+ISRO's research has been diverted into spin-offs to develop various technologies for other sectors. Examples include bionic limbs for people without limbs, silica aerogel to keep Indian soldiers serving in extremely cold areas warm, distress alert transmitters for accidents, Doppler weather radar and various sensors and machines for inspection work in engineering industries.
+
+International cooperations
+ISRO has signed various formal cooperative arrangements in the form of either Agreements or Memoranda of Understanding (MoU) or Framework Agreements with Afghanistan, Algeria, Argentina, Armenia, Australia, Bahrain, Bangladesh, Bolivia, Brazil, Brunei, Bulgaria, Canada, Chile, China, Egypt, Finland, France, Germany, Hungary, Indonesia, Israel, Italy, Japan, Kazakhstan, Kuwait, Maldives, Mauritius, Mexico, Mongolia, Morocco, Myanmar, Norway, Peru, Portugal, South Korea, Russia, São Tomé and Príncipe, Saudi Arabia, Singapore, South Africa, Spain, Oman, Sweden, Syria, Tajikistan, Thailand, the Netherlands, Tunisia, Ukraine, United Arab Emirates, United Kingdom, United States, Uzbekistan, Venezuela and Vietnam. Formal cooperative instruments have been signed with international multilateral bodies including European Centre for Medium-Range Weather Forecasts (ECMWF), European Commission, European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT), European Space Agency (ESA) and South Asian Association for Regional Cooperation (SAARC).
+
+Notable collaborative projects
+Chandrayaan-1
+Chandrayaan-1 also carried scientific payloads to the moon from NASA, ESA, Bulgarian Space Agency, and other institutions/companies in North America and Europe.
+Indo-French satellite missions
+ISRO has two collaborative satellite missions with France's CNES, namely Megha-Tropiques to study water cycle in the tropical atmosphere and SARAL for altimetry. A third mission consisting of an earth observation satellite with a thermal infrared imager, TRISHNA (Thermal infraRed Imaging Satellite for High resolution Natural resource Assessment) is being planned by the two countries.
+LUPEX
+Lunar Polar Exploration Mission is a joint Indo-Japanese mission to study the polar surface of the Moon where India is tasked with providing soft landing technologies.
+
+NISAR
+NASA-ISRO Synthetic Aperture Radar (NISAR) is a joint Indo-US radar project carrying an L Band and an S Band radar. It will be world's first radar imaging satellite to use dual frequencies.
+
+Some other notable collaborations include:
+
+ISRO operates LUT/MCC under the international COSPAS/SARSAT Programme for Search and Rescue.
+India has established a Centre for Space Science and Technology Education in Asia and the Pacific (CSSTE-AP) that is sponsored by the United Nations.
+India is a member of the United Nations Committee on the Peaceful Uses of Outer Space, Cospas-Sarsat, International Astronautical Federation, Committee on Space Research (COSPAR), Inter-Agency Space Debris Coordination Committee (IADC), International Space University, and the Committee on Earth Observation Satellite (CEOS).
+Contributing to planned BRICS virtual constellation for remote sensing.
+Statistics
+
+Total number of foreign satellites launched by ISRO: 345 (34 countries)
+Spacecraft missions: 114
+Launch missions: 84
+Student satellites: 13
+Re-entry missions: 2
+Budget for the Department of Space
+S-band spectrum scam
+In India, electromagnetic spectrum, a scarce resource for wireless communication, is auctioned by the Government of India to telecom companies for use. As an example of its value, in 2010, 20 MHz of 3G spectrum was auctioned for ₹677 billion (US$8.5 billion). This part of the spectrum is allocated for terrestrial communication (cell phones). However, in January 2005, Antrix Corporation (commercial arm of ISRO) signed an agreement with Devas Multimedia (a private company formed by former ISRO employees and venture capitalists from the US) for lease of S band transponders (amounting to 70 MHz of spectrum) on two ISRO satellites (GSAT 6 and GSAT 6A) for a price of ₹14 billion (US$180 million), to be paid over a period of 12 years. The spectrum used in these satellites (2500 MHz and above) is allocated by the International Telecommunication Union specifically for satellite-based communication in India. Hypothetically, if the spectrum allocation is changed for utilisation for terrestrial transmission and if this 70 MHz of spectrum were sold at the 2010 auction price of the 3G spectrum, its value would have been over ₹2,000 billion (US$25 billion). This was a hypothetical situation. However, the Comptroller and Auditor-General considered this hypothetical situation and estimated the difference between the prices as a loss to the Indian Government.
+
+There were lapses on implementing official procedures. Antrix/ISRO had allocated the capacity of the above two satellites exclusively to Devas Multimedia, while the rules said it should always be non-exclusive. The Cabinet was misinformed in November 2005 that several service providers were interested in using satellite capacity, while the Devas deal was already signed. Also, the Space Commission was not informed when approving the second satellite (its cost was diluted so that Cabinet approval was not needed). ISRO committed to spending ₹7.66 billion (US$96 million) of public money on building, launching, and operating two satellites that were leased out for Devas. In late 2009, some ISRO insiders exposed information about the Devas-Antrix deal, and the ensuing investigations led to the deal's annulment. G. Madhavan Nair (ISRO Chairperson when the agreement was signed) was barred from holding any post under the Department of Space. Some former scientists were found guilty of "acts of commission" or "acts of omission". Devas and Deutsche Telekom demanded US$2 billion and US$1 billion, respectively, in damages. The Department of Revenue and Ministry of Corporate Affairs began an inquiry into Devas shareholding.
+
+The Central Bureau of Investigation registered a case against the accused in the Antrix-Devas deal under Section 120-B, besides Section 420 of IPC and Section 13(2) read with 13(1)(d) of PC Act, 1988 in March 2015 against the then executive director of Antrix Corporation, two officials of a USA-based company, a Bangalore-based private multimedia company, and other unknown officials of the Antrix Corporation or the Department of Space.
+
+Devas Multimedia started arbitration proceedings against Antrix in June 2011. In September 2015, the International Court of Arbitration of the International Chamber of Commerce ruled in favour of Devas, and directed Antrix to pay US$672 million (Rs 44.35 billion) in damages to Devas. Antrix opposed the Devas plea for tribunal award in the Delhi High Court. <|endoftext|>
+
+
+
+

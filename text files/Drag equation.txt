@@ -1,0 +1,8 @@
+Drag equation
+The equation is easier understood for the idealized situation where all of the fluid impinges on the reference area and comes to a complete stop, building up stagnation pressure over the whole area. No real object exactly corresponds to this behavior.   is the ratio of drag for any real object to that of the ideal object. In practice a rough un-streamlined body (a bluff body) will have a   around 1, more or less. Smoother objects can have much lower values of  . The equation is precise – it simply provides the definition of (drag coefficient), which varies with the Reynolds number and is found by experiment.
+Of particular importance is the   dependence on flow velocity, meaning that fluid drag increases with the square of flow velocity. When flow velocity is doubled, for example, not only does the fluid strike with twice the flow velocity, but twice the mass of fluid strikes per second. Therefore, the change of momentum per time, i.e. the force experienced, is multiplied by four. This is in contrast with solid-on-solid dynamic friction, which generally has very little velocity dependence.
+
+Experimental methods
+To empirically determine the Reynolds number dependence, instead of experimenting on a large body with fast-flowing fluids (such as real-size airplanes in wind tunnels), one may just as well experiment using a small model in a flow of higher velocity because these two systems deliver similitude by having the same Reynolds number. If the same Reynolds number and Mach number cannot be achieved just by using a flow of higher velocity it may be advantageous to use a fluid of greater density or lower viscosity.
+
+

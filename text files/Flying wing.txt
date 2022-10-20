@@ -1,0 +1,67 @@
+
+ FLYING WING
+
+A flying wing is a tailless aircraft which has no definite fuselage, with most of the crew, payload and equipment being housed inside the main wing structure.
+The flying wing configuration was studied extensively in the 1930s and 1940s, notably by Jack Northrop and Cheston L. Eshelman in the United States, and Alexander Lippisch and the Horten brothers in Germany. After the war, a number of experimental designs were based on the flying wing concept. Some general interest continued until the early 1950s, but designs did not necessarily offer a great advantage in range and presented a number of technical problems, leading to the adoption of "conventional" solutions like the Convair B-36 and the B-52 Stratofortress. Due to the practical need for a deep wing, the flying wing concept is most practical for designs in the slow-to-medium speed range, and there has been continual interest in using it as a tactical airlifter design.
+Interest in flying wings was renewed in the 1980s due to their potentially low radar reflection cross-sections. Stealth technology relies on shapes which only reflect radar waves in certain directions, thus making the aircraft hard to detect unless the radar receiver is at a specific position relative to the aircraft – a position that changes continuously as the aircraft moves. This approach eventually led to the Northrop B-2 Spirit stealth bomber. In this case the aerodynamic advantages of the flying wing are not the primary needs. However, modern computer-controlled fly-by-wire systems allowed for many of the aerodynamic drawbacks of the flying wing to be minimized, making for an efficient and stable long-range bomber.
+
+Blended wing body
+
+Blended wing body aircraft have a flattened and airfoil shaped body, which produces most of the lift to keep itself aloft, and distinct and separate wing structures, though the wings are smoothly blended in with the body.
+Thus blended wing bodied aircraft incorporate design features from both a futuristic fuselage and flying wing design. The purported advantages of the blended wing body approach are efficient high-lift wings and a wide airfoil-shaped body. This enables the entire craft to contribute to lift generation with the result of potentially increased fuel economy.
+
+Lifting body
+
+A lifting body is a configuration in which the body itself produces lift. In contrast to a flying wing, which is a wing with minimal or no conventional fuselage, a lifting body can be thought of as a fuselage with little or no conventional wing. Whereas a flying wing seeks to maximize cruise efficiency at subsonic speeds by eliminating non-lifting surfaces, lifting bodies generally minimize the drag and structure of a wing for subsonic, supersonic, and hypersonic flight, or, spacecraft re-entry. All of these flight regimes pose challenges for proper flight stability.
+Lifting bodies were a major area of research in the 1960s and 1970s as a means to build a small and lightweight manned spacecraft. The US built a number of famous lifting body rocket planes to test the concept, as well as several rocket-launched re-entry vehicles that were tested over the Pacific. Interest waned as the US Air Force lost interest in the manned mission, and major development ended during the Space Shuttle design process when it became clear that the highly shaped fuselages made it difficult to fit fuel tankage.
+
+Empennage and foreplane
+
+The classic aerofoil section wing is unstable in flight and difficult to control. Flexible-wing types often rely on an anchor line or the weight of a pilot hanging beneath to maintain the correct attitude. Some free-flying types use an adapted aerofoil that is stable, or other ingenious mechanisms including, most recently, electronic artificial stability.
+But in order to achieve trim, stability and control, most fixed-wing types have an empennage comprising a fin and rudder which act horizontally and a tailplane and elevator which act vertically. This is so common that it is known as the conventional layout. Sometimes there may be two or more fins, spaced out along the tailplane.
+
+Canards on the Saab Viggen
+Some types have a horizontal "canard" foreplane ahead of the main wing, instead of behind it. This foreplane may contribute to the trim, stability or control of the aircraft, or to several of these.
+Aircraft controls
+Kite control
+Kites are controlled by wires running down to the ground. Typically each wire acts as a tether to the part of the kite it is attached to.
+Free-flying aircraft controls.
+Gliders and airplanes have more complex control systems, especially if they are piloted.
+
+ Aircraft flight control system
+
+Typical light aircraft (Cessna 150M) cockpit with control yokes
+The main controls allow the pilot to direct the aircraft in the air. Typically these are:
+The yoke or joystick controls rotation of the plane about the pitch and roll axes. A yoke resembles a steering wheel, and a control stick is a joystick. The pilot can pitch the plane down by pushing on the yoke or stick, and pitch the plane up by pulling on it. Rolling the plane is accomplished by turning the yoke in the direction of the desired roll, or by tilting the control stick in that direction.
+Rudder pedals control rotation of the plane about the yaw axis. There are two pedals that pivot so that when one is pressed forward the other moves backward, and vice versa. The pilot presses on the right rudder pedal to make the plane yaw to the right, and pushes on the left pedal to make it yaw to the left. The rudder is used mainly to balance the plane in turns, or to compensate for winds or other effects that tend to turn the plane about the yaw axis.
+On powered types, an engine stop control ("fuel cutoff", for example) and, usually, a Throttle or thrust lever and other controls, such as a fuel-mixture control (to compensate for air density changes with altitude change).
+Other common controls include:
+Flap levers, which are used to control the deflection position of flaps on the wings.
+Spoiler levers, which are used to control the position of spoilers on the wings, and to arm their automatic deployment in planes designed to deploy them upon landing. The spoilers reduce lift for landing.
+Trim controls, which usually take the form of knobs or wheels and are used to adjust pitch, roll, or yaw trim. These are often connected to small airfoils on the trail edge of the control surfaces called "trim tabs". Trim is used to reduce the amount of pressure on the control forces needed to maintain a steady course.
+On wheeled types, Brakes are used to slow and stop the plane on the ground, and sometimes for turns on the ground.
+A craft may have two pilots' seats with dual controls, allowing two pilots to take turns. This is often used for training or for longer flights.
+The control system may allow full or partial automation of flight, such as an autopilot, a wing leveler, or a flight management system. An unmanned aircraft has no pilot but is controlled remotely or via means such as gyroscopes or other forms of autonomous control.
+Cockpit instrumentation[edit]
+On manned fixed-wing aircraft, instruments provide information to the pilots, including flight, engines, navigation, communications, and other aircraft systems that may be installed.
+
+
+The six basic flight instruments.
+Top row (left to right): airspeed indicator, attitude indicator, altimeter.
+Bottom row (left to right): turn coordinator, heading indicator, vertical speed indicator.
+The six basic instruments, sometimes referred to as the "six pack", are as follows:[32]
+The airspeed indicator (ASI) shows the speed at which the plane is moving through the surrounding air.
+The attitude indicator (AI), sometimes called the artificial horizon, indicates the exact orientation of the aircraft about its pitch and roll axes.
+The altimeter indicates the altitude or height of the plane above mean sea level (AMSL).
+The vertical speed indicator (VSI), or variometer, shows the rate at which the plane is climbing or descending.
+The heading indicator (HI), sometimes called the directional gyro (DG), shows the magnetic compass direction that the plane's fuselage is pointing towards. The actual direction the plane is flying towards is affected by the wind conditions.
+The turn coordinator (TC), or turn and bank indicator, helps the pilot to control the plane in a coordinated attitude while turning.
+Other cockpit instruments might include:
+A two-way radio, to enable communications with other planes and with air traffic control. Airplanes built before World War II may not have been equipped with a radio but they are practically essential now in case of emergency.
+A horizontal situation indicator (HSI), to indicate the position and movement of the plane as seen from above with respect to the ground, including course/heading and other information.
+Instruments showing the status of each of the plane's engines (operating speed, thrust, temperature, and other variables).
+Combined display systems such as primary flight displays or navigation aids.
+Information displays such as onboard weather radar displays.
+A radio direction finder (RDF), to indicate the direction to one or more radio beacons, which can be used to determine the plane's position.
+A satellite navigation (satnav) system, to provide an accurate position.
+

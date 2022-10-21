@@ -1,0 +1,14 @@
+Missile guidance
+Missile guidance refers to a variety of methods of guiding a missile or a guided bomb to its intended target. The missile's target accuracy is a critical factor for its effectiveness. Guidance systems improve missile accuracy by improving its Probability of Guidance. 
+These guidance technologies can generally be divided up into a number of categories, with the broadest categories being "active", "passive", and "preset" guidance. Missiles and guided bombs generally use similar types of guidance system, the difference between the two being that missiles are powered by an onboard engine, whereas guided bombs rely on the speed and height of the launch aircraft for propulsion.
+
+History
+The concept of unmanned guidance originated at least as early as World War I, with the idea of remotely guiding an airplane bomb onto a target, such as the systems developed for the first powered drones by Archibald Low (The Father of Radio Guidance). 
+In World War II, guided missiles were first developed, as part of the German V-weapons program. Project Pigeon was American behaviorist B.F. Skinner's attempt to develop a pigeon-guided bomb.
+The first U.S. ballistic missile with a highly accurate inertial guidance system was the short-range PGM-11 Redstone. 
+Categories of guidance systems
+Guidance systems are divided into different categories according to whether they are designed to attack fixed or moving targets. The weapons can be divided into two broad categories: Go-onto-target (GOT) and go-onto-location-in-space (GOLIS) guidance systems. A GOT missile can target either a moving or fixed target, whereas a GOLIS weapon is limited to a stationary or near-stationary target. The trajectory that a missile takes while attacking a moving target is dependent upon the movement of the target. A moving target can be an immediate threat to the missile launcher. The target must be promptly eliminated in order to preserve the launcher. In GOLIS systems, the problem is simpler because the target is not moving.
+Terrestrial guidance
+TERCOM, for "terrain contour matching", uses altitude maps of the strip of land from the launch site to the target, and compares them with information from a radar altimeter on board. More sophisticated TERCOM systems allow the missile to fly a complex route over a full 3D map, instead of flying directly to the target. TERCOM is the typical system for cruise missile guidance, but is being supplanted by GPS systems and by DSMAC, digital scene-matching area correlator, which employs a camera to view an area of land, digitizes the view, and compares it to stored scenes in an onboard computer to guide the missile to its target.
+DSMAC is reputed to be so lacking in robustness that destruction of prominent buildings marked in the system's internal map (such as by a preceding cruise missile) upsets its navigation. 
+

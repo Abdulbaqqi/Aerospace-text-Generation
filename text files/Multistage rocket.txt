@@ -1,0 +1,80 @@
+Multistage rocket
+A multistage rocket or step rocket is a launch vehicle that uses two or more rocket stages, each of which contains its own engines and propellant. A tandem or serial stage is mounted on top of another stage; a parallel stage is attached alongside another stage. The result is effectively two or more rockets stacked on top of or attached next to each other. Two-stage rockets are quite common, but rockets with as many as five separate stages have been successfully launched.
+By jettisoning stages when they run out of propellant, the mass of the remaining rocket is decreased. Each successive stage can also be optimized for its specific operating conditions, such as decreased atmospheric pressure at higher altitudes. This staging allows the thrust of the remaining stages to more easily accelerate the rocket to its final speed and height.
+In serial or tandem staging schemes, the first stage is at the bottom and is usually the largest, the second stage and subsequent upper stages are above it, usually decreasing in size. In parallel staging schemes solid or liquid rocket boosters are used to assist with launch. These are sometimes referred to as "stage 0". In the typical case, the first-stage and booster engines fire to propel the entire rocket upwards. When the boosters run out of fuel, they are detached from the rest of the rocket (usually with some kind of small explosive charge or explosive bolts) and fall away. The first stage then burns to completion and falls off. This leaves a smaller rocket, with the second stage on the bottom, which then fires. Known in rocketry circles as staging, this process is repeated until the desired final velocity is achieved. In some cases with serial staging, the upper stage ignites before the separation—the interstage ring is designed with this in mind, and the thrust is used to help positively separate the two vehicles.
+A multistage rocket is required to reach orbital speed. Single-stage-to-orbit designs are sought, but have not yet been demonstrated.
+Component selection and sizing
+For initial sizing, the rocket equations can be used to derive the amount of propellant needed for the rocket based on the specific impulse of the engine and the total impulse required in N·s. The equation is:
+ 
+where g is the gravity constant of Earth. This also enables the volume of storage required for the fuel to be calculated if the density of the fuel is known, which is almost always the case when designing the rocket stage. The volume is yielded when dividing the mass of the propellant by its density. Asides from the fuel required, the mass of the rocket structure itself must also be determined, which requires taking into account the mass of the required thrusters, electronics, instruments, power equipment, etc. These are known quantities for typical off the shelf hardware that should be considered in the mid to late stages of the design, but for preliminary and conceptual design, a simpler approach can be taken. Assuming one engine for a rocket stage provides all of the total impulse for that particular segment, a mass fraction can be used to determine the mass of the system. The mass of the stage transfer hardware such as initiators and safe-and-arm devices are very small by comparison and can be considered negligible.
+For modern day solid rocket motors, it is a safe and reasonable assumption to say that 91 to 94 percent of the total mass is fuel. It is also important to note there is a small percentage of "residual" propellant that will be left stuck and unusable inside the tank, and should also be taken into consideration when determining amount of fuel for the rocket. A common initial estimate for this residual propellant is five percent. With this ratio and the mass of the propellant calculated, the mass of the empty rocket weight can be determined. Sizing rockets using a liquid bipropellant requires a slightly more involved approach because there are two separate tanks that are required: one for the fuel, and one for the oxidizer. The ratio of these two quantities is known as the mixture ratio.
+
+Upper stages
+High-altitude and space-bound upper stages are designed to operate with little or no atmospheric pressure. This allows the use of lower pressure combustion chambers and engine nozzles with optimal vacuum expansion ratios. Some upper stages, especially those using hypergolic propellants like Delta-K or Ariane 5 ES second stage, are pressure fed, which eliminates the need for complex turbopumps. Other upper stages, such as the Centaur or DCSS, use liquid hydrogen expander cycle engines, or gas generator cycle engines like the Ariane 5 ECA's HM7B or the S-IVB's J-2. These stages are usually tasked with completing orbital injection and accelerating payloads into higher energy orbits such as GTO or to escape velocity. Upper stages, such as Fregat, used primarily to bring payloads from low Earth orbit to GTO or beyond are sometimes referred to as space tugs. 
+Assembly
+Each individual stage is generally assembled at its manufacturing site and shipped to the launch site; the term vehicle assembly refers to the mating of all rocket stage(s) and the spacecraft payload into a single assembly known as a space vehicle. Single-stage vehicles (suborbital), and multistage vehicles on the smaller end of the size range, can usually be assembled directly on the launch pad by lifting the stage(s) and spacecraft vertically in place by means of a crane.
+This is generally not practical for larger space vehicles, which are assembled off the pad and moved into place on the launch site by various methods. NASA's Apollo/Saturn V manned Moon landing vehicle, and Space Shuttle, were assembled vertically onto mobile launcher platforms with attached launch umbilical towers, in a Vehicle Assembly Building, and then a special crawler-transporter moved the entire vehicle stack to the launch pad in an upright position. In contrast, vehicles such as the Russian Soyuz rocket and the SpaceX Falcon 9 are assembled horizontally in a processing hangar, transported horizontally, and then brought upright at the pad.
+Passivation and space debris
+Spent upper stages of launch vehicles are a significant source of space debris remaining in orbit in a non-operational state for many years after use, and occasionally, large debris fields created from the breakup of a single upper stage while in orbit. 
+After the 1990s, spent upper stages are generally passivated after their use as a launch vehicle is complete in order to minimize risks while the stage remains derelict in orbit. Passivation means removing any sources of stored energy remaining on the vehicle, as by dumping fuel or discharging batteries.
+Many early upper stages, in both the Soviet and U.S. space programs, were not passivated after mission completion. During the initial attempts to characterize the space debris problem, it became evident that a good proportion of all debris was due to the breaking up of rocket upper stages, particularly unpassivated upper-stage propulsion units. 
+History and development
+An illustration and description in the 14th century Chinese Huolongjing by Jiao Yu and Liu Bowen shows the oldest known multistage rocket; this was the "fire-dragon issuing from the water" (火龙出水, huǒ lóng chū shuǐ), which was used mostly by the Chinese navy. It was a two-stage rocket that had booster rockets that would eventually burn out, yet before they did they automatically ignited a number of smaller rocket arrows that were shot out of the front end of the missile, which was shaped like a dragon's head with an open mouth. This multi-stage rocket may be considered the ancestor to the modern YingJi-62 ASCM. The British scientist and historian Joseph Needham points out that the written material and depicted illustration of this rocket come from the oldest stratum of the Huolongjing, which can be dated roughly 1300–1350 AD (from the book's part 1, chapter 3, page 23). 
+Another example of an early multistaged rocket is the Juhwa (走火) of Korean development. It was proposed by medieval Korean engineer, scientist and inventor Choe Museon and developed by the Firearms Bureau (火㷁道監) during the 14th century. The rocket had the length of 15 cm and 13 cm; the diameter was 2.2 cm. It was attached to an arrow 110 cm long; experimental records show that the first results were around 200m in range. There are records that show Korea kept developing this technology until it came to produce the Singijeon, or 'magical machine arrows' in the 16th century. The earliest experiments with multistage rockets in Europe were made in 1551 by Austrian Conrad Haas (1509–1576), the arsenal master of the town of Hermannstadt, Transylvania (now Sibiu/Hermannstadt, Romania). This concept was developed independently by at least five individuals:
+Polish–Lithuanian Kazimieras Simonavičius (1600–1651) 
+Russian Konstantin Tsiolkovsky (1857–1935)
+American Robert Goddard (1882–1945)
+German Hermann Oberth (1894–1989)
+French Louis Damblanc (1889–1969)
+The first high-speed multistage rockets were the RTV-G-4 Bumper rockets tested at the White Sands Proving Ground and later at Cape Canaveral from 1948 to 1950. These consisted of a V-2 rocket and a WAC Corporal sounding rocket. The greatest altitude ever reached was 393 km, attained on February 24, 1949, at White Sands.
+In 1947, the Soviet rocket engineer and scientist Mikhail Tikhonravov developed a theory of parallel stages, which he called "packet rockets". In his scheme, three parallel stages were fired from liftoff, but all three engines were fueled from the outer two stages, until they are empty and could be ejected. This is more efficient than sequential staging, because the second-stage engine is never just dead weight. In 1951, Soviet engineer and scientist Dmitry Okhotsimsky carried out a pioneering engineering study of general sequential and parallel staging, with and without the pumping of fuel between stages. The design of the R-7 Semyorka emerged from that study. The trio of rocket engines used in the first stage of the American Atlas I and Atlas II launch vehicles, arranged in a row, used parallel staging in a similar way: the outer pair of booster engines existed as a jettisonable pair which would, after they shut down, drop away with the lowermost outer skirt structure, leaving the central sustainer engine to complete the first stage's engine burn towards apogee or orbit.
+Separation events
+Separation of each portion of a multistage rocket introduces additional risk into the success of the launch mission. Reducing the number of separation events results in a reduction in complexity. Separation events occur when stages or strap-on boosters separate after use, when the payload fairing separates prior to orbital insertion, or when used, a launch escape system which separates after the early phase of a launch. Pyrotechnic fasteners, or in some cases pneumatic systems like on the Falcon 9 Full Thrust, are typically used to separate rocket stages.
+Three-stage-to-orbit
+The three-stage-to-orbit launch system is a commonly used rocket system to attain Earth orbit. The spacecraft uses three distinct stages to provide propulsion consecutively in order to achieve orbital velocity. It is intermediate between a four-stage-to-orbit launcher and a two-stage-to-orbit launcher.
+Examples of three-stage-to-orbit systems
+Saturn V
+Vanguard
+Ariane 4 (optional boosters)
+Ariane 2
+Ariane 1 (four stages)
+GSLV (three stages and boosters)
+PSLV (four stages)
+Proton (optional fourth stage)
+Long March 5 (optional boosters and optional third stage)
+Long March 1, Long March 1D
+Zenit-3SL
+Unha-3
+KSLV-2 "Nuri" 
+Examples of two stages with boosters
+Other designs (in fact, most modern medium- to heavy-lift designs) do not have all three stages inline on the main stack, instead having strap-on boosters for the "stage-0" with two core stages. In these designs, the boosters and first stage fire simultaneously instead of consecutively, providing extra initial thrust to lift the full launcher weight and overcome gravity losses and atmospheric drag. The boosters are jettisoned a few minutes into flight to reduce weight.
+US Space Shuttle — SRB first stage ; External Tank + SSME second stage ; OMS on internal tanks third stage ;
+Angara A5
+Ariane 5
+Atlas V 551
+Delta II third stage)
+Delta III
+Delta IV-Medium+ and -Heavy
+Falcon Heavy
+Geosynchronous Satellite Launch Vehicle Mk III (However, like the Titan IIIC, the GSLV MkIII is launched solely by the side boosters. The main core only ignites a few minutes into flight, shortly before the boosters are jettisoned.)
+H-IIA, H-IIB
+Soyuz
+Space Launch System
+Titan IV
+Long March 2E, Long March 2F, Long March 3B
+Four-stage-to-orbit
+The four-stage-to-orbit launch system is a rocket system used to attain Earth orbit. The spacecraft uses four distinct stages to provide propulsion consecutively in order to achieve orbital velocity. It is intermediate between a five-stage-to-orbit launcher and a three-stage-to-orbit launcher, most often used with solid-propellant launch systems.
+Examples of four-stage-to-orbit systems 
+Ariane 1
+PSLV
+Minotaur IV
+Proton (optional fourth stage)
+Minotaur V (five stages)
+ASLV (five stages)
+Examples of three stages with boosters[ 
+Other designs do not have all four stages inline on the main stack, instead having strap-on boosters for the "stage-0" with three core stages. In these designs, the boosters and first stage fire simultaneously instead of consecutively, providing extra initial thrust to lift the full launcher weight and overcome gravity losses and atmospheric drag. The boosters are jettisoned a few minutes into flight to reduce weight.
+Long March 5 (optional boosters and optional third stage)
+Extraterrestrial Rockets
+NASA-ESA Mars Ascent Vehicle(MAV) (A 2-stage rocket, planned launch from Mars in 2028)
+
+

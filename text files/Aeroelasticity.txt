@@ -29,12 +29,6 @@ Flow is highly non-linear in the transonic regime, dominated by moving shock wav
 Buffeting
 Buffeting is a high-frequency instability, caused by airflow separation or shock wave oscillations from one object striking another. It is caused by a sudden impulse of load increasing. It is a random forced vibration. Generally it affects the tail unit of the aircraft structure due to air flow downstream of the wing. 
 The methods for buffet detection are: Pressure coefficient diagram, Pressure divergence at trailing edge, Computing separation from trailing edge based on Mach number, Normal force fluctuating divergence
-
-
-
-
-
-
 Prediction and cure
 In the period 1950–1970, AGARD developed the Manual on Aeroelasticity which details the processes used in solving and verifying aeroelastic problems along with standard examples that can be used to test numerical solutions. 
 Aeroelasticity involves not just the external aerodynamic loads and the way they change but also the structural, damping and mass characteristics of the aircraft. Prediction involves making a mathematical model of the aircraft as a series of masses connected by springs and dampers which are tuned to represent the dynamic characteristics of the aircraft structure. The model also includes details of applied aerodynamic forces and how they vary.

@@ -4,7 +4,6 @@ While the term originally referred solely to operating the aircraft, it has sinc
 A significant part of aeronautical science is a branch of dynamics called aerodynamics, which deals with the motion of air and the way that it interacts with objects in motion, such as an aircraft.
 
 History
-Early ideas
 Attempts to fly without any real aeronautical understanding have been made from the earliest times, typically by constructing wings and jumping from a tower with crippling or lethal results. 
 Wiser investigators sought to gain some rational understanding through the study of bird flight. Medieval Islamic Golden Age scientists such as Abbas ibn Firnas also made such studies. The founders of modern aeronautics, Leonardo da Vinci in the Renaissance and Cayley in 1799, both began their investigations with studies of bird flight.
 Man-carrying kites are believed to have been used extensively in ancient China. In 1282 the Italian explorer Marco Polo described the Chinese techniques then current. The Chinese also constructed small hot air balloons, or lanterns, and rotary-wing toys.

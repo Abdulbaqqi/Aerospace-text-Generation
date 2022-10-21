@@ -1,0 +1,20 @@
+Leading edge
+The leading edge of an airfoil surface such as a wing is its foremost edge and is therefore the part which first meets the oncoming air. 
+Characteristics
+Sweep
+Seen in plan the leading edge may be straight, curved, kinked or a combination of these. A straight leading edge may be swept or unswept, while curves or kinks always mean that part of the leading edge is swept.
+On a swept wing the sweep angle may differ from that of the wing, as wing sweep is conventionally measured at the airfoil 25% chord line. However on a delta wing the leading edge sweep defines the wing sweep.
+Radius and stagnation point
+A rounded leading edge helps to maintain a smooth airflow at varying angles of incidence to the airflow. Most subsonic airfoils therefore have a rounded leading edge. The degree of rounding is characterised by the profile radius at that point.
+The airflow divides to pass either above or below the wing. The stagnation point on the leading edge profile is the point at which the flow divides and there is no flow either up or down. As the angle of incidence varies, the stagnation point will move a little up or down accordingly. 
+Airfoils optimised for supersonic flight have a sharp leading edge to minimise drag. Aircraft which must operate efficiently at both subsonic and supersonic speeds often compromise on a tightly-rounded leading edge.
+Droop
+When a wing is pitched up to a high angle of attack, the airflow above the wing can break away and the wing then stalls. Drooping the leading edge reduces the angle at which the airflow strikes the wing and helps to maintain smooth airflow and hence lift at higher angles and lower airspeeds.
+The problem is often most acute on the outer wing section near the tip, so leading-edge droop is often applied to the outer section only.
+Leading-edge droop can cause excessive drag in normal flight, so variable-position leading-edge droop flaps are sometimes used. An alternative to variable droop is the Krueger flap, which runs along below the leading edge and drops forwards and down when deployed to open a slot under the leading edge.
+Thermal effects
+In high-speed aircraft, compression heating of the air ahead of the wings can cause extreme heating of the leading edge. Heating was a major contributor to the destruction of the Space Shuttle Columbia during re-entry on February 1, 2003.
+
+Sail boats
+When sailing into the wind, the dynamics that propel a sailboat forward are the same that create lift for an airplane. The term leading edge refers to the part of the sail that first contacts the wind. A fine tapered leading edge that does not disturb the flow is desirable since 90% of the drag on a sailboat owing to sails is a result of vortex shedding from the edges of the sail. Sailboats utilize a mast to support the sail. To help reduce the drag and poor net sail performance, designers have experimented with masts that are more aerodynamically shaped, rotating masts, wing masts, or placed the mast behind the sails as in the mast aft rig.
+

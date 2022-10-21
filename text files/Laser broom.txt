@@ -1,0 +1,12 @@
+Laser broom
+A laser broom is a proposed ground-based laser beam-powered propulsion system whose purpose is to sweep space debris out of the path of other artificial satellites such as the International Space Station. It would heat one side of an object enough to change its orbit and make it hit the atmosphere sooner. Space researchers have proposed that a laser broom may help mitigate Kessler syndrome, a theoretical runaway cascade of collision events between orbiting objects. 
+Mechanism
+Lasers are designed to target debris between one and ten centimetres (0.4–3.9 in) in diameter. Collisions with such debris are commonly of such high velocity that considerable damage and numerous secondary fragments are the result. The laser broom is intended to be used at high enough power to penetrate through the atmosphere with enough remaining power to ablate material from the target. The ablating material imparts a small thrust that lowers its orbital perigee into the upper atmosphere, thereby increasing drag so that its remaining orbital life is short. The laser would operate in pulsed mode to avoid self-shielding of the target by the ablated plasma. The power levels of lasers in this concept are well below the power levels in concepts for more rapidly effective anti-satellite weapons.
+Research into this area demonstrates the precise physics involved, which shows that space debris orientation is significantly relevant to resultant trajectory of the ablated object. 
+Using a laser guide star and adaptive optics, a sufficiently large ground based laser (1 megajoule pulsed HF laser) can deorbit dozens of objects per day at reasonable cost. 
+History
+The Space Shuttle routinely showed evidence of "tiny" impacts upon post-flight inspection. 
+Orion was a proposed ground-based laser broom project in the 1990s, estimated to cost $500 million. 
+A space-based laser also called "Project Orion" was planned to be installed on the International Space Station in 2003. In 2015, Japanese researchers proposed adding laser broom capabilities to the Extreme Universe Space Observatory telescope, to be launched to the ISS in 2017. 
+In 2014, the European CLEANSPACE project published a report studying a global architecture of debris tracking and removal laser stations. 
+

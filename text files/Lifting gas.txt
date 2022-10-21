@@ -1,0 +1,76 @@
+Lifting gas
+A lifting gas or lighter than air gas is a gas that has a lower density than normal atmospheric gases and rises above them as a result. It is required for aerostats to create buoyancy, particularly in lighter-than-air aircraft, which include free balloons, moored balloons, and airships. Only certain lighter than air gases are suitable as lifting gases. Dry air has a density of about 1.29 g/L (gram per liter) at standard conditions for temperature and pressure (STP) and an average molecular mass of 28.97 g/mol, and so lighter than air gases have a density lower than this.
+
+Gases used for lifting
+Hot air
+Heated atmospheric air is frequently used in recreational ballooning. According to the Ideal gas law, an amount of gas (and also a mixture of gases such as air) expands as it is heated. As a result, a certain volume of gas has a lower density as the temperature is higher. The average temperature of air in a hot air balloon is about 212 °F (100 °C). 
+Hydrogen
+Hydrogen, being the lightest existing gas (7% the density of air), seems to be the most appropriate gas for lifting. It can be easily produced in large quantities, for example with the water-gas shift reaction or electrolysis, but hydrogen has several disadvantages:
+Hydrogen is extremely flammable. Some countries have banned the use of hydrogen as a lift gas for commercial vehicles but it is allowed for recreational free ballooning in the US, UK and Germany. The Hindenburg disaster is frequently cited as an example of the safety risks posed by hydrogen. The high cost of helium (compared to hydrogen) has led researchers to re-investigate the safety issues of using hydrogen as a lift gas; with good engineering and good handling practices, the risks can be significantly reduced. 
+Because the hydrogen molecule is very small, it can easily diffuse through many materials such as latex, so that the balloon will deflate quickly. This is one reason that many hydrogen or helium filled balloons are constructed out of Mylar/BoPET 
+Helium
+Helium is the second lightest gas. For that reason, it is an attractive gas for lifting as well.
+A major advantage is that this gas is noncombustible. But the use of helium has some disadvantages, too:
+The diffusion issue shared with Hydrogen (though, as Helium's molecular radius is smaller, it diffuses through more materials than Hydrogen).
+Helium is expensive.
+Although abundant in the universe, helium is very scarce on Earth. The only commercially viable reserves are a few natural gas wells, mostly in the US, that trapped it from the slow alpha decay of radioactive materials within Earth. By human standards helium is a non-renewable resource that cannot be practically manufactured from other materials. When released into the atmosphere, e.g., when a helium-filled balloon leaks or bursts, helium eventually escapes into space and is lost.
+Coal gas
+In the past, coal gas, a mixture of hydrogen, carbon monoxide and other gases, was also used in balloons. It was widely available and cheap; the down side was a higher density (reducing lift) and the high toxicity of the carbon monoxide.
+Ammonia
+Ammonia has been used as a lifting gas in balloons, but while inexpensive, it is relatively heavy (density 0.769 g/L at STP, average molecular mass 17.03 g/mol), poisonous, an irritant, and can damage some metals and plastics.
+Methane
+Methane (density 0.716 g/L at STP, average molecular mass 16.04 g/mol), the main component of natural gas, is sometimes used as a lift gas when hydrogen and helium are not available. It has the advantage of not leaking through balloon walls as rapidly as the smaller molecules of hydrogen and helium. Many lighter-than-air balloons are made of aluminized plastic that limits such leakage; hydrogen and helium leak rapidly through latex balloons. However, methane is highly flammable and like hydrogen is not appropriate for use in passenger-carrying airships. It is also relatively dense and a potent greenhouse gas.
+Combinations
+It is also possible to combine some of the above solutions. A well-known example is the Rozière balloon which combines a core of helium with an outer shell of hot air.
+Gases theoretically suitable for lifting
+Water vapour
+The gaseous state of water is lighter than air (density 0.804 g/L at STP, average molecular mass 18.015 g/mol) due to water's low molar mass when compared with typical atmospheric gases such as nitrogen gas (N2). It is non-flammable and much cheaper than helium. The concept of using steam for lifting is therefore already 200 years old. The biggest challenge has always been to make a material that can resist it. In 2003, a university team in Berlin, Germany, has successfully made a 150 °C steam lifted balloon. However, such a design is generally impractical due to high boiling point and condensation.
+Hydrogen fluoride
+Hydrogen fluoride is lighter than air and could theoretically be used as a lifting gas. However, it is extremely corrosive, highly toxic, expensive, is heavier than other lifting gases, and has a high boiling point of 19.5 °C. Its use would therefore be impractical.
+Acetylene
+Acetylene is 10% lighter than air and could be used as a lifting gas. Its extreme flammability and low lifting power make it an unattractive choice.
+Hydrogen cyanide
+Hydrogen cyanide, which is 7% lighter than air, is technically capable of being used as a lifting gas at temperatures above its boiling point of 25.6 °C. Its extreme toxicity, low buoyancy, and high boiling point have precluded such a use.
+Neon
+Neon is lighter than air (density 0.900 g/L at STP, average atomic mass 20.17 g/mol) and could lift a balloon. Like helium, it is non-flammable. However, it is rare on Earth and expensive, and is among the heavier lifting gases.
+Nitrogen
+Pure nitrogen has the advantage that it is inert and abundantly available, because it is the major component of air. However, because nitrogen is only 3% lighter than air, it is not an obvious choice for a lifting gas.
+Ethylene
+Ethylene is an unsaturated hydrocarbon that’s 3% less dense than air. Unlike nitrogen however, ethylene is highly flammable and far more expensive, rendering use as a lifting gas highly impractical.
+Diborane
+Diborane is slightly lighter than molecular nitrogen with a molecular mass of 27.7. Being pyrophoric it is however a major safety hazard, on a scale even greater than that of hydrogen.
+Vacuum
+Theoretically, an aerostatic vehicle could be made to use a vacuum or partial vacuum. As early as 1670, over a century before the first manned hot-air balloon flight, the Italian monk Francesco Lana de Terzi envisioned a ship with four vacuum spheres.
+In a theoretically perfect situation with weightless spheres, a 'vacuum balloon' would have 7% more net lifting force than a hydrogen-filled balloon, and 16% more net lifting force than a helium-filled one. However, because the walls of the balloon must be able to remain rigid without imploding, the balloon is impractical to construct with any known material. Despite that, sometimes there is discussion on the topic. 
+Hydrogen versus helium
+Hydrogen and helium are the most commonly used lift gases. Although helium is twice as heavy as (diatomic) hydrogen, they are both significantly lighter than air, making this difference negligible.
+The lifting power in air of hydrogen and helium can be calculated using the theory of buoyancy as follows:
+Thus helium is almost twice as dense as hydrogen. However, buoyancy depends upon the difference of the densities (ρgas) − (ρair) rather than upon their ratios. Thus the difference in buoyancies is about 8%, as seen from the buoyancy equation:
+FB = (ρair - ρgas) × g × V
+Where FB = Buoyant force (in Newton); g = gravitational acceleration = 9.8066 m/s2 = 9.8066 N/kg; V = volume (in m3). Therefore, the amount of mass that can be lifted by hydrogen in air at sea level, equal to the density difference between hydrogen and air, is:
+(1.292 - 0.090) kg/m3 = 1.202 kg/m3
+and the buoyant force for one m3 of hydrogen in air at sea level is:
+1 m3 × 1.202 kg/m3 × 9.8 N/kg= 11.8 N
+Therefore, the amount of mass that can be lifted by helium in air at sea level is:
+(1.292 - 0.178) kg/m3 = 1.114 kg/m3
+and the buoyant force for one m3 of helium in air at sea level is:
+1 m3 × 1.114 kg/m3 × 9.8 N/kg= 10.9 N
+Thus hydrogen's additional buoyancy compared to helium is:
+11.8 / 10.9 ≈ 1.08, or approximately 8.0%
+This calculation is at sea level at 0 °C. For higher altitudes, or higher temperatures, the amount of lift will decrease proportionally to the air density, but the ratio of the lifting capability of hydrogen to that of helium will remain the same. This calculation does not include the mass of the envelope need to hold the lifting gas.
+High-altitude ballooning
+At higher altitudes, the air pressure is lower and therefore the pressure inside the balloon is also lower. This means that while the mass of lifting gas and mass of displaced air for a given lift are the same as at lower altitude, the volume of the balloon is much greater at higher altitudes.
+A balloon that is designed to lift to extreme heights (stratosphere), must be able to expand enormously in order to displace the required amount of air. That is why such balloons seem almost empty at launch, as can be seen in the photo.
+A different approach for high altitude ballooning, especially used for long duration flights is the superpressure balloon. A superpressure balloon maintains a higher pressure inside the balloon than the external (ambient) pressure.
+Submerged balloons
+Because of the enormous density difference between water and gases (water is about 1,000 times denser than most gases), the lifting power of underwater gases is very strong. The type of gas used is largely inconsequential because the relative differences between gases is negligible in relation to the density of water. However, some gases can liquefy under high pressure, leading to an abrupt loss of buoyancy.
+A submerged balloon that rises will expand or even explode because of the strong pressure reduction, unless gas is able to escape continuously during the ascent or the balloon is strong enough to withstand the change in pressure.
+Balloons on other celestial bodies
+A balloon can only have buoyancy if there is a medium that has a higher average density than the balloon itself.
+Balloons cannot work on the Moon because it has no atmosphere.
+Mars has a very thin atmosphere – the pressure is only 1⁄160 of earth atmospheric pressure – so a huge balloon would be needed even for a tiny lifting effect. Overcoming the weight of such a balloon would be difficult, but several proposals to explore Mars with balloons have been made. 
+Venus has a CO2 atmosphere. Because CO2 is about 50% denser than Earth air, ordinary Earth air could be a lifting gas on Venus. This has led to proposals for a human habitat that would float in the atmosphere of Venus at an altitude where both the pressure and the temperature are Earth-like. Because the atmosphere of Venus contains no oxygen, hydrogen is not flammable there, and could be a good lifting gas as well. In 1985, the Soviet Vega program deployed two helium balloons in Venus's atmosphere at an altitude of 54 km (34 mi).
+Titan, Saturn's largest moon, has a dense, very cold atmosphere of mostly nitrogen that is appropriate for ballooning. A use of aerobots on Titan was proposed. The Titan Saturn System Mission proposal included a balloon to circumnavigate Titan.
+Solids
+In 2002, aerogel held the Guinness World Record for the least dense (lightest) solid. Aerogel is mostly air because its structure is like that of a highly vacuous sponge. The lightness and low density is due primarily to the large proportion of air within the solid and not the silicon construction materials. Taking advantage of this, SEAgel, in the same family as aerogel but made from agar, can be filled with helium gas to create a solid which floats when placed in an open top container filled with a dense gas. 
+

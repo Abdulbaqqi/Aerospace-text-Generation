@@ -2,8 +2,6 @@ Attitude control
 Attitude control is the process of controlling the orientation of an aerospace vehicle with respect to an inertial frame of reference or another entity such as the celestial sphere, certain fields, and nearby objects, etc.
 Controlling vehicle attitude requires sensors to measure vehicle orientation, actuators to apply the torques needed to orient the vehicle to a desired attitude, and algorithms to command the actuators based on (1) sensor measurements of the current attitude and (2) specification of a desired attitude. The integrated field that studies the combination of sensors, actuators and algorithms is called guidance, navigation and control (GNC).
 Aircraft attitude control
-
-
 An aircraft's attitude is stabilized in three directions: yaw, nose left or right about an axis running up and down; pitch, nose up or down about an axis running from wing to wing; and roll, rotation about an axis running from nose to tail. Elevators (moving flaps on the horizontal tail) produce pitch, a rudder on the vertical tail produces yaw, and ailerons (flaps on the wings that move in opposing directions) produce roll.
 Spacecraft attitude control
 A spacecraft's attitude must typically be stabilized and controlled for a variety of reasons. It is often needed so that the spacecraft high-gain antenna may be accurately pointed to Earth for communications, so that onboard experiments may accomplish precise pointing for accurate collection and subsequent interpretation of data, so that the heating and cooling effects of sunlight and shadow may be used intelligently for thermal control, and also for guidance: short propulsive maneuvers must be executed in the right direction.

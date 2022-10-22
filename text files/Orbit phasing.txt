@@ -1,0 +1,5 @@
+Orbit phasing
+In astrodynamics, orbit phasing is the adjustment of the time-position of spacecraft along its orbit, usually described as adjusting the orbiting spacecraft's true anomaly. Orbital phasing is primarily used in scenarios where a spacecraft in a given orbit must be moved to a different location within the same orbit. The change in position within the orbit is usually defined as the phase angle, ϕ, and is the change in true anomaly required between the spacecraft's current position to the final position. The phase angle can be converted in terms of time using Kepler's Equation.
+Orbit phasing can also be referenced as co-orbital rendezvous like a successful approach to a space station in a docking maneuver. Here, two spacecraft on the same orbit but at different true anomalies rendezvous by either one or both of the spacecraft entering phasing orbits which cause them to return to their original orbit at the same true anomaly at the same time.
+Phasing maneuvers are also commonly employed by geosynchronous satellites, either to conduct station-keeping maneuvers to maintain their orbit above a specific longitude, or to change longitude altogether.
+ 

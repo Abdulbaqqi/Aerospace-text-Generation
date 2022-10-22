@@ -1,0 +1,2 @@
+Parallel axis theorem
+The parallel axis theorem, also known as Huygens–Steiner theorem, or just as Steiner's theorem, named after Christiaan Huygens and Jakob Steiner, can be used to determine the moment of inertia or the second moment of area of a rigid body about any axis, given the body's moment of inertia about a parallel axis through the object's center of gravity and the perpendicular distance between the axes.

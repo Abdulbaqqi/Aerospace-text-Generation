@@ -1,0 +1,6 @@
+Perpendicular axis theorem
+The perpendicular axis theorem states that the moment of inertia of a planar lamina (i.e. 2-D body) about an axis perpendicular to the plane of the lamina is equal to the sum of the moments of inertia of the lamina about the two axes at right angles to each other, in its own plane intersecting each other at the point where the perpendicular axis passes through it.
+Define perpendicular axes(which meet at origin ) so that the body lies in the   plane, and the   axis is perpendicular to the plane of the body. Let Ix, Iy and Iz be moments of inertia about axis x, y, z respectively. 
+This rule can be applied with the parallel axis theorem and the stretch rule to find polar moments of inertia for a variety of shapes.
+If a planar object has rotational symmetry such that   and   are equal, then the perpendicular axes theorem provides the useful relationship:
+

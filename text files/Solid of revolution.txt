@@ -1,0 +1,7 @@
+Solid of revolution
+In geometry, a solid of revolution is a solid figure obtained by rotating a plane figure around some straight line (the axis of revolution) that lies on the same plane. The surface created by this revolution and which bounds the solid is the surface of revolution.
+Assuming that the curve does not cross the axis, the solid's volume is equal to the length of the circle described by the figure's centroid multiplied by the figure's area (Pappus's second centroid theorem).
+A representative disc is a three-dimensional volume element of a solid of revolution. The element is created by rotating a line segment (of length w) around some axis (located r units away), so that a cylindrical volume of πr2w units is enclosed.
+Finding the volume
+Two common methods for finding the volume of a solid of revolution are the disc method and the shell method of integration. To apply these methods, it is easiest to draw the graph in question; identify the area that is to be revolved about the axis of revolution; determine the volume of either a disc-shaped slice of the solid, with thickness δx, or a cylindrical shell of width δx; and then find the limiting sum of these volumes as δx approaches 0, a value which may be found by evaluating a suitable integral. A more rigorous justification can be given by attempting to evaluate a triple integral in cylindrical coordinates with two different orders of integration.
+
